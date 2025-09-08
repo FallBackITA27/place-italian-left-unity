@@ -2,6 +2,13 @@ This readme is meant to document everything by the group Italia Antifascista act
 
 Questo readme dovrebbe documentare tutto del gruppo Italia Antifascista su wplace.
 
+Indice
+- [Struttura della Repo](#struttura-della-repo)
+- [Lista colori](#lista-colori)
+- [Progetti](#progetti)
+  1. [El Che (Livorno)](#el-che-livorno)
+  2. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
+
 # Struttura della Repo
 Eccetto il README.md, in questa repo potrete trovare la cartella `/templates/`, questi template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
 

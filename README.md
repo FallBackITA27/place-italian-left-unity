@@ -7,7 +7,8 @@ Indice
 - [Lista colori](#lista-colori)
 - [Progetti](#progetti)
   1. [El Che (Livorno)](#el-che-livorno)
-  2. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
+  1. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
+  1. [Antifa (Ravenna)](#antifa-ravenna)
 
 # Struttura della Repo
 Eccetto il README.md, in questa repo potrete trovare la cartella `/templates/`, questi template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
@@ -92,7 +93,7 @@ Colori Sbloccabili
 # Lista dei progetti
 
 ## El Che (Livorno)
-![Che a Livorno](/templates/che_livorno.png)
+![El Che (Livorno)](/templates/che_livorno.png)
 
 - Coordinate: [(Tl X: 1083, Tl Y: 750, Px X: 402, Px Y: 380)](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578050964265982)
 - Link Template: [/templates/che_livorno.png](/templates/che_livorno.png)
@@ -107,5 +108,6 @@ Colori Sbloccabili
   1. Dark Brown: 4
   1. Dark Pink: 1
 
-
 ## 99Posse (Predappio, Forlì)
+
+## Antifa (Ravenna)

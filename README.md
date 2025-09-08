@@ -14,74 +14,73 @@ Per ogni progetto, potrete trovare:
 Inclusa per chi vuole lavorare in un programma per creare un template da 0
 
 Colori Gratis
-- Black `#000`
-- Dark Gray `#3c3c3c`
+- Black `#000000`
+- Dark Gray `#3C3C3C`
 - Gray `#787878`
-- Light Gray `#d2d2d2`
-- White `#fff`
-- Deep Red
-- Red
-- Orange
-- Gold
-- Yellow
-- Light Yellow
-- Dark Green
-- Green
-- Light Green
-- Dark Teal
-- Teal
-- Light Teal
-- Dark Blue
-- Blue
-- Cyan
-- Indigo
-- Light Indigo
-- Dark Purple
-- Purple
-- Light Purple​
-- Dark Pink
-- Pink
-- Light Pink
-- Dark Brown
-- Brown
-- Beige
+- Light Gray `#D2D2D2`
+- White `#FFFFFF`
+- Deep Red `#600018`
+- Red `#ED1C24`
+- Orange `#FF7F27`
+- Gold `#F6AA09`
+- Yellow `#F9DD3B`
+- Light Yellow `#FFFABC`
+- Dark Green `#0EB968`
+- Green `#13E67B`
+- Light Green `#87FF5E`
+- Dark Teal `#0C816E`
+- Teal `#10AE82`
+- Light Teal `#13E1BE`
+- Dark Blue `#60F7F2`
+- Blue `#28509E`
+- Cyan `#4093E4`
+- Indigo `#6B50F6`
+- Light Indigo `#99B1FB`
+- Dark Purple `#780C99`
+- Purple `#AA38B9`
+- Light Purple​ `#E09FF9`
+- Dark Pink `#CB007A`
+- Pink `#EC1F80`
+- Light Pink `#F38DA9`
+- Dark Brown `#684634`
+- Brown `#95682A`
+- Beige `#F8B277`
 - Transparent
-- Colore Qualsiasi `#deface` 
-  
-Colori Sbloccabili
-- Medium Gray
-- Dark Red
-- Light Red
-- Dark Orange
-- Dark Goldenrod
-- Goldenrod
-- Light Goldenrod
-- Dark Olive
-- Olive
-- Light Olive
-- Dark Cyan
-- Light Cyan
-- Light Blue
-- Dark Indigo
-- Dark Slate Blue
-- Slate Blue
-- Light Slate Blue
-- Dark Peach
-- Peach
-- Light Peach
-- Light Brown
-- Dark Tan
-- Tan
-- Light Tan
-- Dark Beige
-- Light Beige
-- Dark Stone
-- Stone
-- Light Stone
-- Dark Slate
-- Slate
-- Light Slate 
+- Colore Qualsiasi `#DEFACE` 
 
+Colori Sbloccabili
+- Medium Gray `#AAAAAA`
+- Dark Red `#A50E1E`
+- Light Red `#FA8072`
+- Dark Orange `#E45C1A`
+- Dark Goldenrod `#9C8431`
+- Goldenrod `#C5AD31`
+- Light Goldenrod `#E8D45F`
+- Dark Olive `#4A6B3A`
+- Olive `#5A944A`
+- Light Olive `#84C573`
+- Dark Cyan `#0F799F`
+- Light Cyan `#BBFAF2`
+- Light Blue `#7DC7FF`
+- Dark Indigo `#4D31B8`
+- Dark Slate Blue `#4A4284`
+- Slate Blue `#7A71C4`
+- Light Slate Blue `#B5AEF1`
+- Dark Peach `#9B5249`
+- Peach `#D18078`
+- Light Peach `#FAB6A4`
+- Light Brown `#DBA463`
+- Dark Tan `#7B6352`
+- Tan `#9C846B`
+- Light Tan `#D6B594`
+- Dark Beige `#D18051`
+- Light Beige `#FFC5A5`
+- Dark Stone `#6D643F`
+- Stone `#948C6B`
+- Light Stone `#CDC59E`
+- Dark Slate `#333941`
+- Slate `#6D758D`
+- Light Slate `#B3B9D1`
 
 # Lista dei progetti
 

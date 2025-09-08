@@ -92,8 +92,20 @@ Colori Sbloccabili
 # Lista dei progetti
 
 ## El Che (Livorno)
+![Che a Livorno](/templates/che_livorno.png)
+
 - Coordinate: [(Tl X: 1083, Tl Y: 750, Px X: 402, Px Y: 380)](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578050964265982)
 - Link Template: [/templates/che_livorno.png](/templates/che_livorno.png)
-- ![Che a Livorno](/templates/che_livorno.png)
+- Lista Pixel: (Totale: 11024, 92 ore)
+  1. Red: 7298
+  1. Black: 2906
+  1. White: 903
+  1. Deep Red: 58
+  1. Light Gray: 29
+  1. Dark Gray: 18
+  1. Gray: 7
+  1. Dark Brown: 4
+  1. Dark Pink: 1
+
 
 ## 99Posse (Predappio, Forlì)

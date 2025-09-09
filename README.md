@@ -109,5 +109,26 @@ Colori Sbloccabili
   1. Dark Pink: 1
 
 ## 99Posse (Predappio, Forlì)
+![99Posse (Predappio, Forlì)](/templates/99posse_predappio.png)
+
+- Coordinate: [(Tl X: 1092, Tl Y: 743, Px X: 153, Px Y: 676)](https://wplace.live/?lat=44.12841615759932&lng=11.980107090527323&zoom=17.5)
+- Link Template: [/templates/99posse_predappio.png](/templates/99posse_predappio.png)
+- Lista Pixel: (Totale: 2482, 21 ore)
+  1. Red: 1,030
+  1. Black: 816
+  1. Dark Teal: 187
+  1. Dark Red: 165
+  1. Yellow: 130
+  1. Deep Red: 44
+  1. Dark Olive: 28
+  1. Dark Brown: 19
+  1. Goldenrod: 18
+  1. Light Goldenrod: 14
+  1. Dark Goldenrod: 11
+  1. Brown: 6
+  1. Gold: 6
+  1. Dark Gray: 6
+  1. Dark Green: 1
+  1. Light Yellow: 1
 
 ## Antifa (Ravenna)

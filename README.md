@@ -133,10 +133,17 @@ Colori Sbloccabili
   1. Light Yellow: 1
 
 ## Antifa (Ravenna)
-![99Posse (Predappio, Forlì)](/templates/99posse_predappio.png)
+![Antifa (Ravenna)](/templates/antifa_ravenna.png)
 
 - Coordinate: [(Tl X: 1092, Tl Y: 741, Px X: 599, Px Y: 91)](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164317610825215)
 - Link Template: [/templates/antifa_ravenna.png](/templates/antifa_ravenna.png)
-- Lista Pixel: ()
+- Lista Pixel: (Totale: 146626, 1221 ore)
+  1. White: 52519
+  1. Black: 50784
+  1. Red: 41256
+  1. Light Gray: 944
+  1. Gray: 565
+  1. Dark Gray: 558
+
 
 # Cimitero dei Bozo

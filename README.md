@@ -167,11 +167,11 @@ Colori Sbloccabili
 Tutti i griefer bannati
 
 Watys #1540530
-GreedySpade #11141860
-Vividknife #10904807 [partito fascista]
-Unknown #7618347 [partito fascista]
-Unknown #10905204 [partito fascista]
-snairaM #10147604
-Msriana #10715660
-Narsaim #10144939
-PlainDustpan #1442115 [THE ZONE]
+- GreedySpade #11141860
+- Vividknife #10904807 [partito fascista]
+- Unknown #7618347 [partito fascista]
+- Unknown #10905204 [partito fascista]
+- snairaM #10147604
+- Msriana #10715660
+- Narsaim #10144939
+- PlainDustpan #1442115 [THE ZONE]

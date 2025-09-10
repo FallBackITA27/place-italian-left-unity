@@ -9,7 +9,8 @@ Indice
   1. [El Che (Livorno)](#el-che-livorno)
   1. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
   1. [Antifa (Ravenna)](#antifa-ravenna)
-- [Cimitero dei Bozo](#cimitero-dei-bozo)
+- [Lista Griefer](#lista-griefer)
+  - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
 # Struttura della Repo
 Eccetto il README.md, in questa repo potrete trovare la cartella `/templates/`, questi template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
@@ -145,5 +146,31 @@ Colori Sbloccabili
   1. Gray: 565
   1. Dark Gray: 558
 
+# Lista Griefer
+- NoCommie #2005025
+- No Communism #7039774
+- Clown Show #8371675
+- [SPQR] Rokyff9 #970884
+- Bibi Netanyahu #11304440
+- Soycuck #87336385
+- RPH #114013
+- MoodyClip #8704664 
+- SwiftFrame #8151974 
+- KindCouch #8718149 
+- SaltyLupo #11208701
 
-# Cimitero dei Bozo
+## Clan di nota
+- Faenza Merda
+
+## Cimitero dei Bozo
+Tutti i griefer bannati
+
+Watys #1540530
+GreedySpade #11141860
+Vividknife #10904807 [partito fascista]
+Unknown #7618347 [partito fascista]
+Unknown #10905204 [partito fascista]
+snairaM #10147604
+Msriana #10715660
+Narsaim #10144939
+PlainDustpan #1442115 [THE ZONE]

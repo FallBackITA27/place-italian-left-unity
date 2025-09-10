@@ -9,6 +9,7 @@ Indice
   1. [El Che (Livorno)](#el-che-livorno)
   1. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
   1. [Antifa (Ravenna)](#antifa-ravenna)
+- [Cimitero dei Bozo](#cimitero-dei-bozo)
 
 # Struttura della Repo
 Eccetto il README.md, in questa repo potrete trovare la cartella `/templates/`, questi template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
@@ -90,7 +91,7 @@ Colori Sbloccabili
 - Slate `#6D758D`
 - Light Slate `#B3B9D1`
 
-# Lista dei progetti
+# Progetti
 
 ## El Che (Livorno)
 ![El Che (Livorno)](/templates/che_livorno.png)
@@ -132,3 +133,10 @@ Colori Sbloccabili
   1. Light Yellow: 1
 
 ## Antifa (Ravenna)
+![99Posse (Predappio, Forlì)](/templates/99posse_predappio.png)
+
+- Coordinate: [(Tl X: 1092, Tl Y: 741, Px X: 599, Px Y: 91)](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164317610825215)
+- Link Template: [/templates/antifa_ravenna.png](/templates/antifa_ravenna.png)
+- Lista Pixel: ()
+
+# Cimitero dei Bozo

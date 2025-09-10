@@ -149,15 +149,16 @@ Colori Sbloccabili
 # Lista Griefer
 - NoCommie #2005025
 - No Communism #7039774
+  * Probabilmente un alt di NoCommie #2005025
 - Clown Show #8371675
-- [SPQR] Rokyff9 #970884
+- [SPQR] Rokyff9 #970884 [Versilia squad]
 - Bibi Netanyahu #11304440
 - Soycuck #87336385
 - RPH #114013
+- SaltyLupo #11208701
 - MoodyClip #8704664 
 - SwiftFrame #8151974 
 - KindCouch #8718149 
-- SaltyLupo #11208701
 
 ## Clan di nota
 - Faenza Merda

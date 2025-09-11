@@ -147,18 +147,27 @@ Colori Sbloccabili
   1. Dark Gray: 558
 
 # Lista Griefer
+Il formato è `Nome #Id [Alleanza]`
+
+Gli account dichiarati Alt è per presentimento e coincidenze negli orari di attività e nelle attività stesse.
+
 - NoCommie #2005025
+  * Alt Gruppo A
 - No Communism #7039774
-  * Probabilmente un alt di NoCommie #2005025
+  * Alt Gruppo A
 - Clown Show #8371675
 - [SPQR] Rokyff9 #970884 [Versilia squad]
 - Bibi Netanyahu #11304440
 - Soycuck #87336385
 - RPH #114013
 - SaltyLupo #11208701
-- MoodyClip #8704664 
-- SwiftFrame #8151974 
-- KindCouch #8718149 
+- MoodyClip #8704664
+  * Alt Gruppo B
+- SwiftFrame #8151974
+  * Alt Gruppo B 
+- KindCouch #8718149
+  * Alt Gruppo B
+- EarlySoap #11440398
 
 ## Clan di nota
 - Faenza Merda

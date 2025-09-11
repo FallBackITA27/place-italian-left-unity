@@ -55,8 +55,8 @@ Colori Gratis
 - Dark Brown `#684634`
 - Brown `#95682A`
 - Beige `#F8B277`
-- Transparent
-- Colore Qualsiasi `#DEFACE` 
+- Transparent `#DEFACE`
+- Colore Qualsiasi `(Trasparente)`
 
 Colori Sbloccabili
 - Medium Gray `#AAAAAA`

@@ -153,6 +153,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 
 - NoCommie #2005025
   * Alt Gruppo A
+  * Conosciuta anche come GaiaBacon, è una fascistoide toscana
 - No Communism #7039774
   * Alt Gruppo A
 - Clown Show #8371675

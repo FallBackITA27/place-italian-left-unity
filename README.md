@@ -9,11 +9,16 @@ Indice
   1. [El Che (Livorno)](#el-che-livorno)
   1. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
   1. [Antifa (Ravenna)](#antifa-ravenna)
+  1. [Bandiera Palestinese (Ravenna)](#bandiera-palestinese-ravenna)
 - [Lista Griefer](#lista-griefer)
   - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
 # Struttura della Repo
-Eccetto il README.md, in questa repo potrete trovare la cartella `/templates/`, questi template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
+Eccetto il README.md, in questa repo potrete trovare:
+
+la cartella `/templates/`, questi template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
+
+la cartella `/scripts/`, una serie di script fatti per Italia Antifascista.
 
 Per ogni progetto, potrete trovare:
 - Le coordinate del pixel in alto a sinistra (Tile e Pixel)
@@ -145,6 +150,17 @@ Colori Sbloccabili
   1. Light Gray: 944
   1. Gray: 565
   1. Dark Gray: 558
+
+## Bandiera Palestinese (Ravenna)
+![Bandiera Palestinese (Ravenna)](/templates/palball_ravenna.png)
+
+- Coordinate: [(Tl X: 1093, Tl Y: 741, Px X: 100, Px Y: 300)](https://wplace.live/?lat=44.42744106125955&lng=12.14657193427734&zoom=17.55340120294935)
+- Link Template: [/templates/palball_ravenna.png](/templates/palball_ravenna.png)
+- Lista Pixel: (Totale: 45192, 377 ore)
+  1. Dark Teal: 11417
+  1. Red: 11379
+  1. Black: 11264
+  1. White: 11132
 
 # Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

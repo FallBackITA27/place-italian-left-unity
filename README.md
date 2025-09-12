@@ -185,6 +185,9 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - KindCouch #8718149
   * Alt Gruppo B
 - EarlySoap #11440398
+- VivaLaDEA #11513856
+- PraiseTheDuxess #10232762
+- LodeAllaDux #11513628
 
 ## Clan di nota
 - Faenza Merda

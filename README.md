@@ -172,6 +172,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Conosciuta anche come GaiaBacon, è una fascistoide toscana
 - No Communism #7039774
   * Alt Gruppo A
+- VivaLaDEA #11513856
+  * Alt Gruppo A
+- PraiseTheDuxess #10232762
+  * Alt Gruppo A
+- LodeAllaDux #11513628
+  * Alt Gruppo A
+- VivaLaDuxs #10232618 
+  * Alt Gruppo A
 - Clown Show #8371675
 - [SPQR] Rokyff9 #970884 [Versilia squad]
 - Bibi Netanyahu #11304440
@@ -185,14 +193,6 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - KindCouch #8718149
   * Alt Gruppo B
 - EarlySoap #11440398
-- VivaLaDEA #11513856
-  * Alt Gruppo C
-- PraiseTheDuxess #10232762
-  * Alt Gruppo C
-- LodeAllaDux #11513628
-  * Alt Gruppo C
-- VivaLaDuxs #10232618 
-  * Alt Gruppo C
 
 ## Clan di nota
 - Faenza Merda

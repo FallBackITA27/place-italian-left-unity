@@ -193,6 +193,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - KindCouch #8718149
   * Alt Gruppo B
 - EarlySoap #11440398
+- TallSoap #7618347 [Partito Fascista]
 
 ## Clan di nota
 - Faenza Merda
@@ -202,9 +203,9 @@ Tutti i griefer bannati
 
 Watys #1540530
 - GreedySpade #11141860
-- Vividknife #10904807 [partito fascista]
-- Unknown #7618347 [partito fascista]
-- Unknown #10905204 [partito fascista]
+- Vividknife #10904807 [Partito Fascista]
+- Unknown #7618347 [Partito Fascista]
+- Unknown #10905204 [Partito Fascista]
 - snairaM #10147604
 - Msriana #10715660
 - Narsaim #10144939

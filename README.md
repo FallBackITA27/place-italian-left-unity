@@ -186,8 +186,13 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo B
 - EarlySoap #11440398
 - VivaLaDEA #11513856
+  * Alt Gruppo C
 - PraiseTheDuxess #10232762
+  * Alt Gruppo C
 - LodeAllaDux #11513628
+  * Alt Gruppo C
+- VivaLaDuxs #10232618 
+  * Alt Gruppo C
 
 ## Clan di nota
 - Faenza Merda

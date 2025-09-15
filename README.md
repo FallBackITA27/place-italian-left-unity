@@ -1,31 +1,35 @@
-This readme is meant to document everything by the group Italia Antifascista active on wplace. Enjoy the pretty Italian words on this document.
+This readme is meant to document everything by the group Italian Left Unity active on various place sites. Enjoy the pretty Italian words on this document.
 
-Questo readme dovrebbe documentare tutto del gruppo Italia Antifascista su wplace.
+Questo readme dovrebbe documentare tutto del gruppo Italian Left Unity su vari siti simil-place.
 
 Indice
 - [Struttura della Repo](#struttura-della-repo)
-- [Lista colori](#lista-colori)
-- [Progetti](#progetti)
-  1. [El Che (Livorno)](#el-che-livorno)
-  1. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
-  1. [Antifa (Ravenna)](#antifa-ravenna)
-  1. [Bandiera Palestinese (Ravenna)](#bandiera-palestinese-ravenna)
-- [Lista Griefer](#lista-griefer)
-  - [Cimitero dei Bozo](#cimitero-dei-bozo) 
+- [Wplace](#wplace)
+  - [Lista colori](#lista-colori)
+  - [Progetti](#progetti)
+    1. [El Che (Livorno)](#el-che-livorno)
+    1. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
+    1. [Antifa (Ravenna)](#antifa-ravenna)
+    1. [Bandiera Palestinese (Ravenna)](#bandiera-palestinese-ravenna)
+  - [Lista Griefer](#lista-griefer)
+    - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
 # Struttura della Repo
 Eccetto il README.md, in questa repo potrete trovare:
 
-la cartella `/templates/`, questi template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
+la cartella `/templates/`, ogni subfolder è fatta per un sito specifico:
 
-la cartella `/scripts/`, una serie di script fatti per Italia Antifascista.
+la cartella `/scripts/`, una serie di script fatti per Italian Left Unity.
+
+# Wplace
+Nella cartella `/templates/wplace/`, i template sono fatti per essere utilizzati con lo userscript [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
 
 Per ogni progetto, potrete trovare:
 - Le coordinate del pixel in alto a sinistra (Tile e Pixel)
 - Il link all'immagine del template
 - I pixel per colore
 
-# Lista colori
+## Lista colori
 Inclusa per chi vuole lavorare in un programma per creare un template da 0
 
 Colori Gratis
@@ -97,9 +101,9 @@ Colori Sbloccabili
 - Slate `#6D758D`
 - Light Slate `#B3B9D1`
 
-# Progetti
+## Progetti
 
-## El Che (Livorno)
+### El Che (Livorno)
 ![El Che (Livorno)](/templates/che_livorno.png)
 
 - Coordinate: [(Tl X: 1083, Tl Y: 750, Px X: 402, Px Y: 380)](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578050964265982)
@@ -115,7 +119,7 @@ Colori Sbloccabili
   1. Dark Brown: 4
   1. Dark Pink: 1
 
-## 99Posse (Predappio, Forlì)
+### 99Posse (Predappio, Forlì)
 ![99Posse (Predappio, Forlì)](/templates/99posse_predappio.png)
 
 - Coordinate: [(Tl X: 1092, Tl Y: 743, Px X: 153, Px Y: 676)](https://wplace.live/?lat=44.12841615759932&lng=11.980107090527323&zoom=17.5)
@@ -138,7 +142,7 @@ Colori Sbloccabili
   1. Dark Green: 1
   1. Light Yellow: 1
 
-## Antifa (Ravenna)
+### Antifa (Ravenna)
 ![Antifa (Ravenna)](/templates/antifa_ravenna.png)
 
 - Coordinate: [(Tl X: 1092, Tl Y: 741, Px X: 599, Px Y: 91)](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164317610825215)
@@ -151,7 +155,7 @@ Colori Sbloccabili
   1. Gray: 565
   1. Dark Gray: 558
 
-## Bandiera Palestinese (Ravenna)
+### Bandiera Palestinese (Ravenna)
 ![Bandiera Palestinese (Ravenna)](/templates/palball_ravenna.png)
 
 - Coordinate: [(Tl X: 1093, Tl Y: 741, Px X: 100, Px Y: 300)](https://wplace.live/?lat=44.42744106125955&lng=12.14657193427734&zoom=17.55340120294935)
@@ -162,7 +166,7 @@ Colori Sbloccabili
   1. Black: 11264
   1. White: 11132
 
-# Lista Griefer
+## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
 
 Gli account dichiarati Alt è per presentimento e coincidenze negli orari di attività e nelle attività stesse.
@@ -195,10 +199,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - EarlySoap #11440398
 - TallSoap #7618347 [Partito Fascista]
 
-## Clan di nota
-- Faenza Merda
-
-## Cimitero dei Bozo
+### Cimitero dei Bozo
 Tutti i griefer bannati
 
 Watys #1540530

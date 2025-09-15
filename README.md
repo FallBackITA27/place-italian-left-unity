@@ -202,7 +202,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 ### Cimitero dei Bozo
 Tutti i griefer bannati
 
-Watys #1540530
+- Watys #1540530
 - GreedySpade #11141860
 - Vividknife #10904807 [Partito Fascista]
 - Unknown #7618347 [Partito Fascista]

@@ -174,6 +174,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - NoCommie #2005025
   * Alt Gruppo A
   * Conosciuta anche come GaiaBacon o LaDeaNera, è una fascistoide toscana
+  * Grief continuo e costante sia del Che, sia della bandiera palestinese a Ravenna, che del logo Antifa a Ravenna, sommati ad altri grief e pubblicità ad Italian Empire in quanto "Server per riunire i camerati"
 - No Communism #7039774
   * Alt Gruppo A
 - VivaLaDEA #11513856
@@ -186,17 +187,24 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo A
 - Clown Show #8371675
 - [SPQR] Rokyff9 #970884 [Versilia squad]
+  * Grief costanti al Che a Livorno
 - Bibi Netanyahu #11304440
+  * Grief costanti al Che a Livorno
 - Soycuck #87336385
+  * Grief costanti al Che a Livorno
 - RPH #114013
+  * Grief costanti al Che a Livorno
 - SaltyLupo #11208701
+  * Grief costanti al Che a Livorno
 - MoodyClip #8704664
   * Alt Gruppo B
+  * Grief costanti al Che a Livorno
 - SwiftFrame #8151974
   * Alt Gruppo B 
 - KindCouch #8718149
   * Alt Gruppo B
 - EarlySoap #11440398
+  * Grief costanti al Che a Livorno
 - TallSoap #7618347 [Partito Fascista]
 
 ### Cimitero dei Bozo

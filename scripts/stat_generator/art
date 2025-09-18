@@ -29,7 +29,32 @@ Frase Antifa (Ravenna)
 (Tl X: 1093, Tl Y: 741, Px X: 48, Px Y: 573)
 lat=44.39052300717444&lng=12.150614903027328&zoom=15.217751475790196
 
+OSA (Santo Stefano, Ravenna)
+/templates/wplace/osa_ravenna.png
+(Tl X: 1093, Tl Y: 742, Px X: 184, Px Y: 161)
+lat=44.31925809973999&lng=12.161337559277339&zoom=13.504160107323138
+
 PCI (Andria)
 /templates/wplace/pci_andria.png
 (Tl X: 1116, Tl Y: 765, Px X: 975, Px Y: 917)
 lat=41.25567570038606&lng=16.34334927802734&zoom=14.586364759278888
+
+Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)
+/templates/wplace/sfsn_panicarola.png
+(Tl X: 1092, Tl Y: 751, Px X: 810, Px Y: 923)
+lat=43.073318140381474&lng=12.098935215527316&zoom=13.536951255171807
+
+Raising a Flag over the Reichstag (Panicarola, Perugia)
+/templates/wplace/soviet_berlin_panicarola.png
+(Tl X: 1092, Tl Y: 751, Px X: 697, Px Y: 935)
+lat=43.07396016079764&lng=12.07872037177733&zoom=15.297142814939562
+
+Pugno Palestinese (Panicarola, Perugia)
+/templates/wplace/pal_fist_panicarola.png
+(Tl X: 1092, Tl Y: 752, Px X: 668, Px Y: 40)
+lat=43.06368702703832&lng=12.070634434277313&zoom=14.859525345832479
+
+99Posse (Panicarola, Perugia)
+/templates/wplace/99posse_predappio.png
+(Tl X: 1092, Tl Y: 752, Px X: 784, Px Y: 116)
+lat=43.05392595516024&lng=12.091025059277333&zoom=14.859525345832486

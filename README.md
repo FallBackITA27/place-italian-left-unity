@@ -9,6 +9,7 @@ Indice
   - [Progetti](#progetti)
     1. [El Che (Livorno)](#el-che-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
+    1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
     1. [Antifa (Ravenna)](#antifa-ravenna)
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
@@ -137,11 +138,40 @@ Colori Sbloccabili
   1. Goldenrod: 18
   1. Light Goldenrod: 14
   1. Dark Goldenrod: 11
-  1. Brown: 6
   1. Gold: 6
+  1. Brown: 6
   1. Dark Gray: 6
   1. Dark Green: 1
   1. Light Yellow: 1
+
+### Porco Rosso (Predappio, Forlì)
+![Porco Rosso (Predappio, Forlì)](/templates/wplace/porcorosso_predappio.png)
+
+- Coordinate: [1092 743 104 935](https://wplace.live/?lat=44.09572845245505&lng=11.97149380927734&zoom=15.023494)
+- Link Template: [/templates/wplace/porcorosso_predappio.png](/templates/wplace/porcorosso_predappio.png)
+- Lista Pixel: (Totale: 14997, 125.0 ore)
+  1. Red: 3790
+  1. Cyan: 3213
+  1. Light Indigo: 1922
+  1. White: 944
+  1. Dark Brown: 766
+  1. Light Gray: 746
+  1. Beige: 716
+  1. Dark Gray: 618
+  1. Orange: 368
+  1. Light Yellow: 334
+  1. Black: 333
+  1. Blue: 310
+  1. Medium Gray: 222
+  1. Gray: 178
+  1. Light Pink: 177
+  1. Dark Olive: 149
+  1. Olive: 144
+  1. Gold: 55
+  1. Deep Red: 6
+  1. Dark Green: 3
+  1. Dark Tan: 2
+  1. Pink: 1
 
 ### Antifa (Ravenna)
 ![Antifa (Ravenna)](/templates/wplace/antifa_ravenna.png)

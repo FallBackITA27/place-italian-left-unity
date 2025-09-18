@@ -13,7 +13,12 @@ Indice
     1. [Antifa (Ravenna)](#antifa-ravenna)
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
+    1. [OSA (Santo Stefano, Ravenna)](#osa-santo-stefano-ravenna)
     1. [PCI (Andria)](#pci-andria)
+    1. [Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](#smrt-fašizmu!-sloboda-narodu!-panicarola-perugia)
+    1. [Raising a Flag over the Reichstag (Panicarola, Perugia)](#raising-a-flag-over-the-reichstag-panicarola-perugia)
+    1. [Pugno Palestinese (Panicarola, Perugia)](#pugno-palestinese-panicarola-perugia)
+    1. [99Posse (Panicarola, Perugia)](#99posse-panicarola-perugia)
   - [Lista Griefer](#lista-griefer)
     - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
@@ -139,11 +144,11 @@ Colori Sbloccabili
   1. Goldenrod: 18
   1. Light Goldenrod: 14
   1. Dark Goldenrod: 11
-  1. Gold: 6
   1. Dark Gray: 6
+  1. Gold: 6
   1. Brown: 6
-  1. Light Yellow: 1
   1. Dark Green: 1
+  1. Light Yellow: 1
 
 ### Porco Rosso (Predappio, Forlì)
 ![Porco Rosso (Predappio, Forlì)](/templates/wplace/porcorosso_predappio.png)
@@ -207,6 +212,15 @@ Colori Sbloccabili
   1. Red: 6886
   1. Black: 2162
 
+### OSA (Santo Stefano, Ravenna)
+![OSA (Santo Stefano, Ravenna)](/templates/wplace/osa_ravenna.png)
+
+- Coordinate: [1093 742 184 161](https://wplace.live/?lat=44.31925809973999&lng=12.161337559277339&zoom=13.50416)
+- Link Template: [/templates/wplace/osa_ravenna.png](/templates/wplace/osa_ravenna.png)
+- Lista Pixel: (Totale: 12723, 106.0 ore)
+  1. Red: 12592
+  1. White: 131
+
 ### PCI (Andria)
 ![PCI (Andria)](/templates/wplace/pci_andria.png)
 
@@ -235,13 +249,78 @@ Colori Sbloccabili
   1. Light Beige: 8
   1. Light Goldenrod: 8
   1. Dark Olive: 6
-  1. Gray: 5
   1. Light Olive: 5
+  1. Gray: 5
   1. Stone: 3
   1. Light Yellow: 2
   1. Dark Peach: 2
   1. Dark Beige: 1
   1. Dark Brown: 1
+
+### Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)
+![Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](/templates/wplace/sfsn_panicarola.png)
+
+- Coordinate: [1092 751 810 923](https://wplace.live/?lat=43.073318140381474&lng=12.098935215527316&zoom=13.536951)
+- Link Template: [/templates/wplace/sfsn_panicarola.png](/templates/wplace/sfsn_panicarola.png)
+- Lista Pixel: (Totale: 7343, 61.2 ore)
+  1. Black: 2073
+  1. Red: 1657
+  1. Yellow: 1455
+  1. Gray: 660
+  1. Blue: 619
+  1. White: 406
+  1. Light Gray: 326
+  1. Brown: 75
+  1. Gold: 50
+  1. Dark Gray: 22
+
+### Raising a Flag over the Reichstag (Panicarola, Perugia)
+![Raising a Flag over the Reichstag (Panicarola, Perugia)](/templates/wplace/soviet_berlin_panicarola.png)
+
+- Coordinate: [1092 751 697 935](https://wplace.live/?lat=43.07396016079764&lng=12.07872037177733&zoom=15.297143)
+- Link Template: [/templates/wplace/soviet_berlin_panicarola.png](/templates/wplace/soviet_berlin_panicarola.png)
+- Lista Pixel: (Totale: 1209, 10.1 ore)
+  1. Red: 847
+  1. Black: 253
+  1. Gold: 38
+  1. Yellow: 36
+  1. Gray: 34
+  1. Dark Gray: 1
+
+### Pugno Palestinese (Panicarola, Perugia)
+![Pugno Palestinese (Panicarola, Perugia)](/templates/wplace/pal_fist_panicarola.png)
+
+- Coordinate: [1092 752 668 40](https://wplace.live/?lat=43.06368702703832&lng=12.070634434277313&zoom=14.859526)
+- Link Template: [/templates/wplace/pal_fist_panicarola.png](/templates/wplace/pal_fist_panicarola.png)
+- Lista Pixel: (Totale: 3780, 31.5 ore)
+  1. Black: 1741
+  1. Light Gray: 641
+  1. Red: 635
+  1. Dark Green: 436
+  1. White: 327
+
+### 99Posse (Panicarola, Perugia)
+![99Posse (Panicarola, Perugia)](/templates/wplace/99posse_predappio.png)
+
+- Coordinate: [1092 752 784 116](https://wplace.live/?lat=43.05392595516024&lng=12.091025059277333&zoom=14.859526)
+- Link Template: [/templates/wplace/99posse_predappio.png](/templates/wplace/99posse_predappio.png)
+- Lista Pixel: (Totale: 2482, 20.7 ore)
+  1. Red: 1030
+  1. Black: 816
+  1. Dark Teal: 187
+  1. Dark Red: 165
+  1. Yellow: 130
+  1. Deep Red: 44
+  1. Dark Olive: 28
+  1. Dark Brown: 19
+  1. Goldenrod: 18
+  1. Light Goldenrod: 14
+  1. Dark Goldenrod: 11
+  1. Brown: 6
+  1. Dark Gray: 6
+  1. Gold: 6
+  1. Dark Green: 1
+  1. Light Yellow: 1
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

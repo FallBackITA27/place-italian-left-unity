@@ -8,9 +8,9 @@ Indice
   - [Lista colori](#lista-colori)
   - [Progetti](#progetti)
     1. [El Che (Livorno)](#el-che-livorno)
-    1. [99Posse (Predappio, Forlì)](99posse-predappio-forlì)
+    1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Antifa (Ravenna)](#antifa-ravenna)
-    1. [Bandiera Palestinese (Ravenna)](#bandiera-palestinese-ravenna)
+    1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
   - [Lista Griefer](#lista-griefer)
     - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
@@ -57,7 +57,7 @@ Colori Gratis
 - Light Indigo `#99B1FB`
 - Dark Purple `#780C99`
 - Purple `#AA38B9`
-- Light Purple​ `#E09FF9`
+- Light Purple `#E09FF9`
 - Dark Pink `#CB007A`
 - Pink `#EC1F80`
 - Light Pink `#F38DA9`
@@ -104,11 +104,11 @@ Colori Sbloccabili
 ## Progetti
 
 ### El Che (Livorno)
-![El Che (Livorno)](/templates/che_livorno.png)
+![El Che (Livorno)](/templates/wplace/che_livorno.png)
 
-- Coordinate: [(Tl X: 1083, Tl Y: 750, Px X: 402, Px Y: 380)](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578050964265982)
-- Link Template: [/templates/che_livorno.png](/templates/che_livorno.png)
-- Lista Pixel: (Totale: 11024, 92 ore)
+- Coordinate: [1083 750 402 380](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578051)
+- Link Template: [/templates/wplace/che_livorno.png](/templates/wplace/che_livorno.png)
+- Lista Pixel: (Totale: 11224, 93.5 ore)
   1. Red: 7298
   1. Black: 2906
   1. White: 903
@@ -120,12 +120,12 @@ Colori Sbloccabili
   1. Dark Pink: 1
 
 ### 99Posse (Predappio, Forlì)
-![99Posse (Predappio, Forlì)](/templates/99posse_predappio.png)
+![99Posse (Predappio, Forlì)](/templates/wplace/99posse_predappio.png)
 
-- Coordinate: [(Tl X: 1092, Tl Y: 743, Px X: 153, Px Y: 676)](https://wplace.live/?lat=44.12841615759932&lng=11.980107090527323&zoom=17.5)
-- Link Template: [/templates/99posse_predappio.png](/templates/99posse_predappio.png)
-- Lista Pixel: (Totale: 2482, 21 ore)
-  1. Red: 1,030
+- Coordinate: [1092 743 153 676](https://wplace.live/?lat=44.12841615759932&lng=11.980107090527323&zoom=17.5)
+- Link Template: [/templates/wplace/99posse_predappio.png](/templates/wplace/99posse_predappio.png)
+- Lista Pixel: (Totale: 2482, 20.7 ore)
+  1. Red: 1030
   1. Black: 816
   1. Dark Teal: 187
   1. Dark Red: 165
@@ -143,11 +143,11 @@ Colori Sbloccabili
   1. Light Yellow: 1
 
 ### Antifa (Ravenna)
-![Antifa (Ravenna)](/templates/antifa_ravenna.png)
+![Antifa (Ravenna)](/templates/wplace/antifa_ravenna.png)
 
-- Coordinate: [(Tl X: 1092, Tl Y: 741, Px X: 599, Px Y: 91)](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164317610825215)
-- Link Template: [/templates/antifa_ravenna.png](/templates/antifa_ravenna.png)
-- Lista Pixel: (Totale: 146626, 1221 ore)
+- Coordinate: [1092 741 599 91](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164318)
+- Link Template: [/templates/wplace/antifa_ravenna.png](/templates/wplace/antifa_ravenna.png)
+- Lista Pixel: (Totale: 146626, 1221.9 ore)
   1. White: 52519
   1. Black: 50784
   1. Red: 41256
@@ -155,12 +155,12 @@ Colori Sbloccabili
   1. Gray: 565
   1. Dark Gray: 558
 
-### Bandiera Palestinese (Ravenna)
-![Bandiera Palestinese (Ravenna)](/templates/palball_ravenna.png)
+### Bandiera della Palestina (Ravenna)
+![Bandiera della Palestina (Ravenna)](/templates/wplace/palball_ravenna.png)
 
-- Coordinate: [(Tl X: 1093, Tl Y: 741, Px X: 100, Px Y: 300)](https://wplace.live/?lat=44.42744106125955&lng=12.14657193427734&zoom=17.55340120294935)
-- Link Template: [/templates/palball_ravenna.png](/templates/palball_ravenna.png)
-- Lista Pixel: (Totale: 45192, 377 ore)
+- Coordinate: [1093 741 100 300](https://wplace.live/?lat=44.42744106125955&lng=12.14657193427734&zoom=17.553402)
+- Link Template: [/templates/wplace/palball_ravenna.png](/templates/wplace/palball_ravenna.png)
+- Lista Pixel: (Totale: 45192, 376.6 ore)
   1. Dark Teal: 11417
   1. Red: 11379
   1. Black: 11264
@@ -185,6 +185,8 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo A
 - VivaLaDuxs #10232618 
   * Alt Gruppo A
+- DeathToCommies #11598762
+  * Alt Gruppo A
 - Clown Show #8371675
 - [SPQR] Rokyff9 #970884 [Versilia squad]
   * Grief costanti al Che a Livorno
@@ -203,9 +205,17 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo B 
 - KindCouch #8718149
   * Alt Gruppo B
-- EarlySoap #11440398
-  * Grief costanti al Che a Livorno
+- As Roma Merda #11440398
+  * Grief e Art varie contenenti svastiche, croci celtiche e simili.
 - TallSoap #7618347 [Partito Fascista]
+- gay1 #10666376 
+  * Svastiche a Molfetta (Bari)
+- absurgency #2529932 [Hetmanate]
+  * Rimozione di simboli comunisti
+- FancyMarsh #2345336 [infantdestroyers]
+  * Grief alla bandiera palestinese a Ravenna
+- AntMagic1 #7500842 [Olio Moto]
+  * Grief alla bandiera palestinese a Ravenna e di arte a Predappio
 
 ### Cimitero dei Bozo
 Tutti i griefer bannati

@@ -7,12 +7,13 @@ Indice
 - [Wplace](#wplace)
   - [Lista colori](#lista-colori)
   - [Progetti](#progetti)
-    1. [El Che (Livorno)](#el-che-livorno)
+    1. [El Che (Cecina, Livorno)](#el-che-cecina-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
     1. [Antifa (Ravenna)](#antifa-ravenna)
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
+    1. [PCI (Andria)](#pci-andria)
   - [Lista Griefer](#lista-griefer)
     - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
@@ -105,8 +106,8 @@ Colori Sbloccabili
 
 ## Progetti
 
-### El Che (Livorno)
-![El Che (Livorno)](/templates/wplace/che_livorno.png)
+### El Che (Cecina, Livorno)
+![El Che (Cecina, Livorno)](/templates/wplace/che_livorno.png)
 
 - Coordinate: [1083 750 402 380](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578051)
 - Link Template: [/templates/wplace/che_livorno.png](/templates/wplace/che_livorno.png)
@@ -139,10 +140,10 @@ Colori Sbloccabili
   1. Light Goldenrod: 14
   1. Dark Goldenrod: 11
   1. Gold: 6
-  1. Brown: 6
   1. Dark Gray: 6
-  1. Dark Green: 1
+  1. Brown: 6
   1. Light Yellow: 1
+  1. Dark Green: 1
 
 ### Porco Rosso (Predappio, Forlì)
 ![Porco Rosso (Predappio, Forlì)](/templates/wplace/porcorosso_predappio.png)
@@ -205,6 +206,42 @@ Colori Sbloccabili
 - Lista Pixel: (Totale: 9048, 75.4 ore)
   1. Red: 6886
   1. Black: 2162
+
+### PCI (Andria)
+![PCI (Andria)](/templates/wplace/pci_andria.png)
+
+- Coordinate: [1116 765 975 917](https://wplace.live/?lat=41.25567570038606&lng=16.34334927802734&zoom=14.586365)
+- Link Template: [/templates/wplace/pci_andria.png](/templates/wplace/pci_andria.png)
+- Lista Pixel: (Totale: 6370, 53.1 ore)
+  1. Red: 3766
+  1. Yellow: 946
+  1. White: 583
+  1. Dark Teal: 209
+  1. Black: 195
+  1. Light Pink: 112
+  1. Dark Slate: 109
+  1. Dark Orange: 97
+  1. Light Gray: 59
+  1. Orange: 50
+  1. Light Brown: 39
+  1. Light Red: 32
+  1. Light Peach: 32
+  1. Dark Gray: 27
+  1. Medium Gray: 24
+  1. Olive: 17
+  1. Dark Stone: 13
+  1. Dark Tan: 10
+  1. Light Slate: 9
+  1. Light Beige: 8
+  1. Light Goldenrod: 8
+  1. Dark Olive: 6
+  1. Gray: 5
+  1. Light Olive: 5
+  1. Stone: 3
+  1. Light Yellow: 2
+  1. Dark Peach: 2
+  1. Dark Beige: 1
+  1. Dark Brown: 1
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

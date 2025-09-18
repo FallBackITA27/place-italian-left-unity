@@ -1,5 +1,5 @@
 
-El Che (Livorno)
+El Che (Cecina, Livorno)
 /templates/wplace/che_livorno.png
 (Tl X: 1083, Tl Y: 750, Px X: 402, Px Y: 380)
 lat=43.27650168709436&lng=10.44184537177733&zoom=15.578050964265982
@@ -28,3 +28,8 @@ Frase Antifa (Ravenna)
 /templates/wplace/frase_ravenna.png
 (Tl X: 1093, Tl Y: 741, Px X: 48, Px Y: 573)
 lat=44.39052300717444&lng=12.150614903027328&zoom=15.217751475790196
+
+PCI (Andria)
+/templates/wplace/pci_andria.png
+(Tl X: 1116, Tl Y: 765, Px X: 975, Px Y: 917)
+lat=41.25567570038606&lng=16.34334927802734&zoom=14.586364759278888

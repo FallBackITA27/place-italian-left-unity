@@ -11,6 +11,7 @@ Indice
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Antifa (Ravenna)](#antifa-ravenna)
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
+    1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
   - [Lista Griefer](#lista-griefer)
     - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
@@ -165,6 +166,15 @@ Colori Sbloccabili
   1. Red: 11379
   1. Black: 11264
   1. White: 11132
+
+### Frase Antifa (Ravenna)
+![Frase Antifa (Ravenna)](/templates/wplace/frase_ravenna.png)
+
+- Coordinate: [1093 741 48 573](https://wplace.live/?lat=44.39052300717444&lng=12.150614903027328&zoom=15.2177515)
+- Link Template: [/templates/wplace/frase_ravenna.png](/templates/wplace/frase_ravenna.png)
+- Lista Pixel: (Totale: 9048, 75.4 ore)
+  1. Red: 6886
+  1. Black: 2162
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

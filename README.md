@@ -328,9 +328,9 @@ Colori Sbloccabili
 
 - Coordinate: [1074 781 902 993](https://wplace.live/?lat=39.219930003993554&lng=8.963525059277337&zoom=13.9561205)
 - Link Template: [/templates/wplace/transmaoist_cagliari.png](/templates/wplace/transmaoist_cagliari.png)
-- Lista Pixel: (Totale: 14235, 118.6 ore)
+- Lista Pixel: (Totale: 14237, 118.6 ore)
   1. Dark Red: 7186
-  1. Yellow: 6912
+  1. Yellow: 6914
   1. Light Green: 137
   
 ## Lista Griefer
@@ -383,6 +383,12 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Grief alla bandiera palestinese a Ravenna
 - AntMagic1 #7500842 [Olio Moto]
   * Grief alla bandiera palestinese a Ravenna e di arte a Predappio
+- Anarchy player #11197657 
+  * Grief del simbolo maoista a Cagliari
+- Cesare Augusto #4730502
+  * Disegna svastiche a Predappio
+- Sono un fascio88 #9726492 [COMUNISMO_IT]
+  Nome autoesplicativo
 - VoglioUnaGothGF #2128949
   * Grief di parecchi simboli comunisti a Cagliari
 

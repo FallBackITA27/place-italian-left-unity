@@ -388,7 +388,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - Cesare Augusto #4730502
   * Disegna svastiche a Predappio
 - Sono un fascio88 #9726492 [COMUNISMO_IT]
-  Nome autoesplicativo
+  * Nome autoesplicativo
 - VoglioUnaGothGF #2128949
   * Grief di parecchi simboli comunisti a Cagliari
 

@@ -383,6 +383,12 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Grief alla bandiera palestinese a Ravenna
 - AntMagic1 #7500842 [Olio Moto]
   * Grief alla bandiera palestinese a Ravenna e di arte a Predappio
+- Anarchy player #11197657 
+  * Grief del simbolo maoista a Cagliari
+- Cesare Augusto #4730502
+  * Disegna svastiche a Predappio
+- Sono un fascio88 #9726492 [COMUNISMO_IT]
+  Nome autoesplicativo
 - VoglioUnaGothGF #2128949
   * Grief di parecchi simboli comunisti a Cagliari
 

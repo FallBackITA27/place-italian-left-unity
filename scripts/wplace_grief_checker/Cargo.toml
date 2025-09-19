@@ -1,0 +1,13 @@
+[package]
+name = "wplace_grief_checker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.8"
+reqwest = "0.12.23"
+tokio = { version = "1.47.1", features = ["macros", "rt-multi-thread"] }
+wplace_common = { path = "../wplace_common" }
+
+[lints]
+workspace = true

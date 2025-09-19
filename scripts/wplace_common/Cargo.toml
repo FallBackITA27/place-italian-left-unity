@@ -1,7 +1,9 @@
 [package]
-name = "stat_generator"
+name = "wplace_common"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-image = "0.25.8"
+
+[lints]
+workspace = true

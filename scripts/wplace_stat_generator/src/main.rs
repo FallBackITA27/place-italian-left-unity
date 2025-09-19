@@ -27,7 +27,7 @@ fn main() {
             .map(|v| {
                 v.to_markdown_str()
                     + "\n"
-                    + TemplateImageRead::image_calc(&format!("../..{}", v.get_path()))
+                    + TemplateImageRead::image_calc(&format!("../../templates/wplace/{}", v.get_path()))
                         .to_markdown_str()
                         .as_str()
                     + "\n"

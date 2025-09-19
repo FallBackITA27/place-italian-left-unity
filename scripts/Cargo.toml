@@ -1,0 +1,16 @@
+[workspace]
+resolver = "3"
+members = ["wplace_common", "wplace_grief_checker", "wplace_stat_generator"]
+
+[workspace.lints.clippy]
+duplicate_mod = "deny"
+fn_to_numeric_cast_any = "deny"
+manual_string_new = "deny"
+needless_borrow = "deny"
+semicolon_if_nothing_returned = "warn"
+string_to_string = "deny"
+too_many_arguments = "allow"
+
+[workspace.lints.rust]
+unused_imports = "warn"
+

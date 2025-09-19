@@ -3,20 +3,17 @@ use std::io::Write;
 use crate::template_image_read::TemplateImageRead;
 
 mod art_data;
-mod color;
 mod template_image_read;
 
 fn main() {
-    let art_data_file = include_str!("../art");
-
     let mut out = std::fs::File::create_new("./out.md").expect("out file exists already");
 
-    let data = art_data::ArtDataReader::read(art_data_file);
+    let data = wplace_common::art_data::ArtData::read(wplace_common::ART_FILE);
 
     out.write_all(
         (data
             .iter()
-            .map(|v| v.to_markdown_titles_str() + "\n")
+            .map(|v| art_data::to_markdown_titles_str(v) + "\n")
             .collect::<String>()
             + "\n\n")
             .as_bytes(),
@@ -25,11 +22,14 @@ fn main() {
     out.write_all(
         data.iter()
             .map(|v| {
-                v.to_markdown_str()
+                art_data::to_markdown_str(v)
                     + "\n"
-                    + TemplateImageRead::image_calc(&format!("../../templates/wplace/{}", v.get_path()))
-                        .to_markdown_str()
-                        .as_str()
+                    + TemplateImageRead::image_calc(&format!(
+                        "../../templates/wplace/{}",
+                        v.get_image_file_name()
+                    ))
+                    .to_markdown_str()
+                    .as_str()
                     + "\n"
             })
             .collect::<String>()

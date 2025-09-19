@@ -1,6 +1,6 @@
 use image::{GenericImageView, ImageReader};
 
-use crate::color::Color;
+use wplace_common::color::Color;
 
 pub struct TemplateImageRead {
     total_px: i32,
@@ -11,12 +11,7 @@ pub struct TemplateImageRead {
 impl TemplateImageRead {
     pub fn image_calc(path: &str) -> Self {
         let path = std::path::Path::new(&path);
-
-        println!("Provided the following path: {path:?}");
-
         let path = std::path::absolute(path).expect("Couldn't make path absolute");
-        println!("Reading path as {path:?}");
-
         if !path.exists() {
             panic!("Expected an existing image's path.")
         }

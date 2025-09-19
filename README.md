@@ -391,7 +391,11 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Nome autoesplicativo
 - VoglioUnaGothGF #2128949
   * Grief di parecchi simboli comunisti a Cagliari
-
+- stef #11296223 [BRESCIAKILLER] 
+  * Grief del Porco Rosso a Forlì
+- Solid Snake #5537093 
+  * Grief del simbolo del PCI ad Andria
+  
 ### Cimitero dei Bozo
 Tutti i griefer bannati
 

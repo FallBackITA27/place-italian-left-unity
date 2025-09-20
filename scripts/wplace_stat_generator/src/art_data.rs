@@ -17,7 +17,7 @@ pub fn to_markdown_str(v: &ArtData) -> String {
     format!(
         "### {title}\n![{title}]({path})\n\n- Coordinate: [{tl_x} {tl_y} {x} {y}](https://wplace.live/?lat={lat}&lng={lng}&zoom={zoom})\n- Link Template: [{path}]({path})",
         title = v.get_title(),
-        path = v.get_image_file_name(),
+        path = String::from("/templates/wplace/") + v.get_image_file_name(),
         tl_x = v.get_tile_coords_tile_x(),
         tl_y = v.get_tile_coords_tile_y(),
         x = v.get_tile_coords_x(),

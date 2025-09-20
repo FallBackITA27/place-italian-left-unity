@@ -19,7 +19,9 @@ Indice
     1. [Raising a Flag over the Reichstag (Panicarola, Perugia)](#raising-a-flag-over-the-reichstag-panicarola-perugia)
     1. [Pugno Palestinese (Panicarola, Perugia)](#pugno-palestinese-panicarola-perugia)
     1. [99Posse (Panicarola, Perugia)](#99posse-panicarola-perugia)
+    1. [Porco Rosso (Siena)](#porco-rosso-siena)
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
+    1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
   - [Lista Griefer](#lista-griefer)
     - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
@@ -57,7 +59,7 @@ Colori Gratis
 - Green `#13E67B`
 - Light Green `#87FF5E`
 - Dark Teal `#0C816E`
-- Teal `#10AE82`
+- Teal `#10AEA6`
 - Light Teal `#13E1BE`
 - Dark Blue `#60F7F2`
 - Blue `#28509E`
@@ -145,11 +147,11 @@ Colori Sbloccabili
   1. Goldenrod: 18
   1. Light Goldenrod: 14
   1. Dark Goldenrod: 11
+  1. Brown: 6
   1. Dark Gray: 6
   1. Gold: 6
-  1. Brown: 6
-  1. Dark Green: 1
   1. Light Yellow: 1
+  1. Dark Green: 1
 
 ### Porco Rosso (Predappio, Forlì)
 ![Porco Rosso (Predappio, Forlì)](/templates/wplace/porcorosso_predappio.png)
@@ -239,8 +241,8 @@ Colori Sbloccabili
   1. Light Gray: 59
   1. Orange: 50
   1. Light Brown: 39
-  1. Light Red: 32
   1. Light Peach: 32
+  1. Light Red: 32
   1. Dark Gray: 27
   1. Medium Gray: 24
   1. Olive: 17
@@ -317,22 +319,79 @@ Colori Sbloccabili
   1. Goldenrod: 18
   1. Light Goldenrod: 14
   1. Dark Goldenrod: 11
-  1. Brown: 6
-  1. Dark Gray: 6
   1. Gold: 6
-  1. Dark Green: 1
+  1. Dark Gray: 6
+  1. Brown: 6
   1. Light Yellow: 1
+  1. Dark Green: 1
+
+### Porco Rosso (Siena)
+![Porco Rosso (Siena)](/templates/wplace/porcorosso_siena.png)
+
+- Coordinate: [1089 749 141 492](https://wplace.live/?lat=43.377009432889984&lng=11.464013340527345&zoom=13.744039)
+- Link Template: [/templates/wplace/porcorosso_siena.png](/templates/wplace/porcorosso_siena.png)
+- Lista Pixel: (Totale: 20379, 169.8 ore)
+  1. White: 9243
+  1. Teal: 2149
+  1. Light Gray: 1534
+  1. Light Brown: 859
+  1. Gray: 803
+  1. Medium Gray: 779
+  1. Tan: 707
+  1. Dark Gray: 616
+  1. Black: 397
+  1. Dark Tan: 371
+  1. Dark Slate: 364
+  1. Light Tan: 352
+  1. Light Peach: 305
+  1. Light Slate: 286
+  1. Light Beige: 229
+  1. Light Pink: 187
+  1. Stone: 184
+  1. Dark Teal: 174
+  1. Dark Stone: 164
+  1. Dark Olive: 147
+  1. Dark Cyan: 123
+  1. Peach: 95
+  1. Dark Brown: 77
+  1. Slate: 49
+  1. Dark Slate Blue: 44
+  1. Light Cyan: 41
+  1. Light Blue: 23
+  1. Dark Blue: 16
+  1. Cyan: 12
+  1. Dark Peach: 10
+  1. Light Teal: 9
+  1. Blue: 7
+  1. Beige: 6
+  1. Light Stone: 4
+  1. Dark Goldenrod: 4
+  1. Goldenrod: 3
+  1. Olive: 2
+  1. Pink: 2
+  1. Dark Red: 1
+  1. Brown: 1
 
 ### Simbolo Transmaoista (Cagliari)
 ![Simbolo Transmaoista (Cagliari)](/templates/wplace/transmaoist_cagliari.png)
 
-- Coordinate: [1074 781 902 993](https://wplace.live/?lat=39.219930003993554&lng=8.963525059277337&zoom=13.9561205)
+- Coordinate: [1074 780 902 993](https://wplace.live/?lat=39.219930003993554&lng=8.963525059277337&zoom=13.9561205)
 - Link Template: [/templates/wplace/transmaoist_cagliari.png](/templates/wplace/transmaoist_cagliari.png)
 - Lista Pixel: (Totale: 14237, 118.6 ore)
   1. Dark Red: 7186
   1. Yellow: 6914
   1. Light Green: 137
-  
+
+### Freie Deutsche Jugend (Nuoro)
+![Freie Deutsche Jugend (Nuoro)](/templates/wplace/fdj_nuoro.png)
+
+- Coordinate: [1077 775 722 64](https://wplace.live/?lat=40.01839384637391&lng=9.45852505927733&zoom=13.89852)
+- Link Template: [/templates/wplace/fdj_nuoro.png](/templates/wplace/fdj_nuoro.png)
+- Lista Pixel: (Totale: 29289, 244.1 ore)
+  1. Yellow: 18315
+  1. Black: 6405
+  1. Blue: 4569
+ 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
 
@@ -392,9 +451,11 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - VoglioUnaGothGF #2128949
   * Grief di parecchi simboli comunisti a Cagliari
 - stef #11296223 [BRESCIAKILLER] 
-  * Grief del Porco Rosso a Forlì
+  * Grief del Porco Rosso a Predappio e a Novara
 - Solid Snake #5537093 
   * Grief del simbolo del PCI ad Andria
+- HarshShaver #3629477
+  * Grief al simbolo Antifa a Ravenna
   
 ### Cimitero dei Bozo
 Tutti i griefer bannati

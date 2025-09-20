@@ -228,7 +228,7 @@ impl TryFrom<[u8; 4]> for Color {
             [0x13, 0xE6, 0x7B, _] => Ok(Self::Green),
             [0x87, 0xFF, 0x5E, _] => Ok(Self::LightGreen),
             [0x0C, 0x81, 0x6E, _] => Ok(Self::DarkTeal),
-            [0x10, 0xAE, 0x82, _] => Ok(Self::Teal),
+            [0x10, 0xAE, 0xA6, _] => Ok(Self::Teal),
             [0x13, 0xE1, 0xBE, _] => Ok(Self::LightTeal),
             [0x60, 0xF7, 0xF2, _] => Ok(Self::DarkBlue),
             [0x28, 0x50, 0x9E, _] => Ok(Self::Blue),

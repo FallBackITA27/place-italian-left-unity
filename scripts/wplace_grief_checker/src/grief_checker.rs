@@ -9,6 +9,10 @@ pub struct GriefChecker {
 }
 
 impl GriefChecker {
+    pub fn get_incorrect_px_count(&self) -> u32 {
+        self.incorrect_px_count
+    }
+
     pub async fn check(template: &ArtData) -> Self {
         let path = IMAGE_PATH_PREFIX.to_string() + template.get_image_file_name();
         let path = std::path::Path::new(path.as_str());
@@ -72,11 +76,10 @@ impl GriefChecker {
                 let template_color = match Color::try_from(pixel.0) {
                     Ok(v) => v,
                     Err(_) => {
-                        println!(
+                        panic!(
                             "Pixel at {x} {y} is not the right color in image template, it is #{:X}{:X}{:X}",
                             pixel.0[0], pixel.0[1], pixel.0[2]
                         );
-                        continue;
                     }
                 };
 
@@ -108,8 +111,8 @@ impl GriefChecker {
         }
     }
 
-    pub fn to_markdown_str(&self, art_data: &ArtData) -> String {
-        if self.incorrect_px_count == 0 {
+    pub fn to_markdown_str(&self, art_data: &ArtData, overwrite: bool) -> String {
+        if self.incorrect_px_count == 0 || overwrite {
             format!("- {title} è OK", title = art_data.get_title(),)
         } else {
             format!(

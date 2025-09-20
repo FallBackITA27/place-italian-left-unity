@@ -1,4 +1,4 @@
-use std::io::Write;
+use std::io::{Write, stdin, stdout};
 
 use crate::grief_checker::GriefChecker;
 
@@ -14,7 +14,22 @@ async fn main() {
 
     for v in data.iter() {
         let data = GriefChecker::check(v).await;
-        out.write_all((data.to_markdown_str(v) + "\n").as_bytes())
+
+        let overwrite = if data.get_incorrect_px_count() > 0 {
+            print!(
+                "{} has {}px wrong, mark as OK? [Y/?]\n > ",
+                v.get_title(),
+                data.get_incorrect_px_count()
+            );
+            stdout().flush().expect("Flush stdout");
+            let mut buf = String::new();
+            stdin().read_line(&mut buf).expect("Read line");
+            buf.contains('Y') || buf.contains('y')
+        } else {
+            false
+        };
+
+        out.write_all((data.to_markdown_str(v, overwrite) + "\n").as_bytes())
             .expect("Error writing to out file");
     }
 }

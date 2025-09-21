@@ -1,12 +1,11 @@
-use std::io::{Write, stdin, stdout};
-
+use std::{fs::OpenOptions, io::{stdin, stdout, Write}};
 use crate::grief_checker::GriefChecker;
 
 mod grief_checker;
 
 #[tokio::main]
 async fn main() {
-    let mut out = std::fs::File::create_new("./out.md").expect("out file exists already");
+    let mut out = OpenOptions::new().create(true).write(true).truncate(true).open("./out.md").expect("Couldn't open file");
     let data = wplace_common::art_data::ArtData::read(wplace_common::ART_FILE);
 
     out.write_all(b"# Status Art\n")

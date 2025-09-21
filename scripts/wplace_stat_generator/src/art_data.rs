@@ -10,6 +10,7 @@ pub fn to_markdown_titles_str(v: &ArtData) -> String {
             .replace("(", "")
             .replace(")", "")
             .replace(",", "")
+            .replace("!", "")
     )
 }
 

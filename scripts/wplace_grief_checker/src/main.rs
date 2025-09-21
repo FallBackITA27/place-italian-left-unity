@@ -39,5 +39,18 @@ async fn main() {
 
         out.write_all((data.to_markdown_str(v, overwrite) + "\n").as_bytes())
             .expect("Error writing to out file");
+
+        if !overwrite && data.get_incorrect_px_count() > 0 {
+            print!("Write down wrong PX coordinates? [Y/N]\n > ",);
+            stdout().flush().expect("Flush stdout");
+
+            let mut buf = String::new();
+            stdin().read_line(&mut buf).expect("Read line");
+
+            if buf.contains('Y') || buf.contains('y') {
+                out.write_all(data.print_wrong_px_coords().as_bytes())
+                    .expect("Error writing to out file");
+            }
+        }
     }
 }

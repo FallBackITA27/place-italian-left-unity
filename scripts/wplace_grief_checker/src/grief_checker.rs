@@ -1,5 +1,5 @@
 use image::{GenericImageView, ImageReader};
-use wplace_common::{art_data::ArtData, color::Color};
+use wplace_common::{art_data::ArtData, color::Color, tile_coords::TileCoords};
 
 const IMAGE_PATH_PREFIX: &'static str = "../../templates/wplace/";
 
@@ -126,4 +126,14 @@ impl GriefChecker {
             )
         }
     }
+}
+
+fn print_tile_coords(v: &TileCoords) -> String {
+    format!(
+        "Tile X: {}, Tile Y: {}, X: {}, Y: {}",
+        v.get_tile_x(),
+        v.get_tile_y(),
+        v.get_x(),
+        v.get_y()
+    )
 }

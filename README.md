@@ -23,6 +23,7 @@ Indice
     1. [Fasci Appesi (Milano)](#fasci-appesi-milano)
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
     1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
+    1. [Logo Comintern (Siracusa)](#logo-comintern-siracusa)
   - [Lista Griefer](#lista-griefer)
     - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
@@ -406,6 +407,37 @@ Colori Sbloccabili
   1. Yellow: 18315
   1. Black: 6405
   1. Blue: 4569
+
+### Logo Comintern (Siracusa)
+![Logo Comintern (Siracusa)](/templates/wplace/comintern_siracusa.png)
+
+- Coordinate: [1109 795 0 500](https://wplace.live/?lat=37.088627539057875&lng=15.069814121777341&zoom=10.800757)
+- Link Template: [/templates/wplace/comintern_siracusa.png](/templates/wplace/comintern_siracusa.png)
+- Lista Pixel: (Totale: 198884, 1657.4 ore)
+  1. Light Blue: 64078 (Sbloccabile)
+  1. Red: 35054
+  1. Dark Red: 27726 (Sbloccabile)
+  1. Deep Red: 19000
+  1. Yellow: 16651
+  1. Dark Brown: 12083
+  1. Gold: 8856
+  1. Dark Orange: 6674 (Sbloccabile)
+  1. Black: 5191
+  1. Cyan: 684
+  1. Slate: 684 (Sbloccabile)
+  1. Dark Gray: 650
+  1. Brown: 311
+  1. Goldenrod: 292 (Sbloccabile)
+  1. Dark Goldenrod: 250 (Sbloccabile)
+  1. Dark Slate Blue: 250 (Sbloccabile)
+  1. Dark Slate: 198 (Sbloccabile)
+  1. Dark Olive: 83 (Sbloccabile)
+  1. Light Goldenrod: 62 (Sbloccabile)
+  1. Gray: 30
+  1. Dark Cyan: 28 (Sbloccabile)
+  1. Blue: 23
+  1. Slate Blue: 17 (Sbloccabile)
+  1. Dark Peach: 9 (Sbloccabile)
  
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
@@ -481,6 +513,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Griefer di art di sinistra in Sardegna
 - SleepyStrap #8132519
   * Grief di una bandiera palestinese a Cecina, Livorno
+- Florence rusher #11483379
+  * Grief di varie bandiere Palestinesi e Esperanto vicino a Rosignano, Livorno
+- EuroNutella #6122444
+  * Scritte di ispirazione neonazista
+- HeavyStrap #2027604 [Rule enforcer] 
+  * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
+- No_politics #3047458 Rule enforcer
+  * Cancella simboli Comunisti per la Toscana
 
 ### Cimitero dei Bozo
 Tutti i griefer bannati
@@ -494,3 +534,4 @@ Tutti i griefer bannati
 - Msriana #10715660
 - Narsaim #10144939
 - PlainDustpan #1442115 [THE ZONE]
+- inst:dvvinnb #2103379

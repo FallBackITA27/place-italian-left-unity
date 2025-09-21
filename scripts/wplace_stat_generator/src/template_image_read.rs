@@ -56,11 +56,9 @@ impl TemplateImageRead {
         }
 
         let mut hashmap: Vec<(Color, u64)> = hashmap.iter().map(|(x, y)| (*x, *y)).collect();
-        hashmap.sort_unstable_by(| (col1, cou1), (col2, cou2) | {
-            match cou1 == cou2 {
-                false => cou2.cmp(cou1),
-                true => col1.cmp(col2)
-            }
+        hashmap.sort_unstable_by(|(col1, cou1), (col2, cou2)| match cou1 == cou2 {
+            false => cou2.cmp(cou1),
+            true => col1.cmp(col2),
         });
 
         Self {
@@ -77,7 +75,16 @@ impl TemplateImageRead {
             self.total_px_hrs,
             self.px_counts
                 .into_iter()
-                .map(|(color, count)| { format!("  1. {}: {count}\n", color.to_string()) })
+                .map(|(color, count)| {
+                    format!(
+                        "  1. {}: {count}{}\n",
+                        color.to_string(),
+                        match color.is_premium() {
+                            false => String::new(),
+                            true => String::from(" (Sbloccabile)"),
+                        }
+                    )
+                })
                 .collect::<String>()
         )
     }

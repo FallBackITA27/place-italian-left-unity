@@ -140,14 +140,14 @@ Colori Sbloccabili
   1. Red: 1030
   1. Black: 816
   1. Dark Teal: 187
-  1. Dark Red: 165
+  1. Dark Red: 165 (Sbloccabile)
   1. Yellow: 130
   1. Deep Red: 44
-  1. Dark Olive: 28
+  1. Dark Olive: 28 (Sbloccabile)
   1. Dark Brown: 19
-  1. Goldenrod: 18
-  1. Light Goldenrod: 14
-  1. Dark Goldenrod: 11
+  1. Goldenrod: 18 (Sbloccabile)
+  1. Light Goldenrod: 14 (Sbloccabile)
+  1. Dark Goldenrod: 11 (Sbloccabile)
   1. Dark Gray: 6
   1. Gold: 6
   1. Brown: 6
@@ -172,14 +172,14 @@ Colori Sbloccabili
   1. Light Yellow: 334
   1. Black: 333
   1. Blue: 310
-  1. Medium Gray: 222
+  1. Medium Gray: 222 (Sbloccabile)
   1. Gray: 178
   1. Light Pink: 177
-  1. Dark Olive: 149
-  1. Olive: 144
+  1. Dark Olive: 149 (Sbloccabile)
+  1. Olive: 144 (Sbloccabile)
   1. Gold: 55
   1. Deep Red: 6
-  1. Dark Tan: 2
+  1. Dark Tan: 2 (Sbloccabile)
   1. Pink: 1
 
 ### Antifa (Ravenna)
@@ -236,29 +236,29 @@ Colori Sbloccabili
   1. Dark Teal: 209
   1. Black: 195
   1. Light Pink: 112
-  1. Dark Slate: 109
-  1. Dark Orange: 97
+  1. Dark Slate: 109 (Sbloccabile)
+  1. Dark Orange: 97 (Sbloccabile)
   1. Light Gray: 59
   1. Orange: 50
-  1. Light Brown: 39
-  1. Light Red: 32
-  1. Light Peach: 32
+  1. Light Brown: 39 (Sbloccabile)
+  1. Light Red: 32 (Sbloccabile)
+  1. Light Peach: 32 (Sbloccabile)
   1. Dark Gray: 27
-  1. Medium Gray: 24
-  1. Olive: 17
-  1. Dark Stone: 13
-  1. Dark Tan: 10
-  1. Light Slate: 9
-  1. Light Goldenrod: 8
-  1. Light Beige: 8
-  1. Dark Olive: 6
+  1. Medium Gray: 24 (Sbloccabile)
+  1. Olive: 17 (Sbloccabile)
+  1. Dark Stone: 13 (Sbloccabile)
+  1. Dark Tan: 10 (Sbloccabile)
+  1. Light Slate: 9 (Sbloccabile)
+  1. Light Goldenrod: 8 (Sbloccabile)
+  1. Light Beige: 8 (Sbloccabile)
+  1. Dark Olive: 6 (Sbloccabile)
   1. Gray: 5
-  1. Light Olive: 5
-  1. Stone: 3
+  1. Light Olive: 5 (Sbloccabile)
+  1. Stone: 3 (Sbloccabile)
   1. Light Yellow: 2
-  1. Dark Peach: 2
+  1. Dark Peach: 2 (Sbloccabile)
   1. Dark Brown: 1
-  1. Dark Beige: 1
+  1. Dark Beige: 1 (Sbloccabile)
 
 ### Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)
 ![Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](/templates/wplace/sfsn_panicarola.png)
@@ -311,14 +311,14 @@ Colori Sbloccabili
   1. Red: 1030
   1. Black: 816
   1. Dark Teal: 187
-  1. Dark Red: 165
+  1. Dark Red: 165 (Sbloccabile)
   1. Yellow: 130
   1. Deep Red: 44
-  1. Dark Olive: 28
+  1. Dark Olive: 28 (Sbloccabile)
   1. Dark Brown: 19
-  1. Goldenrod: 18
-  1. Light Goldenrod: 14
-  1. Dark Goldenrod: 11
+  1. Goldenrod: 18 (Sbloccabile)
+  1. Light Goldenrod: 14 (Sbloccabile)
+  1. Dark Goldenrod: 11 (Sbloccabile)
   1. Dark Gray: 6
   1. Gold: 6
   1. Brown: 6
@@ -334,43 +334,43 @@ Colori Sbloccabili
   1. White: 9243
   1. Teal: 2149
   1. Light Gray: 1534
-  1. Light Brown: 859
+  1. Light Brown: 859 (Sbloccabile)
   1. Gray: 803
-  1. Medium Gray: 779
-  1. Tan: 707
+  1. Medium Gray: 779 (Sbloccabile)
+  1. Tan: 707 (Sbloccabile)
   1. Dark Gray: 616
   1. Black: 397
-  1. Dark Tan: 371
-  1. Dark Slate: 364
-  1. Light Tan: 352
-  1. Light Peach: 305
-  1. Light Slate: 286
-  1. Light Beige: 229
+  1. Dark Tan: 371 (Sbloccabile)
+  1. Dark Slate: 364 (Sbloccabile)
+  1. Light Tan: 352 (Sbloccabile)
+  1. Light Peach: 305 (Sbloccabile)
+  1. Light Slate: 286 (Sbloccabile)
+  1. Light Beige: 229 (Sbloccabile)
   1. Light Pink: 187
-  1. Stone: 184
+  1. Stone: 184 (Sbloccabile)
   1. Dark Teal: 174
-  1. Dark Stone: 164
-  1. Dark Olive: 147
-  1. Dark Cyan: 123
-  1. Peach: 95
+  1. Dark Stone: 164 (Sbloccabile)
+  1. Dark Olive: 147 (Sbloccabile)
+  1. Dark Cyan: 123 (Sbloccabile)
+  1. Peach: 95 (Sbloccabile)
   1. Dark Brown: 77
-  1. Slate: 49
-  1. Dark Slate Blue: 44
-  1. Light Cyan: 41
-  1. Light Blue: 23
+  1. Slate: 49 (Sbloccabile)
+  1. Dark Slate Blue: 44 (Sbloccabile)
+  1. Light Cyan: 41 (Sbloccabile)
+  1. Light Blue: 23 (Sbloccabile)
   1. Dark Blue: 16
   1. Cyan: 12
-  1. Dark Peach: 10
+  1. Dark Peach: 10 (Sbloccabile)
   1. Light Teal: 9
   1. Blue: 7
   1. Beige: 6
-  1. Dark Goldenrod: 4
-  1. Light Stone: 4
-  1. Goldenrod: 3
+  1. Dark Goldenrod: 4 (Sbloccabile)
+  1. Light Stone: 4 (Sbloccabile)
+  1. Goldenrod: 3 (Sbloccabile)
   1. Pink: 2
-  1. Olive: 2
+  1. Olive: 2 (Sbloccabile)
   1. Brown: 1
-  1. Dark Red: 1
+  1. Dark Red: 1 (Sbloccabile)
 
 ### Fasci Appesi (Milano)
 ![Fasci Appesi (Milano)](/templates/wplace/fasci_appesi_milano.png)
@@ -384,7 +384,7 @@ Colori Sbloccabili
   1. Red: 1142
   1. Yellow: 99
   1. Green: 33
-  1. Dark Red: 27
+  1. Dark Red: 27 (Sbloccabile)
   1. Light Gray: 24
 
 ### Simbolo Transmaoista (Cagliari)
@@ -393,7 +393,7 @@ Colori Sbloccabili
 - Coordinate: [1074 780 902 993](https://wplace.live/?lat=39.219930003993554&lng=8.963525059277337&zoom=13.9561205)
 - Link Template: [/templates/wplace/transmaoist_cagliari.png](/templates/wplace/transmaoist_cagliari.png)
 - Lista Pixel: (Totale: 14237, 118.6 ore)
-  1. Dark Red: 7186
+  1. Dark Red: 7186 (Sbloccabile)
   1. Yellow: 6914
   1. Light Green: 137
 
@@ -406,8 +406,6 @@ Colori Sbloccabili
   1. Yellow: 18315
   1. Black: 6405
   1. Blue: 4569
-
-
  
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
@@ -481,6 +479,8 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Griefer di art di sinistra in Sardegna
 - CrazyDustpan #8076360
   * Griefer di art di sinistra in Sardegna
+- SleepyStrap #8132519
+  * Grief di una bandiera palestinese a Cecina, Livorno
 
 ### Cimitero dei Bozo
 Tutti i griefer bannati

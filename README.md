@@ -15,11 +15,12 @@ Indice
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
     1. [OSA (Santo Stefano, Ravenna)](#osa-santo-stefano-ravenna)
     1. [PCI (Andria)](#pci-andria)
-    1. [Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](#smrt-fašizmu!-sloboda-narodu!-panicarola-perugia)
+    1. [Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](#smrt-fašizmu-sloboda-narodu-panicarola-perugia)
     1. [Raising a Flag over the Reichstag (Panicarola, Perugia)](#raising-a-flag-over-the-reichstag-panicarola-perugia)
     1. [Pugno Palestinese (Panicarola, Perugia)](#pugno-palestinese-panicarola-perugia)
     1. [99Posse (Panicarola, Perugia)](#99posse-panicarola-perugia)
     1. [Porco Rosso (Siena)](#porco-rosso-siena)
+    1. [Fasci Appesi (Milano)](#fasci-appesi-milano)
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
     1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
   - [Lista Griefer](#lista-griefer)
@@ -113,7 +114,7 @@ Colori Sbloccabili
 - Light Slate `#B3B9D1`
 
 ## Progetti
-
+ 
 ### El Che (Cecina, Livorno)
 ![El Che (Cecina, Livorno)](/templates/wplace/che_livorno.png)
 
@@ -147,9 +148,9 @@ Colori Sbloccabili
   1. Goldenrod: 18
   1. Light Goldenrod: 14
   1. Dark Goldenrod: 11
-  1. Brown: 6
   1. Dark Gray: 6
   1. Gold: 6
+  1. Brown: 6
   1. Light Yellow: 1
   1. Dark Green: 1
 
@@ -160,7 +161,7 @@ Colori Sbloccabili
 - Link Template: [/templates/wplace/porcorosso_predappio.png](/templates/wplace/porcorosso_predappio.png)
 - Lista Pixel: (Totale: 14997, 125.0 ore)
   1. Red: 3790
-  1. Cyan: 3213
+  1. Cyan: 3216
   1. Light Indigo: 1922
   1. White: 944
   1. Dark Brown: 766
@@ -178,7 +179,6 @@ Colori Sbloccabili
   1. Olive: 144
   1. Gold: 55
   1. Deep Red: 6
-  1. Dark Green: 3
   1. Dark Tan: 2
   1. Pink: 1
 
@@ -241,24 +241,24 @@ Colori Sbloccabili
   1. Light Gray: 59
   1. Orange: 50
   1. Light Brown: 39
-  1. Light Peach: 32
   1. Light Red: 32
+  1. Light Peach: 32
   1. Dark Gray: 27
   1. Medium Gray: 24
   1. Olive: 17
   1. Dark Stone: 13
   1. Dark Tan: 10
   1. Light Slate: 9
-  1. Light Beige: 8
   1. Light Goldenrod: 8
+  1. Light Beige: 8
   1. Dark Olive: 6
-  1. Light Olive: 5
   1. Gray: 5
+  1. Light Olive: 5
   1. Stone: 3
   1. Light Yellow: 2
   1. Dark Peach: 2
-  1. Dark Beige: 1
   1. Dark Brown: 1
+  1. Dark Beige: 1
 
 ### Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)
 ![Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](/templates/wplace/sfsn_panicarola.png)
@@ -319,8 +319,8 @@ Colori Sbloccabili
   1. Goldenrod: 18
   1. Light Goldenrod: 14
   1. Dark Goldenrod: 11
-  1. Gold: 6
   1. Dark Gray: 6
+  1. Gold: 6
   1. Brown: 6
   1. Light Yellow: 1
   1. Dark Green: 1
@@ -364,13 +364,28 @@ Colori Sbloccabili
   1. Light Teal: 9
   1. Blue: 7
   1. Beige: 6
-  1. Light Stone: 4
   1. Dark Goldenrod: 4
+  1. Light Stone: 4
   1. Goldenrod: 3
-  1. Olive: 2
   1. Pink: 2
-  1. Dark Red: 1
+  1. Olive: 2
   1. Brown: 1
+  1. Dark Red: 1
+
+### Fasci Appesi (Milano)
+![Fasci Appesi (Milano)](/templates/wplace/fasci_appesi_milano.png)
+
+- Coordinate: [1077 732 184 946](https://wplace.live/?lat=45.464754202704455&lng=9.37116177802733&zoom=13.974521)
+- Link Template: [/templates/wplace/fasci_appesi_milano.png](/templates/wplace/fasci_appesi_milano.png)
+- Lista Pixel: (Totale: 11638, 97.0 ore)
+  1. Black: 7046
+  1. Dark Green: 1744
+  1. White: 1523
+  1. Red: 1142
+  1. Yellow: 99
+  1. Green: 33
+  1. Dark Red: 27
+  1. Light Gray: 24
 
 ### Simbolo Transmaoista (Cagliari)
 ![Simbolo Transmaoista (Cagliari)](/templates/wplace/transmaoist_cagliari.png)
@@ -391,6 +406,8 @@ Colori Sbloccabili
   1. Yellow: 18315
   1. Black: 6405
   1. Blue: 4569
+
+
  
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
@@ -455,8 +472,16 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - Solid Snake #5537093 
   * Grief del simbolo del PCI ad Andria
 - HarshShaver #3629477
-  * Grief al simbolo Antifa a Ravenna
-  
+  * Grief del simbolo Antifa a Ravenna
+- Diburcio #9026169
+  * Grief della Bandiera Palestinese a Ravenna
+- Pacciani2000 #8762270
+  * Grief del simbolo Antifa a Ravenna
+- RapidCap #11246980 [COMBATTENTI]
+  * Griefer di art di sinistra in Sardegna
+- CrazyDustpan #8076360
+  * Griefer di art di sinistra in Sardegna
+
 ### Cimitero dei Bozo
 Tutti i griefer bannati
 

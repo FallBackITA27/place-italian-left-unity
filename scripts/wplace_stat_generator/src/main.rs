@@ -1,11 +1,16 @@
-use std::{fs::OpenOptions, io::Write};
 use crate::template_image_read::TemplateImageRead;
+use std::{fs::OpenOptions, io::Write};
 
 mod art_data;
 mod template_image_read;
 
 fn main() {
-    let mut out = OpenOptions::new().create(true).write(true).truncate(true).open("./out.md").expect("Couldn't open file");
+    let mut out = OpenOptions::new()
+        .create(true)
+        .write(true)
+        .truncate(true)
+        .open("./out.md")
+        .expect("Couldn't open file");
 
     let data = wplace_common::art_data::ArtData::read(wplace_common::ART_FILE);
 

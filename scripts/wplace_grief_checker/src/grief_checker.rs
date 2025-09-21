@@ -1,11 +1,12 @@
 use image::{GenericImageView, ImageReader};
-use wplace_common::{art_data::ArtData, color::Color};
+use wplace_common::{art_data::ArtData, color::Color, tile_coords::TileCoords};
 
 const IMAGE_PATH_PREFIX: &'static str = "../../templates/wplace/";
 
 pub struct GriefChecker {
     incorrect_px_count: u32,
     missing_time_hrs: f64,
+    wrong_px_coords: Vec<TileCoords>,
 }
 
 impl GriefChecker {
@@ -63,6 +64,7 @@ impl GriefChecker {
         }
 
         let mut incorrect_px_count = 0;
+        let mut wrong_px_coords = vec![];
 
         for x in 0..img_width {
             for y in 0..img_height {
@@ -85,29 +87,33 @@ impl GriefChecker {
 
                 let tile_x = (x + (template.get_tile_coords_x() as u32)) / 1000;
                 let tile_y = (y + (template.get_tile_coords_y() as u32)) / 1000;
-                let tile_x_coord = (x + (template.get_tile_coords_x() as u32)) % 1000;
-                let tile_y_coord = (y + (template.get_tile_coords_y() as u32)) % 1000;
+                let tile_x_coord = ((x as u16) + template.get_tile_coords_x()) % 1000;
+                let tile_y_coord = ((y as u16) + template.get_tile_coords_y()) % 1000;
                 let tile = tiles[tile_x as usize]
                     .get(tile_y as usize)
                     .expect("Tile Y didn't exist in Tiles vec");
-                let tile_pixel = unsafe { tile.unsafe_get_pixel(tile_x_coord, tile_y_coord) };
+                let tile_pixel =
+                    unsafe { tile.unsafe_get_pixel(tile_x_coord as u32, tile_y_coord as u32) };
 
-                match Color::try_from(tile_pixel.0) {
-                    Ok(v) => {
-                        if v != template_color {
-                            incorrect_px_count += 1
-                        }
-                    }
-                    Err(_) => {
-                        incorrect_px_count += 1;
-                    }
-                };
+                if let Ok(v) = Color::try_from(tile_pixel.0)
+                    && v == template_color
+                {
+                    continue;
+                }
+                incorrect_px_count += 1;
+                wrong_px_coords.push(TileCoords::new(
+                    (tile_x as u16) + template.get_tile_coords_tile_x(),
+                    (tile_y as u16) + template.get_tile_coords_tile_y(),
+                    tile_x_coord,
+                    tile_y_coord,
+                ));
             }
         }
 
         Self {
             incorrect_px_count,
             missing_time_hrs: ((incorrect_px_count * 30) as f64) / 3600.0,
+            wrong_px_coords,
         }
     }
 
@@ -126,4 +132,21 @@ impl GriefChecker {
             )
         }
     }
+
+    pub fn print_wrong_px_coords(&self) -> String {
+        self.wrong_px_coords
+            .iter()
+            .map(|v| String::from("  * ") + print_tile_coords(&v).as_str() + "\n")
+            .collect::<String>()
+    }
+}
+
+fn print_tile_coords(v: &TileCoords) -> String {
+    format!(
+        "Tile X: {}, Tile Y: {}, X: {}, Y: {}",
+        v.get_tile_x(),
+        v.get_tile_y(),
+        v.get_x(),
+        v.get_y()
+    )
 }

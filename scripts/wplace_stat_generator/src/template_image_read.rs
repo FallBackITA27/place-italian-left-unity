@@ -56,7 +56,12 @@ impl TemplateImageRead {
         }
 
         let mut hashmap: Vec<(Color, u64)> = hashmap.iter().map(|(x, y)| (*x, *y)).collect();
-        hashmap.sort_by(|(_, c1), (_, c2)| c2.cmp(c1));
+        hashmap.sort_unstable_by(| (col1, cou1), (col2, cou2) | {
+            match cou1 == cou2 {
+                false => cou2.cmp(cou1),
+                true => col1.cmp(col2)
+            }
+        });
 
         Self {
             total_px: total,

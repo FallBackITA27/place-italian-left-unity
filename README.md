@@ -379,11 +379,11 @@ Colori Sbloccabili
 - Coordinate: [1077 732 184 946](https://wplace.live/?lat=45.464754202704455&lng=9.37116177802733&zoom=13.974521)
 - Link Template: [/templates/wplace/fasci_appesi_milano.png](/templates/wplace/fasci_appesi_milano.png)
 - Lista Pixel: (Totale: 11638, 97.0 ore)
-  1. Black: 7046
+  1. Black: 7048
   1. Dark Green: 1744
   1. White: 1523
   1. Red: 1142
-  1. Yellow: 99
+  1. Yellow: 97
   1. Green: 33
   1. Dark Red: 27 (Sbloccabile)
   1. Light Gray: 24

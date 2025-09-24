@@ -14,6 +14,7 @@ Indice
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
     1. [OSA (Santo Stefano, Ravenna)](#osa-santo-stefano-ravenna)
+    1. [Poster Antifascista (Bologna)](#poster-antifascista-bologna)
     1. [PCI (Andria)](#pci-andria)
     1. [Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](#smrt-fašizmu-sloboda-narodu-panicarola-perugia)
     1. [Raising a Flag over the Reichstag (Panicarola, Perugia)](#raising-a-flag-over-the-reichstag-panicarola-perugia)
@@ -224,6 +225,19 @@ Colori Sbloccabili
 - Lista Pixel: (Totale: 12723, 106.0 ore)
   1. Red: 12592
   1. White: 131
+
+### Poster Antifascista (Bologna)
+![Poster Antifascista (Bologna)](/templates/wplace/antifa_poster_bologna.png)
+
+- Coordinate: [1088 741 377 0](https://wplace.live/?lat=44.465088524442436&lng=11.316357090527315&zoom=14.597788)
+- Link Template: [/templates/wplace/antifa_poster_bologna.png](/templates/wplace/antifa_poster_bologna.png)
+- Lista Pixel: (Totale: 7623, 63.5 ore)
+  1. Red: 5269
+  1. White: 925
+  1. Yellow: 660
+  1. Deep Red: 359
+  1. Dark Red: 344 (Sbloccabile)
+  1. Orange: 66
 
 ### PCI (Andria)
 ![PCI (Andria)](/templates/wplace/pci_andria.png)

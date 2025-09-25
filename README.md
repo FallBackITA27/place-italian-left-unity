@@ -21,6 +21,7 @@ Indice
     1. [Pugno Palestinese (Panicarola, Perugia)](#pugno-palestinese-panicarola-perugia)
     1. [99Posse (Panicarola, Perugia)](#99posse-panicarola-perugia)
     1. [Porco Rosso (Siena)](#porco-rosso-siena)
+    1. [Stemma della Repubblica (Mar Tirreno)](#stemma-della-repubblica-mar-tirreno)
     1. [Fasci Appesi (Milano)](#fasci-appesi-milano)
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
     1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
@@ -386,6 +387,26 @@ Colori Sbloccabili
   1. Olive: 2 (Sbloccabile)
   1. Brown: 1
   1. Dark Red: 1 (Sbloccabile)
+
+### Stemma della Repubblica (Mar Tirreno)
+![Stemma della Repubblica (Mar Tirreno)](/templates/wplace/respublica_mar_tirreno.png)
+
+- Coordinate: [1088 764 169 180](https://wplace.live/?lat=41.48481308011223&lng=11.279794590527334&zoom=14.767614)
+- Link Template: [/templates/wplace/respublica_mar_tirreno.png](/templates/wplace/respublica_mar_tirreno.png)
+- Lista Pixel: (Totale: 6875, 57.3 ore)
+  1. White: 1835
+  1. Medium Gray: 1216 (Sbloccabile)
+  1. Light Gray: 771
+  1. Dark Red: 738 (Sbloccabile)
+  1. Dark Gray: 610
+  1. Dark Olive: 394 (Sbloccabile)
+  1. Tan: 386 (Sbloccabile)
+  1. Deep Red: 349
+  1. Dark Brown: 254
+  1. Olive: 161 (Sbloccabile)
+  1. Dark Tan: 89 (Sbloccabile)
+  1. Brown: 42
+  1. Light Beige: 30 (Sbloccabile)
 
 ### Fasci Appesi (Milano)
 ![Fasci Appesi (Milano)](/templates/wplace/fasci_appesi_milano.png)

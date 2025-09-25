@@ -20,6 +20,7 @@ Indice
     1. [Raising a Flag over the Reichstag (Panicarola, Perugia)](#raising-a-flag-over-the-reichstag-panicarola-perugia)
     1. [Pugno Palestinese (Panicarola, Perugia)](#pugno-palestinese-panicarola-perugia)
     1. [99Posse (Panicarola, Perugia)](#99posse-panicarola-perugia)
+    1. [Global Sumud Flotilla (Panicarola, Perugia)](#global-sumud-flotilla-panicarola-perugia)
     1. [Porco Rosso (Siena)](#porco-rosso-siena)
     1. [Stemma della Repubblica (Mar Tirreno)](#stemma-della-repubblica-mar-tirreno)
     1. [Fasci Appesi (Milano)](#fasci-appesi-milano)
@@ -341,6 +342,16 @@ Colori Sbloccabili
   1. Light Yellow: 1
   1. Dark Green: 1
 
+### Global Sumud Flotilla (Panicarola, Perugia)
+![Global Sumud Flotilla (Panicarola, Perugia)](/templates/wplace/global_sumud_flotilla_panicarola.png)
+
+- Coordinate: [1092 752 572 38](https://wplace.live/?lat=43.06394387636678&lng=12.05375943427732&zoom=13.850356)
+- Link Template: [/templates/wplace/global_sumud_flotilla_panicarola.png](/templates/wplace/global_sumud_flotilla_panicarola.png)
+- Lista Pixel: (Totale: 2799, 23.3 ore)
+  1. Black: 1133
+  1. Dark Green: 998
+  1. Red: 668
+
 ### Porco Rosso (Siena)
 ![Porco Rosso (Siena)](/templates/wplace/porcorosso_siena.png)
 
@@ -555,10 +566,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - HeavyStrap #2027604 [Rule enforcer] 
   * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
 - No_politics #3047458 Rule enforcer
-  * Cancella simboli Comunisti per la Toscana
+  * Cancella simboli Comunisti per la Toscana, ha attaccato il poster Antifascista a Bologna
 - CalmTable #6142945
   * Scrive a Predappio la data di fondazione del Fascismo
-
+- Sir Rouk #9073273
+  * Grief al poster Antifascista a Bologna
+- TallTablet #11757130 
+  * Grief al poster Antifascista a Bologna
+  
 ### Cimitero dei Bozo
 Tutti i griefer bannati
 

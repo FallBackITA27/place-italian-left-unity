@@ -117,7 +117,7 @@ Colori Sbloccabili
 - Light Slate `#B3B9D1`
 
 ## Progetti
- 
+
 ### El Che (Cecina, Livorno)
 ![El Che (Cecina, Livorno)](/templates/wplace/che_livorno.png)
 
@@ -414,10 +414,10 @@ Colori Sbloccabili
 - Coordinate: [1077 732 184 946](https://wplace.live/?lat=45.464754202704455&lng=9.37116177802733&zoom=13.974521)
 - Link Template: [/templates/wplace/fasci_appesi_milano.png](/templates/wplace/fasci_appesi_milano.png)
 - Lista Pixel: (Totale: 11638, 97.0 ore)
-  1. Black: 7048
+  1. Black: 7053
   1. Dark Green: 1744
   1. White: 1523
-  1. Red: 1142
+  1. Red: 1137
   1. Yellow: 97
   1. Green: 33
   1. Dark Red: 27 (Sbloccabile)
@@ -473,7 +473,7 @@ Colori Sbloccabili
   1. Blue: 23
   1. Slate Blue: 17 (Sbloccabile)
   1. Dark Peach: 9 (Sbloccabile)
- 
+
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
 
@@ -556,6 +556,8 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
 - No_politics #3047458 Rule enforcer
   * Cancella simboli Comunisti per la Toscana
+- CalmTable #6142945
+  * Scrive a Predappio la data di fondazione del Fascismo
 
 ### Cimitero dei Bozo
 Tutti i griefer bannati

@@ -6,7 +6,7 @@ const IMAGE_PATH_PREFIX: &'static str = "../../templates/wplace/";
 pub struct GriefChecker {
     incorrect_px_count: u32,
     missing_time_hrs: f64,
-    wrong_px_coords: Vec<TileCoords>,
+    wrong_px_coords: Vec<(TileCoords, Color)>,
 }
 
 impl GriefChecker {
@@ -101,18 +101,19 @@ impl GriefChecker {
                     continue;
                 }
                 incorrect_px_count += 1;
-                wrong_px_coords.push(TileCoords::new(
+                wrong_px_coords.push((TileCoords::new(
                     (tile_x as u16) + template.get_tile_coords_tile_x(),
                     (tile_y as u16) + template.get_tile_coords_tile_y(),
                     tile_x_coord,
                     tile_y_coord,
-                ));
+                ), template_color));
             }
         }
 
         Self {
             incorrect_px_count,
-            missing_time_hrs: ((incorrect_px_count * 30) as f64) / 3600.0,
+            /* ((incorrect_px_count * 30) as f64) / 3600.0 */
+            missing_time_hrs: (incorrect_px_count as f64) / 120.0,
             wrong_px_coords,
         }
     }
@@ -136,7 +137,7 @@ impl GriefChecker {
     pub fn print_wrong_px_coords(&self) -> String {
         self.wrong_px_coords
             .iter()
-            .map(|v| String::from("  * ") + print_tile_coords(&v).as_str() + "\n")
+            .map(|v| String::from("  * ") + print_tile_coords(&v.0).as_str() + " " + v.1.to_string().as_str() + "\n")
             .collect::<String>()
     }
 }

@@ -183,10 +183,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - HeavyStrap #2027604 [Rule enforcer] 
   * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
 - No_politics #3047458 Rule enforcer
-  * Cancella simboli Comunisti per la Toscana
+  * Cancella simboli Comunisti per la Toscana, ha attaccato il poster Antifascista a Bologna
 - CalmTable #6142945
   * Scrive a Predappio la data di fondazione del Fascismo
-
+- Sir Rouk #9073273
+  * Grief al poster Antifascista a Bologna
+- TallTablet #11757130 
+  * Grief al poster Antifascista a Bologna
+  
 ### Cimitero dei Bozo
 Tutti i griefer bannati
 

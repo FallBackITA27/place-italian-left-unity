@@ -1,8 +1,28 @@
 
-El Che (Cecina, Livorno)
-che_livorno.png
-(Tl X: 1083, Tl Y: 750, Px X: 402, Px Y: 380)
-lat=43.27650168709436&lng=10.44184537177733&zoom=15.578050964265982
+Antifa (Ravenna)
+antifa_ravenna.png
+(Tl X: 1092, Tl Y: 741, Px X: 599, Px Y: 91)
+lat=44.45367135765851&lng=12.058505528027341&zoom=17.164317610825215
+        
+Bandiera della Palestina (Ravenna)
+palball_ravenna.png
+(Tl X: 1093, Tl Y: 741, Px X: 100, Px Y: 300)
+lat=44.42744106125955&lng=12.14657193427734&zoom=17.55340120294935
+
+Frase Antifa (Ravenna)
+frase_ravenna.png
+(Tl X: 1093, Tl Y: 741, Px X: 48, Px Y: 573)
+lat=44.39052300717444&lng=12.150614903027328&zoom=15.217751475790196
+
+OSA (Santo Stefano, Ravenna)
+osa_ravenna.png
+(Tl X: 1093, Tl Y: 742, Px X: 184, Px Y: 161)
+lat=44.31925809973999&lng=12.161337559277339&zoom=13.504160107323138
+
+Logo Comintern (Siracusa)
+comintern_siracusa.png
+(Tl X: 1109, Tl Y: 795, Px X: 0, Px Y: 500)
+lat=37.088627539057875&lng=15.069814121777341&zoom=10.800757516807698
 
 Lenin (Pomarance, Pisa)
 lenin_pomarance.png
@@ -23,6 +43,11 @@ Unità di Protezione Popolare (Pomarance, Pisa)
 ypg_pomarance.png
 (Tl X: 1085, Tl Y: 750, Px X: 918, Px Y: 225)
 lat=43.29505570179985&lng=10.886396153027341&zoom=16.16874457933252
+
+Falce e Martello PCdI 1921 (Pomarance, Pisa)
+hamsick_pcdi_pomarance.png
+(Tl X: 1085, Tl Y: 750, Px X: 917, Px Y: 257)
+lat=43.28814659213935&lng=10.888329746777337&zoom=15.44236433865782
 
 Antifa (Pomarance, Pisa)
 antifa_pomarance.png
@@ -79,6 +104,11 @@ hamsick_pomarance.png
 (Tl X: 1085, Tl Y: 750, Px X: 909, Px Y: 194)
 lat=43.29863789410152&lng=10.884989903027343&zoom=16.604960171866008
 
+El Che (Cecina, Livorno)
+che_livorno.png
+(Tl X: 1083, Tl Y: 750, Px X: 402, Px Y: 380)
+lat=43.27650168709436&lng=10.44184537177733&zoom=15.578050964265982
+
 Corea del Nord (Livorno)
 dprk_livorno.png
 (Tl X: 1082, Tl Y: 747, Px X: 518, Px Y: 921)
@@ -98,26 +128,6 @@ Packwatch (Predappio, Forlì)
 packwatch_predappio.png
 (Tl X: 1092, Tl Y: 743, Px X: 58, Px Y: 774)
 lat=44.11390454327602&lng=11.97237271552734&zoom=15.453534498294783
-
-Antifa (Ravenna)
-antifa_ravenna.png
-(Tl X: 1092, Tl Y: 741, Px X: 599, Px Y: 91)
-lat=44.45367135765851&lng=12.058505528027341&zoom=17.164317610825215
-        
-Bandiera della Palestina (Ravenna)
-palball_ravenna.png
-(Tl X: 1093, Tl Y: 741, Px X: 100, Px Y: 300)
-lat=44.42744106125955&lng=12.14657193427734&zoom=17.55340120294935
-
-Frase Antifa (Ravenna)
-frase_ravenna.png
-(Tl X: 1093, Tl Y: 741, Px X: 48, Px Y: 573)
-lat=44.39052300717444&lng=12.150614903027328&zoom=15.217751475790196
-
-OSA (Santo Stefano, Ravenna)
-osa_ravenna.png
-(Tl X: 1093, Tl Y: 742, Px X: 184, Px Y: 161)
-lat=44.31925809973999&lng=12.161337559277339&zoom=13.504160107323138
 
 Poster Antifascista (Bologna)
 antifa_poster_bologna.png
@@ -203,8 +213,3 @@ Freie Deutsche Jugend (Nuoro)
 fdj_nuoro.png
 (Tl X: 1077, Tl Y: 775, Px X: 722, Px Y: 64)
 lat=40.01839384637391&lng=9.45852505927733&zoom=13.898520937137516
-
-Logo Comintern (Siracusa)
-comintern_siracusa.png
-(Tl X: 1109, Tl Y: 795, Px X: 0, Px Y: 500)
-lat=37.088627539057875&lng=15.069814121777341&zoom=10.800757516807698

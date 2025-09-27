@@ -7,11 +7,16 @@ Indice
 - [Wplace](#wplace)
   - [Lista colori](#lista-colori)
   - [Progetti](#progetti)
-    1. [El Che (Cecina, Livorno)](#el-che-cecina-livorno)
+    1. [Antifa (Ravenna)](#antifa-ravenna)
+    1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
+    1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
+    1. [OSA (Santo Stefano, Ravenna)](#osa-santo-stefano-ravenna)
+    1. [Logo Comintern (Siracusa)](#logo-comintern-siracusa)
     1. [Lenin (Pomarance, Pisa)](#lenin-pomarance-pisa)
     1. [Gramsci (Pomarance, Pisa)](#gramsci-pomarance-pisa)
     1. [El Che (Pomarance, Pisa)](#el-che-pomarance-pisa)
     1. [Unità di Protezione Popolare (Pomarance, Pisa)](#unità-di-protezione-popolare-pomarance-pisa)
+    1. [Falce e Martello PCdI 1921 (Pomarance, Pisa)](#falce-e-martello-pcdi-1921-pomarance-pisa)
     1. [Antifa (Pomarance, Pisa)](#antifa-pomarance-pisa)
     1. [Pingu (Pomarance, Pisa)](#pingu-pomarance-pisa)
     1. [Palestinese (Pomarance, Pisa)](#palestinese-pomarance-pisa)
@@ -23,14 +28,11 @@ Indice
     1. [Thomas Sankara (Pomarance, Pisa)](#thomas-sankara-pomarance-pisa)
     1. [Commish (Pomarance, Pisa)](#commish-pomarance-pisa)
     1. [Falce e Martello (Pomarance, Pisa)](#falce-e-martello-pomarance-pisa)
+    1. [El Che (Cecina, Livorno)](#el-che-cecina-livorno)
     1. [Corea del Nord (Livorno)](#corea-del-nord-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
     1. [Packwatch (Predappio, Forlì)](#packwatch-predappio-forlì)
-    1. [Antifa (Ravenna)](#antifa-ravenna)
-    1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
-    1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
-    1. [OSA (Santo Stefano, Ravenna)](#osa-santo-stefano-ravenna)
     1. [Poster Antifascista (Bologna)](#poster-antifascista-bologna)
     1. [PCI (Andria)](#pci-andria)
     1. [Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](#smrt-fašizmu-sloboda-narodu-panicarola-perugia)
@@ -48,7 +50,6 @@ Indice
     1. [Fasci Appesi (Milano)](#fasci-appesi-milano)
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
     1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
-    1. [Logo Comintern (Siracusa)](#logo-comintern-siracusa)
   - [Lista Griefer](#lista-griefer)
     - [Cimitero dei Bozo](#cimitero-dei-bozo) 
 
@@ -141,21 +142,78 @@ Colori Sbloccabili
 
 ## Progetti
 
-### El Che (Cecina, Livorno)
-![El Che (Cecina, Livorno)](/templates/wplace/che_livorno.png)
+### Antifa (Ravenna)
+![Antifa (Ravenna)](/templates/wplace/antifa_ravenna.png)
 
-- Coordinate: [1083 750 402 380](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578051)
-- Link Template: [/templates/wplace/che_livorno.png](/templates/wplace/che_livorno.png)
-- Lista Pixel: (Totale: 11224, 93.5 ore)
-  1. Red: 7298
-  1. Black: 2906
-  1. White: 903
-  1. Deep Red: 58
-  1. Light Gray: 29
-  1. Dark Gray: 18
-  1. Gray: 7
-  1. Dark Brown: 4
-  1. Dark Pink: 1
+- Coordinate: [1092 741 599 91](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164318)
+- Link Template: [/templates/wplace/antifa_ravenna.png](/templates/wplace/antifa_ravenna.png)
+- Lista Pixel: (Totale: 146626, 1221.9 ore)
+  1. White: 52519
+  1. Black: 50784
+  1. Red: 41256
+  1. Light Gray: 944
+  1. Gray: 565
+  1. Dark Gray: 558
+
+### Bandiera della Palestina (Ravenna)
+![Bandiera della Palestina (Ravenna)](/templates/wplace/palball_ravenna.png)
+
+- Coordinate: [1093 741 100 300](https://wplace.live/?lat=44.42744106125955&lng=12.14657193427734&zoom=17.553402)
+- Link Template: [/templates/wplace/palball_ravenna.png](/templates/wplace/palball_ravenna.png)
+- Lista Pixel: (Totale: 45192, 376.6 ore)
+  1. Dark Teal: 11417
+  1. Red: 11379
+  1. Black: 11264
+  1. White: 11132
+
+### Frase Antifa (Ravenna)
+![Frase Antifa (Ravenna)](/templates/wplace/frase_ravenna.png)
+
+- Coordinate: [1093 741 48 573](https://wplace.live/?lat=44.39052300717444&lng=12.150614903027328&zoom=15.2177515)
+- Link Template: [/templates/wplace/frase_ravenna.png](/templates/wplace/frase_ravenna.png)
+- Lista Pixel: (Totale: 9048, 75.4 ore)
+  1. Red: 6886
+  1. Black: 2162
+
+### OSA (Santo Stefano, Ravenna)
+![OSA (Santo Stefano, Ravenna)](/templates/wplace/osa_ravenna.png)
+
+- Coordinate: [1093 742 184 161](https://wplace.live/?lat=44.31925809973999&lng=12.161337559277339&zoom=13.50416)
+- Link Template: [/templates/wplace/osa_ravenna.png](/templates/wplace/osa_ravenna.png)
+- Lista Pixel: (Totale: 12723, 106.0 ore)
+  1. Red: 12592
+  1. White: 131
+
+### Logo Comintern (Siracusa)
+![Logo Comintern (Siracusa)](/templates/wplace/comintern_siracusa.png)
+
+- Coordinate: [1109 795 0 500](https://wplace.live/?lat=37.088627539057875&lng=15.069814121777341&zoom=10.800757)
+- Link Template: [/templates/wplace/comintern_siracusa.png](/templates/wplace/comintern_siracusa.png)
+- Lista Pixel: (Totale: 198884, 1657.4 ore)
+  1. Light Blue: 64078 (Sbloccabile)
+  1. Red: 35054
+  1. Dark Red: 27726 (Sbloccabile)
+  1. Deep Red: 19000
+  1. Yellow: 16651
+  1. Dark Brown: 12083
+  1. Gold: 8856
+  1. Dark Orange: 6674 (Sbloccabile)
+  1. Black: 5191
+  1. Cyan: 684
+  1. Slate: 684 (Sbloccabile)
+  1. Dark Gray: 650
+  1. Brown: 311
+  1. Goldenrod: 292 (Sbloccabile)
+  1. Dark Goldenrod: 250 (Sbloccabile)
+  1. Dark Slate Blue: 250 (Sbloccabile)
+  1. Dark Slate: 198 (Sbloccabile)
+  1. Dark Olive: 83 (Sbloccabile)
+  1. Light Goldenrod: 62 (Sbloccabile)
+  1. Gray: 30
+  1. Dark Cyan: 28 (Sbloccabile)
+  1. Blue: 23
+  1. Slate Blue: 17 (Sbloccabile)
+  1. Dark Peach: 9 (Sbloccabile)
 
 ### Lenin (Pomarance, Pisa)
 ![Lenin (Pomarance, Pisa)](/templates/wplace/lenin_pomarance.png)
@@ -201,6 +259,20 @@ Colori Sbloccabili
   1. Brown: 14
   1. Red: 11
   1. Gray: 6
+
+### Falce e Martello PCdI 1921 (Pomarance, Pisa)
+![Falce e Martello PCdI 1921 (Pomarance, Pisa)](/templates/wplace/hamsick_pcdi_pomarance.png)
+
+- Coordinate: [1085 750 917 257](https://wplace.live/?lat=43.28814659213935&lng=10.888329746777337&zoom=15.442365)
+- Link Template: [/templates/wplace/hamsick_pcdi_pomarance.png](/templates/wplace/hamsick_pcdi_pomarance.png)
+- Lista Pixel: (Totale: 553, 4.6 ore)
+  1. Red: 305
+  1. Yellow: 133
+  1. Black: 55
+  1. Dark Tan: 42 (Sbloccabile)
+  1. Gray: 10
+  1. Dark Brown: 5
+  1. Dark Gray: 3
 
 ### Antifa (Pomarance, Pisa)
 ![Antifa (Pomarance, Pisa)](/templates/wplace/antifa_pomarance.png)
@@ -345,6 +417,22 @@ Colori Sbloccabili
   1. Yellow: 222
   1. Red: 117
 
+### El Che (Cecina, Livorno)
+![El Che (Cecina, Livorno)](/templates/wplace/che_livorno.png)
+
+- Coordinate: [1083 750 402 380](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578051)
+- Link Template: [/templates/wplace/che_livorno.png](/templates/wplace/che_livorno.png)
+- Lista Pixel: (Totale: 11224, 93.5 ore)
+  1. Red: 7298
+  1. Black: 2906
+  1. White: 903
+  1. Deep Red: 58
+  1. Light Gray: 29
+  1. Dark Gray: 18
+  1. Gray: 7
+  1. Dark Brown: 4
+  1. Dark Pink: 1
+
 ### Corea del Nord (Livorno)
 ![Corea del Nord (Livorno)](/templates/wplace/dprk_livorno.png)
 
@@ -429,48 +517,6 @@ Colori Sbloccabili
   1. Orange: 10
   1. Light Indigo: 1
   1. Light Pink: 1
-
-### Antifa (Ravenna)
-![Antifa (Ravenna)](/templates/wplace/antifa_ravenna.png)
-
-- Coordinate: [1092 741 599 91](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164318)
-- Link Template: [/templates/wplace/antifa_ravenna.png](/templates/wplace/antifa_ravenna.png)
-- Lista Pixel: (Totale: 146626, 1221.9 ore)
-  1. White: 52519
-  1. Black: 50784
-  1. Red: 41256
-  1. Light Gray: 944
-  1. Gray: 565
-  1. Dark Gray: 558
-
-### Bandiera della Palestina (Ravenna)
-![Bandiera della Palestina (Ravenna)](/templates/wplace/palball_ravenna.png)
-
-- Coordinate: [1093 741 100 300](https://wplace.live/?lat=44.42744106125955&lng=12.14657193427734&zoom=17.553402)
-- Link Template: [/templates/wplace/palball_ravenna.png](/templates/wplace/palball_ravenna.png)
-- Lista Pixel: (Totale: 45192, 376.6 ore)
-  1. Dark Teal: 11417
-  1. Red: 11379
-  1. Black: 11264
-  1. White: 11132
-
-### Frase Antifa (Ravenna)
-![Frase Antifa (Ravenna)](/templates/wplace/frase_ravenna.png)
-
-- Coordinate: [1093 741 48 573](https://wplace.live/?lat=44.39052300717444&lng=12.150614903027328&zoom=15.2177515)
-- Link Template: [/templates/wplace/frase_ravenna.png](/templates/wplace/frase_ravenna.png)
-- Lista Pixel: (Totale: 9048, 75.4 ore)
-  1. Red: 6886
-  1. Black: 2162
-
-### OSA (Santo Stefano, Ravenna)
-![OSA (Santo Stefano, Ravenna)](/templates/wplace/osa_ravenna.png)
-
-- Coordinate: [1093 742 184 161](https://wplace.live/?lat=44.31925809973999&lng=12.161337559277339&zoom=13.50416)
-- Link Template: [/templates/wplace/osa_ravenna.png](/templates/wplace/osa_ravenna.png)
-- Lista Pixel: (Totale: 12723, 106.0 ore)
-  1. Red: 12592
-  1. White: 131
 
 ### Poster Antifascista (Bologna)
 ![Poster Antifascista (Bologna)](/templates/wplace/antifa_poster_bologna.png)
@@ -756,37 +802,6 @@ Colori Sbloccabili
   1. Yellow: 18315
   1. Black: 6405
   1. Blue: 4569
-
-### Logo Comintern (Siracusa)
-![Logo Comintern (Siracusa)](/templates/wplace/comintern_siracusa.png)
-
-- Coordinate: [1109 795 0 500](https://wplace.live/?lat=37.088627539057875&lng=15.069814121777341&zoom=10.800757)
-- Link Template: [/templates/wplace/comintern_siracusa.png](/templates/wplace/comintern_siracusa.png)
-- Lista Pixel: (Totale: 198884, 1657.4 ore)
-  1. Light Blue: 64078 (Sbloccabile)
-  1. Red: 35054
-  1. Dark Red: 27726 (Sbloccabile)
-  1. Deep Red: 19000
-  1. Yellow: 16651
-  1. Dark Brown: 12083
-  1. Gold: 8856
-  1. Dark Orange: 6674 (Sbloccabile)
-  1. Black: 5191
-  1. Cyan: 684
-  1. Slate: 684 (Sbloccabile)
-  1. Dark Gray: 650
-  1. Brown: 311
-  1. Goldenrod: 292 (Sbloccabile)
-  1. Dark Goldenrod: 250 (Sbloccabile)
-  1. Dark Slate Blue: 250 (Sbloccabile)
-  1. Dark Slate: 198 (Sbloccabile)
-  1. Dark Olive: 83 (Sbloccabile)
-  1. Light Goldenrod: 62 (Sbloccabile)
-  1. Gray: 30
-  1. Dark Cyan: 28 (Sbloccabile)
-  1. Blue: 23
-  1. Slate Blue: 17 (Sbloccabile)
-  1. Dark Peach: 9 (Sbloccabile)
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

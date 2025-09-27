@@ -8,20 +8,21 @@ Indice
   - [Lista colori](#lista-colori)
   - [Progetti](#progetti)
     1. [El Che (Cecina, Livorno)](#el-che-cecina-livorno)
-    1. [Lenin (Pomarance, Livorno)](#lenin-pomarance-livorno)
-    1. [Gramsci (Pomarance, Livorno)](#gramsci-pomarance-livorno)
-    1. [El Che (Pomarance, Livorno)](#el-che-pomarance-livorno)
-    1. [Antifa (Pomarance, Livorno)](#antifa-pomarance-livorno)
-    1. [Pingu (Pomarance, Livorno)](#pingu-pomarance-livorno)
-    1. [Palestinese (Pomarance, Livorno)](#palestinese-pomarance-livorno)
-    1. [Fronte Democratico per la Liberazione della Palestina (Pomarance, Livorno)](#fronte-democratico-per-la-liberazione-della-palestina-pomarance-livorno)
-    1. [Comitato di Liberazione Nazionale (Pomarance, Livorno)](#comitato-di-liberazione-nazionale-pomarance-livorno)
-    1. [Fidel Castro (Pomarance, Livorno)](#fidel-castro-pomarance-livorno)
-    1. [Stella Partigiana (Pomarance, Livorno)](#stella-partigiana-pomarance-livorno)
-    1. [Monkey D. Luffy Palestinese (Pomarance, Livorno)](#monkey-d.-luffy-palestinese-pomarance-livorno)
-    1. [Thomas Sankara (Pomarance, Livorno)](#thomas-sankara-pomarance-livorno)
-    1. [Commish (Pomarance, Livorno)](#commish-pomarance-livorno)
-    1. [Falce e Martello (Pomarance, Livorno)](#falce-e-martello-pomarance-livorno)
+    1. [Lenin (Pomarance, Pisa)](#lenin-pomarance-pisa)
+    1. [Gramsci (Pomarance, Pisa)](#gramsci-pomarance-pisa)
+    1. [El Che (Pomarance, Pisa)](#el-che-pomarance-pisa)
+    1. [Unità di Protezione Popolare (Pomarance, Pisa)](#unità-di-protezione-popolare-pomarance-pisa)
+    1. [Antifa (Pomarance, Pisa)](#antifa-pomarance-pisa)
+    1. [Pingu (Pomarance, Pisa)](#pingu-pomarance-pisa)
+    1. [Palestinese (Pomarance, Pisa)](#palestinese-pomarance-pisa)
+    1. [Fronte Democratico per la Liberazione della Palestina (Pomarance, Pisa)](#fronte-democratico-per-la-liberazione-della-palestina-pomarance-pisa)
+    1. [Comitato di Liberazione Nazionale (Pomarance, Pisa)](#comitato-di-liberazione-nazionale-pomarance-pisa)
+    1. [Fidel Castro (Pomarance, Pisa)](#fidel-castro-pomarance-pisa)
+    1. [Stella Partigiana (Pomarance, Pisa)](#stella-partigiana-pomarance-pisa)
+    1. [Monkey D. Luffy Palestinese (Pomarance, Pisa)](#monkey-d.-luffy-palestinese-pomarance-pisa)
+    1. [Thomas Sankara (Pomarance, Pisa)](#thomas-sankara-pomarance-pisa)
+    1. [Commish (Pomarance, Pisa)](#commish-pomarance-pisa)
+    1. [Falce e Martello (Pomarance, Pisa)](#falce-e-martello-pomarance-pisa)
     1. [Corea del Nord (Livorno)](#corea-del-nord-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
@@ -156,8 +157,8 @@ Colori Sbloccabili
   1. Dark Brown: 4
   1. Dark Pink: 1
 
-### Lenin (Pomarance, Livorno)
-![Lenin (Pomarance, Livorno)](/templates/wplace/lenin_pomarance.png)
+### Lenin (Pomarance, Pisa)
+![Lenin (Pomarance, Pisa)](/templates/wplace/lenin_pomarance.png)
 
 - Coordinate: [1085 750 885 287](https://wplace.live/?lat=43.29121740444366&lng=10.889560215527334&zoom=15.023628)
 - Link Template: [/templates/wplace/lenin_pomarance.png](/templates/wplace/lenin_pomarance.png)
@@ -165,8 +166,8 @@ Colori Sbloccabili
   1. Yellow: 596
   1. Red: 570
 
-### Gramsci (Pomarance, Livorno)
-![Gramsci (Pomarance, Livorno)](/templates/wplace/gramsci_pomarance.png)
+### Gramsci (Pomarance, Pisa)
+![Gramsci (Pomarance, Pisa)](/templates/wplace/gramsci_pomarance.png)
 
 - Coordinate: [1085 750 740 203](https://wplace.live/?lat=43.29620714376787&lng=10.856161778027342&zoom=15.118365)
 - Link Template: [/templates/wplace/gramsci_pomarance.png](/templates/wplace/gramsci_pomarance.png)
@@ -177,8 +178,8 @@ Colori Sbloccabili
   1. Dark Red: 107 (Sbloccabile)
   1. Light Red: 39 (Sbloccabile)
 
-### El Che (Pomarance, Livorno)
-![El Che (Pomarance, Livorno)](/templates/wplace/che_pomarance.png)
+### El Che (Pomarance, Pisa)
+![El Che (Pomarance, Pisa)](/templates/wplace/che_pomarance.png)
 
 - Coordinate: [1085 750 640 73](https://wplace.live/?lat=43.308743656159024&lng=10.841396153027327&zoom=14.592156)
 - Link Template: [/templates/wplace/che_pomarance.png](/templates/wplace/che_pomarance.png)
@@ -187,8 +188,22 @@ Colori Sbloccabili
   1. White: 793
   1. Red: 245
 
-### Antifa (Pomarance, Livorno)
-![Antifa (Pomarance, Livorno)](/templates/wplace/antifa_pomarance.png)
+### Unità di Protezione Popolare (Pomarance, Pisa)
+![Unità di Protezione Popolare (Pomarance, Pisa)](/templates/wplace/ypg_pomarance.png)
+
+- Coordinate: [1085 750 918 225](https://wplace.live/?lat=43.29505570179985&lng=10.886396153027341&zoom=16.168745)
+- Link Template: [/templates/wplace/ypg_pomarance.png](/templates/wplace/ypg_pomarance.png)
+- Lista Pixel: (Totale: 287, 2.4 ore)
+  1. Yellow: 129
+  1. Dark Green: 51
+  1. Dark Gray: 46
+  1. Light Green: 30
+  1. Brown: 14
+  1. Red: 11
+  1. Gray: 6
+
+### Antifa (Pomarance, Pisa)
+![Antifa (Pomarance, Pisa)](/templates/wplace/antifa_pomarance.png)
 
 - Coordinate: [1085 750 885 540](https://wplace.live/?lat=43.25397334887157&lng=10.881298496777319&zoom=16.115095)
 - Link Template: [/templates/wplace/antifa_pomarance.png](/templates/wplace/antifa_pomarance.png)
@@ -199,8 +214,8 @@ Colori Sbloccabili
   1. Gold: 116
   1. Light Gray: 83
 
-### Pingu (Pomarance, Livorno)
-![Pingu (Pomarance, Livorno)](/templates/wplace/pingu_pomarance.png)
+### Pingu (Pomarance, Pisa)
+![Pingu (Pomarance, Pisa)](/templates/wplace/pingu_pomarance.png)
 
 - Coordinate: [1085 750 414 226](https://wplace.live/?lat=43.29326452651361&lng=10.797802403027312&zoom=16.126343)
 - Link Template: [/templates/wplace/pingu_pomarance.png](/templates/wplace/pingu_pomarance.png)
@@ -214,8 +229,8 @@ Colori Sbloccabili
   1. Dark Brown: 17
   1. Red: 7
 
-### Palestinese (Pomarance, Livorno)
-![Palestinese (Pomarance, Livorno)](/templates/wplace/palestinese_pomarance.png)
+### Palestinese (Pomarance, Pisa)
+![Palestinese (Pomarance, Pisa)](/templates/wplace/palestinese_pomarance.png)
 
 - Coordinate: [1085 750 322 263](https://wplace.live/?lat=43.286099297804&lng=10.783564121777344&zoom=15.200851)
 - Link Template: [/templates/wplace/palestinese_pomarance.png](/templates/wplace/palestinese_pomarance.png)
@@ -226,8 +241,8 @@ Colori Sbloccabili
   1. Red: 131
   1. Medium Gray: 37 (Sbloccabile)
 
-### Fronte Democratico per la Liberazione della Palestina (Pomarance, Livorno)
-![Fronte Democratico per la Liberazione della Palestina (Pomarance, Livorno)](/templates/wplace/dflp_pomarance.png)
+### Fronte Democratico per la Liberazione della Palestina (Pomarance, Pisa)
+![Fronte Democratico per la Liberazione della Palestina (Pomarance, Pisa)](/templates/wplace/dflp_pomarance.png)
 
 - Coordinate: [1085 750 407 292](https://wplace.live/?lat=43.285587463453645&lng=10.796923496777314&zoom=16.127295)
 - Link Template: [/templates/wplace/dflp_pomarance.png](/templates/wplace/dflp_pomarance.png)
@@ -237,17 +252,17 @@ Colori Sbloccabili
   1. Black: 88
   1. Dark Teal: 26
 
-### Comitato di Liberazione Nazionale (Pomarance, Livorno)
-![Comitato di Liberazione Nazionale (Pomarance, Livorno)](/templates/wplace/cln_pomarance.png)
+### Comitato di Liberazione Nazionale (Pomarance, Pisa)
+![Comitato di Liberazione Nazionale (Pomarance, Pisa)](/templates/wplace/cln_pomarance.png)
 
-- Coordinate: [1085 750 831 223](https://wplace.live/?lat=43.2936483542305&lng=10.881825840527318&zoom=15.748345)
+- Coordinate: [1085 750 885 224](https://wplace.live/?lat=43.2936483542305&lng=10.881825840527318&zoom=15.748345)
 - Link Template: [/templates/wplace/cln_pomarance.png](/templates/wplace/cln_pomarance.png)
 - Lista Pixel: (Totale: 227, 1.9 ore)
   1. White: 140
   1. Black: 87
 
-### Fidel Castro (Pomarance, Livorno)
-![Fidel Castro (Pomarance, Livorno)](/templates/wplace/castro_pomarance.png)
+### Fidel Castro (Pomarance, Pisa)
+![Fidel Castro (Pomarance, Pisa)](/templates/wplace/castro_pomarance.png)
 
 - Coordinate: [1085 750 831 223](https://wplace.live/?lat=43.293776296264454&lng=10.872860996777339&zoom=15.748345)
 - Link Template: [/templates/wplace/castro_pomarance.png](/templates/wplace/castro_pomarance.png)
@@ -259,8 +274,8 @@ Colori Sbloccabili
   1. Brown: 27
   1. Red: 12
 
-### Stella Partigiana (Pomarance, Livorno)
-![Stella Partigiana (Pomarance, Livorno)](/templates/wplace/stella_partigiana_pomarance.png)
+### Stella Partigiana (Pomarance, Pisa)
+![Stella Partigiana (Pomarance, Pisa)](/templates/wplace/stella_partigiana_pomarance.png)
 
 - Coordinate: [1085 750 794 273](https://wplace.live/?lat=43.28904226174339&lng=10.864071934277327&zoom=16.60586)
 - Link Template: [/templates/wplace/stella_partigiana_pomarance.png](/templates/wplace/stella_partigiana_pomarance.png)
@@ -270,8 +285,8 @@ Colori Sbloccabili
   1. White: 24
   1. Dark Green: 21
 
-### Monkey D. Luffy Palestinese (Pomarance, Livorno)
-![Monkey D. Luffy Palestinese (Pomarance, Livorno)](/templates/wplace/luffy_palestina_pomarance.png)
+### Monkey D. Luffy Palestinese (Pomarance, Pisa)
+![Monkey D. Luffy Palestinese (Pomarance, Pisa)](/templates/wplace/luffy_palestina_pomarance.png)
 
 - Coordinate: [1085 750 765 301](https://wplace.live/?lat=43.27394206853782&lng=10.863193028027329&zoom=14.788195)
 - Link Template: [/templates/wplace/luffy_palestina_pomarance.png](/templates/wplace/luffy_palestina_pomarance.png)
@@ -293,8 +308,8 @@ Colori Sbloccabili
   1. Blue: 69
   1. Gold: 18
 
-### Thomas Sankara (Pomarance, Livorno)
-![Thomas Sankara (Pomarance, Livorno)](/templates/wplace/sankara_pomarance.png)
+### Thomas Sankara (Pomarance, Pisa)
+![Thomas Sankara (Pomarance, Pisa)](/templates/wplace/sankara_pomarance.png)
 
 - Coordinate: [1085 750 469 298](https://wplace.live/?lat=43.282516366913114&lng=10.80852505927732&zoom=15.122456)
 - Link Template: [/templates/wplace/sankara_pomarance.png](/templates/wplace/sankara_pomarance.png)
@@ -306,8 +321,8 @@ Colori Sbloccabili
   1. Red: 13
   1. Dark Gray: 10
 
-### Commish (Pomarance, Livorno)
-![Commish (Pomarance, Livorno)](/templates/wplace/commish_pomarance.png)
+### Commish (Pomarance, Pisa)
+![Commish (Pomarance, Pisa)](/templates/wplace/commish_pomarance.png)
 
 - Coordinate: [1085 750 906 458](https://wplace.live/?lat=43.26408653193807&lng=10.884462559277312&zoom=16.031658)
 - Link Template: [/templates/wplace/commish_pomarance.png](/templates/wplace/commish_pomarance.png)
@@ -321,8 +336,8 @@ Colori Sbloccabili
   1. Yellow: 20
   1. Gold: 2
 
-### Falce e Martello (Pomarance, Livorno)
-![Falce e Martello (Pomarance, Livorno)](/templates/wplace/hamsick_pomarance.png)
+### Falce e Martello (Pomarance, Pisa)
+![Falce e Martello (Pomarance, Pisa)](/templates/wplace/hamsick_pomarance.png)
 
 - Coordinate: [1085 750 909 194](https://wplace.live/?lat=43.29863789410152&lng=10.884989903027343&zoom=16.60496)
 - Link Template: [/templates/wplace/hamsick_pomarance.png](/templates/wplace/hamsick_pomarance.png)

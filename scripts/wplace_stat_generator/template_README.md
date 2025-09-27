@@ -123,13 +123,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo A
 - DeathToCommies #11598762
   * Alt Gruppo A
-- Clown Show #8371675
+- EuroNutella #6122444
+  * Scritte di ispirazione neonazista, cancella e attacca loghi di organizzazioni di sinistra, in tutta Italia, eurofascio fiorentino, anche conosciuto con l'alias `EuroNutellaMan` su alcuni social
 - [SPQR] Rokyff9 #970884 [Versilia squad]
   * Grief costanti al Che a Livorno
 - Bibi Netanyahu #11304440
   * Grief costanti al Che a Livorno
 - Soycuck #87336385
-  * Grief costanti al Che a Livorno
+  * Grief costanti al Che a Livorno, al simbolo di OSA ed Antifa a Ravenna, e al poster Antifascista a Bologna
 - RPH #114013
   * Grief costanti al Che a Livorno
 - SaltyLupo #11208701
@@ -178,18 +179,34 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Grief di una bandiera palestinese a Cecina, Livorno
 - Florence rusher #11483379
   * Grief di varie bandiere Palestinesi e Esperanto vicino a Rosignano, Livorno
-- EuroNutella #6122444
-  * Scritte di ispirazione neonazista
 - HeavyStrap #2027604 [Rule enforcer] 
   * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
 - No_politics #3047458 Rule enforcer
   * Cancella simboli Comunisti per la Toscana, ha attaccato il poster Antifascista a Bologna
 - CalmTable #6142945
-  * Scrive a Predappio la data di fondazione del Fascismo
+  * Scrive a Predappio la data di fondazione del Fascismo, chiama Mussolini "Figlio del Secolo" come elogio
 - Sir Rouk #9073273
   * Grief al poster Antifascista a Bologna
 - TallTablet #11757130 
   * Grief al poster Antifascista a Bologna
+- gatto2210 #10354131 [Faenza Merda]
+  * Grief al logo Antifa a Ravenna
+- Unrealdemon4k #11751294 [UABOGANG]
+  * Grief di bandiere queer a Predappio
+- DeepDrill #11391300  
+  * Grief del poster Antifascista a Bologna
+- Iron Cloud #2879613 [Skunk]
+  * Disegna una croce celtica a Milano
+- SandyDryer #11387250
+  * Disegna una croce celtica a Milano
+- SternShaver #10715791
+  * Disegna una croce celtica a Milano
+- BroadRug #10768100 [MIlano]
+  * Disegna lo stemma della Decima MAS sopra a Gramsci a Milano
+- DarkPaper #4840356
+  * Rovina Che Guevara a Milano
+- patè di olive #10270594 
+  * Grieffa la bandiera Palestinese, la scritta Fuck Netanyahu e Free Palestine a Torino
   
 ### Cimitero dei Bozo
 Tutti i griefer bannati

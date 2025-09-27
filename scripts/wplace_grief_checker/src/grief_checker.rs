@@ -1,20 +1,61 @@
-use image::{GenericImageView, ImageReader};
+use std::collections::HashMap;
+
+use image::{DynamicImage, GenericImageView, ImageReader};
 use wplace_common::{art_data::ArtData, color::Color, tile_coords::TileCoords};
 
 const IMAGE_PATH_PREFIX: &'static str = "../../templates/wplace/";
 
-pub struct GriefChecker {
+pub struct GriefCheck {
     incorrect_px_count: u32,
     missing_time_hrs: f64,
     wrong_px_coords: Vec<(TileCoords, Color)>,
 }
 
-impl GriefChecker {
+impl GriefCheck {
     pub fn get_incorrect_px_count(&self) -> u32 {
         self.incorrect_px_count
     }
+    
+    pub fn to_markdown_str(&self, art_data: &ArtData, overwrite: bool) -> String {
+        if self.incorrect_px_count == 0 || overwrite {
+            format!("- [✓] {title}", title = art_data.get_title(),)
+        } else {
+            format!(
+                "- **[X]** [{title}](https://wplace.live/?lat={lat}&lng={lng}&zoom={zoom}); {px}px ≅ {hrs:.1}h",
+                title = art_data.get_title(),
+                lat = art_data.get_map_coords_lat(),
+                lng = art_data.get_map_coords_lng(),
+                zoom = art_data.get_map_coords_zoom(),
+                px = self.incorrect_px_count,
+                hrs = self.missing_time_hrs
+            )
+        }
+    }
 
-    pub async fn check(template: &ArtData) -> Self {
+    pub fn print_wrong_px_coords(&self) -> String {
+        self.wrong_px_coords
+            .iter()
+            .map(|v| {
+                String::from("  * ")
+                    + print_tile_coords(&v.0).as_str()
+                    + " "
+                    + v.1.to_string().as_str()
+                    + "\n"
+            })
+            .collect::<String>()
+    }
+}
+
+pub struct GriefChecker {
+    loaded_tiles: HashMap<(u16, u16), DynamicImage>
+}
+
+impl GriefChecker {
+    pub fn new() -> Self {
+        Self { loaded_tiles: HashMap::new() }
+    }
+    
+    pub async fn check(&mut self, template: &ArtData) -> GriefCheck {
         let path = IMAGE_PATH_PREFIX.to_string() + template.get_image_file_name();
         let path = std::path::Path::new(path.as_str());
         let path = std::path::absolute(path).expect("Couldn't make path absolute");
@@ -35,16 +76,17 @@ impl GriefChecker {
          */
         let tiles_width = 1 + ((img_width - 1 + (template.get_tile_coords_x() as u32)) / 1000);
         let tiles_height = 1 + ((img_height - 1 + (template.get_tile_coords_y() as u32)) / 1000);
-        let mut tiles = Vec::with_capacity((tiles_width) as usize);
-
+        
         for tile_x in template.get_tile_coords_tile_x()
             ..template.get_tile_coords_tile_x() + (tiles_width as u16)
         {
-            tiles.push(Vec::with_capacity(tiles_height as usize));
-
             for tile_y in template.get_tile_coords_tile_y()
                 ..template.get_tile_coords_tile_y() + (tiles_height as u16)
             {
+                if self.loaded_tiles.contains_key(&(tile_x, tile_y)) {
+                    continue;
+                }
+                
                 let url =
                     format!("https://backend.wplace.live/files/s0/tiles/{tile_x}/{tile_y}.png");
                 let mut image = ImageReader::new(std::io::Cursor::new(
@@ -59,7 +101,7 @@ impl GriefChecker {
                 image.set_format(image::ImageFormat::Png);
                 let decoded_image = image.decode().expect("Couldn't decode tile");
 
-                tiles.last_mut().unwrap().push(decoded_image);
+                self.loaded_tiles.insert((tile_x, tile_y), decoded_image);
             }
         }
 
@@ -89,9 +131,8 @@ impl GriefChecker {
                 let tile_y = (y + (template.get_tile_coords_y() as u32)) / 1000;
                 let tile_x_coord = ((x as u16) + template.get_tile_coords_x()) % 1000;
                 let tile_y_coord = ((y as u16) + template.get_tile_coords_y()) % 1000;
-                let tile = tiles[tile_x as usize]
-                    .get(tile_y as usize)
-                    .expect("Tile Y didn't exist in Tiles vec");
+                let tile = self.loaded_tiles.get(&((tile_x as u16) + template.get_tile_coords_tile_x(), ((tile_y as u16) + template.get_tile_coords_tile_y())))
+                    .expect("Tile didn't exist in Loaded Tiles");
                 let tile_pixel =
                     unsafe { tile.unsafe_get_pixel(tile_x_coord as u32, tile_y_coord as u32) };
 
@@ -101,44 +142,24 @@ impl GriefChecker {
                     continue;
                 }
                 incorrect_px_count += 1;
-                wrong_px_coords.push((TileCoords::new(
-                    (tile_x as u16) + template.get_tile_coords_tile_x(),
-                    (tile_y as u16) + template.get_tile_coords_tile_y(),
-                    tile_x_coord,
-                    tile_y_coord,
-                ), template_color));
+                wrong_px_coords.push((
+                    TileCoords::new(
+                        (tile_x as u16) + template.get_tile_coords_tile_x(),
+                        (tile_y as u16) + template.get_tile_coords_tile_y(),
+                        tile_x_coord,
+                        tile_y_coord,
+                    ),
+                    template_color,
+                ));
             }
         }
 
-        Self {
+        GriefCheck{
             incorrect_px_count,
             /* ((incorrect_px_count * 30) as f64) / 3600.0 */
             missing_time_hrs: (incorrect_px_count as f64) / 120.0,
             wrong_px_coords,
         }
-    }
-
-    pub fn to_markdown_str(&self, art_data: &ArtData, overwrite: bool) -> String {
-        if self.incorrect_px_count == 0 || overwrite {
-            format!("- {title} è OK", title = art_data.get_title(),)
-        } else {
-            format!(
-                "- [{title}](https://wplace.live/?lat={lat}&lng={lng}&zoom={zoom}); Mancano {px}px, circa {hrs:.1} ore",
-                title = art_data.get_title(),
-                lat = art_data.get_map_coords_lat(),
-                lng = art_data.get_map_coords_lng(),
-                zoom = art_data.get_map_coords_zoom(),
-                px = self.incorrect_px_count,
-                hrs = self.missing_time_hrs
-            )
-        }
-    }
-
-    pub fn print_wrong_px_coords(&self) -> String {
-        self.wrong_px_coords
-            .iter()
-            .map(|v| String::from("  * ") + print_tile_coords(&v.0).as_str() + " " + v.1.to_string().as_str() + "\n")
-            .collect::<String>()
     }
 }
 

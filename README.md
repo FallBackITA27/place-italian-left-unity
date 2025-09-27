@@ -8,8 +8,24 @@ Indice
   - [Lista colori](#lista-colori)
   - [Progetti](#progetti)
     1. [El Che (Cecina, Livorno)](#el-che-cecina-livorno)
+    1. [Lenin (Pomarance, Livorno)](#lenin-pomarance-livorno)
+    1. [Gramsci (Pomarance, Livorno)](#gramsci-pomarance-livorno)
+    1. [El Che (Pomarance, Livorno)](#el-che-pomarance-livorno)
+    1. [Antifa (Pomarance, Livorno)](#antifa-pomarance-livorno)
+    1. [Pingu (Pomarance, Livorno)](#pingu-pomarance-livorno)
+    1. [Palestinese (Pomarance, Livorno)](#palestinese-pomarance-livorno)
+    1. [Fronte Democratico per la Liberazione della Palestina (Pomarance, Livorno)](#fronte-democratico-per-la-liberazione-della-palestina-pomarance-livorno)
+    1. [Comitato di Liberazione Nazionale (Pomarance, Livorno)](#comitato-di-liberazione-nazionale-pomarance-livorno)
+    1. [Fidel Castro (Pomarance, Livorno)](#fidel-castro-pomarance-livorno)
+    1. [Stella Partigiana (Pomarance, Livorno)](#stella-partigiana-pomarance-livorno)
+    1. [Monkey D. Luffy Palestinese (Pomarance, Livorno)](#monkey-d.-luffy-palestinese-pomarance-livorno)
+    1. [Thomas Sankara (Pomarance, Livorno)](#thomas-sankara-pomarance-livorno)
+    1. [Commish (Pomarance, Livorno)](#commish-pomarance-livorno)
+    1. [Falce e Martello (Pomarance, Livorno)](#falce-e-martello-pomarance-livorno)
+    1. [Corea del Nord (Livorno)](#corea-del-nord-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
+    1. [Packwatch (Predappio, Forlì)](#packwatch-predappio-forlì)
     1. [Antifa (Ravenna)](#antifa-ravenna)
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
@@ -18,6 +34,11 @@ Indice
     1. [PCI (Andria)](#pci-andria)
     1. [Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](#smrt-fašizmu-sloboda-narodu-panicarola-perugia)
     1. [Raising a Flag over the Reichstag (Panicarola, Perugia)](#raising-a-flag-over-the-reichstag-panicarola-perugia)
+    1. [Falce e Martello (Panicarola, Perugia)](#falce-e-martello-panicarola-perugia)
+    1. [Aeroflot (Panicarola, Perugia)](#aeroflot-panicarola-perugia)
+    1. [Antifa (Panicarola, Perugia)](#antifa-panicarola-perugia)
+    1. [Pingu (Panicarola, Perugia)](#pingu-panicarola-perugia)
+    1. [Che (Panicarola, Perugia)](#che-panicarola-perugia)
     1. [Pugno Palestinese (Panicarola, Perugia)](#pugno-palestinese-panicarola-perugia)
     1. [99Posse (Panicarola, Perugia)](#99posse-panicarola-perugia)
     1. [Global Sumud Flotilla (Panicarola, Perugia)](#global-sumud-flotilla-panicarola-perugia)
@@ -135,6 +156,191 @@ Colori Sbloccabili
   1. Dark Brown: 4
   1. Dark Pink: 1
 
+### Lenin (Pomarance, Livorno)
+![Lenin (Pomarance, Livorno)](/templates/wplace/lenin_pomarance.png)
+
+- Coordinate: [1085 750 885 287](https://wplace.live/?lat=43.29121740444366&lng=10.889560215527334&zoom=15.023628)
+- Link Template: [/templates/wplace/lenin_pomarance.png](/templates/wplace/lenin_pomarance.png)
+- Lista Pixel: (Totale: 1166, 9.7 ore)
+  1. Yellow: 596
+  1. Red: 570
+
+### Gramsci (Pomarance, Livorno)
+![Gramsci (Pomarance, Livorno)](/templates/wplace/gramsci_pomarance.png)
+
+- Coordinate: [1085 750 740 203](https://wplace.live/?lat=43.29620714376787&lng=10.856161778027342&zoom=15.118365)
+- Link Template: [/templates/wplace/gramsci_pomarance.png](/templates/wplace/gramsci_pomarance.png)
+- Lista Pixel: (Totale: 850, 7.1 ore)
+  1. Black: 347
+  1. Deep Red: 188
+  1. Red: 169
+  1. Dark Red: 107 (Sbloccabile)
+  1. Light Red: 39 (Sbloccabile)
+
+### El Che (Pomarance, Livorno)
+![El Che (Pomarance, Livorno)](/templates/wplace/che_pomarance.png)
+
+- Coordinate: [1085 750 640 73](https://wplace.live/?lat=43.308743656159024&lng=10.841396153027327&zoom=14.592156)
+- Link Template: [/templates/wplace/che_pomarance.png](/templates/wplace/che_pomarance.png)
+- Lista Pixel: (Totale: 3824, 31.9 ore)
+  1. Black: 2786
+  1. White: 793
+  1. Red: 245
+
+### Antifa (Pomarance, Livorno)
+![Antifa (Pomarance, Livorno)](/templates/wplace/antifa_pomarance.png)
+
+- Coordinate: [1085 750 885 540](https://wplace.live/?lat=43.25397334887157&lng=10.881298496777319&zoom=16.115095)
+- Link Template: [/templates/wplace/antifa_pomarance.png](/templates/wplace/antifa_pomarance.png)
+- Lista Pixel: (Totale: 784, 6.5 ore)
+  1. Red: 239
+  1. Black: 180
+  1. White: 166
+  1. Gold: 116
+  1. Light Gray: 83
+
+### Pingu (Pomarance, Livorno)
+![Pingu (Pomarance, Livorno)](/templates/wplace/pingu_pomarance.png)
+
+- Coordinate: [1085 750 414 226](https://wplace.live/?lat=43.29326452651361&lng=10.797802403027312&zoom=16.126343)
+- Link Template: [/templates/wplace/pingu_pomarance.png](/templates/wplace/pingu_pomarance.png)
+- Lista Pixel: (Totale: 425, 3.5 ore)
+  1. Black: 157
+  1. White: 107
+  1. Gold: 75
+  1. Medium Gray: 23 (Sbloccabile)
+  1. Dark Gray: 21
+  1. Brown: 18
+  1. Dark Brown: 17
+  1. Red: 7
+
+### Palestinese (Pomarance, Livorno)
+![Palestinese (Pomarance, Livorno)](/templates/wplace/palestinese_pomarance.png)
+
+- Coordinate: [1085 750 322 263](https://wplace.live/?lat=43.286099297804&lng=10.783564121777344&zoom=15.200851)
+- Link Template: [/templates/wplace/palestinese_pomarance.png](/templates/wplace/palestinese_pomarance.png)
+- Lista Pixel: (Totale: 1948, 16.2 ore)
+  1. Black: 1238
+  1. White: 301
+  1. Dark Green: 241
+  1. Red: 131
+  1. Medium Gray: 37 (Sbloccabile)
+
+### Fronte Democratico per la Liberazione della Palestina (Pomarance, Livorno)
+![Fronte Democratico per la Liberazione della Palestina (Pomarance, Livorno)](/templates/wplace/dflp_pomarance.png)
+
+- Coordinate: [1085 750 407 292](https://wplace.live/?lat=43.285587463453645&lng=10.796923496777314&zoom=16.127295)
+- Link Template: [/templates/wplace/dflp_pomarance.png](/templates/wplace/dflp_pomarance.png)
+- Lista Pixel: (Totale: 436, 3.6 ore)
+  1. Red: 208
+  1. White: 114
+  1. Black: 88
+  1. Dark Teal: 26
+
+### Comitato di Liberazione Nazionale (Pomarance, Livorno)
+![Comitato di Liberazione Nazionale (Pomarance, Livorno)](/templates/wplace/cln_pomarance.png)
+
+- Coordinate: [1085 750 831 223](https://wplace.live/?lat=43.2936483542305&lng=10.881825840527318&zoom=15.748345)
+- Link Template: [/templates/wplace/cln_pomarance.png](/templates/wplace/cln_pomarance.png)
+- Lista Pixel: (Totale: 227, 1.9 ore)
+  1. White: 140
+  1. Black: 87
+
+### Fidel Castro (Pomarance, Livorno)
+![Fidel Castro (Pomarance, Livorno)](/templates/wplace/castro_pomarance.png)
+
+- Coordinate: [1085 750 831 223](https://wplace.live/?lat=43.293776296264454&lng=10.872860996777339&zoom=15.748345)
+- Link Template: [/templates/wplace/castro_pomarance.png](/templates/wplace/castro_pomarance.png)
+- Lista Pixel: (Totale: 368, 3.1 ore)
+  1. Dark Gray: 109
+  1. Gold: 96
+  1. Light Green: 67
+  1. Dark Green: 57
+  1. Brown: 27
+  1. Red: 12
+
+### Stella Partigiana (Pomarance, Livorno)
+![Stella Partigiana (Pomarance, Livorno)](/templates/wplace/stella_partigiana_pomarance.png)
+
+- Coordinate: [1085 750 794 273](https://wplace.live/?lat=43.28904226174339&lng=10.864071934277327&zoom=16.60586)
+- Link Template: [/templates/wplace/stella_partigiana_pomarance.png](/templates/wplace/stella_partigiana_pomarance.png)
+- Lista Pixel: (Totale: 159, 1.3 ore)
+  1. Yellow: 58
+  1. Red: 56
+  1. White: 24
+  1. Dark Green: 21
+
+### Monkey D. Luffy Palestinese (Pomarance, Livorno)
+![Monkey D. Luffy Palestinese (Pomarance, Livorno)](/templates/wplace/luffy_palestina_pomarance.png)
+
+- Coordinate: [1085 750 765 301](https://wplace.live/?lat=43.27394206853782&lng=10.863193028027329&zoom=14.788195)
+- Link Template: [/templates/wplace/luffy_palestina_pomarance.png](/templates/wplace/luffy_palestina_pomarance.png)
+- Lista Pixel: (Totale: 5215, 43.5 ore)
+  1. Black: 1462
+  1. Light Gray: 473
+  1. Dark Gray: 379
+  1. Dark Green: 375
+  1. Dark Red: 372 (Sbloccabile)
+  1. Red: 356
+  1. White: 294
+  1. Gray: 283
+  1. Green: 273
+  1. Beige: 250
+  1. Dark Brown: 179
+  1. Deep Red: 165
+  1. Brown: 149
+  1. Cyan: 118
+  1. Blue: 69
+  1. Gold: 18
+
+### Thomas Sankara (Pomarance, Livorno)
+![Thomas Sankara (Pomarance, Livorno)](/templates/wplace/sankara_pomarance.png)
+
+- Coordinate: [1085 750 469 298](https://wplace.live/?lat=43.282516366913114&lng=10.80852505927732&zoom=15.122456)
+- Link Template: [/templates/wplace/sankara_pomarance.png](/templates/wplace/sankara_pomarance.png)
+- Lista Pixel: (Totale: 1930, 16.1 ore)
+  1. Black: 1200
+  1. White: 629
+  1. Light Gray: 63
+  1. Gray: 15
+  1. Red: 13
+  1. Dark Gray: 10
+
+### Commish (Pomarance, Livorno)
+![Commish (Pomarance, Livorno)](/templates/wplace/commish_pomarance.png)
+
+- Coordinate: [1085 750 906 458](https://wplace.live/?lat=43.26408653193807&lng=10.884462559277312&zoom=16.031658)
+- Link Template: [/templates/wplace/commish_pomarance.png](/templates/wplace/commish_pomarance.png)
+- Lista Pixel: (Totale: 651, 5.4 ore)
+  1. Black: 218
+  1. Deep Red: 106
+  1. Dark Green: 103
+  1. Green: 85
+  1. Red: 77
+  1. Light Green: 40
+  1. Yellow: 20
+  1. Gold: 2
+
+### Falce e Martello (Pomarance, Livorno)
+![Falce e Martello (Pomarance, Livorno)](/templates/wplace/hamsick_pomarance.png)
+
+- Coordinate: [1085 750 909 194](https://wplace.live/?lat=43.29863789410152&lng=10.884989903027343&zoom=16.60496)
+- Link Template: [/templates/wplace/hamsick_pomarance.png](/templates/wplace/hamsick_pomarance.png)
+- Lista Pixel: (Totale: 339, 2.8 ore)
+  1. Yellow: 222
+  1. Red: 117
+
+### Corea del Nord (Livorno)
+![Corea del Nord (Livorno)](/templates/wplace/dprk_livorno.png)
+
+- Coordinate: [1082 747 518 921](https://wplace.live/?lat=43.5887311119986&lng=10.288739903027317&zoom=16.94777)
+- Link Template: [/templates/wplace/dprk_livorno.png](/templates/wplace/dprk_livorno.png)
+- Lista Pixel: (Totale: 529, 4.4 ore)
+  1. Red: 265
+  1. Cyan: 104
+  1. Black: 87
+  1. White: 73
+
 ### 99Posse (Predappio, Forlì)
 ![99Posse (Predappio, Forlì)](/templates/wplace/99posse_predappio.png)
 
@@ -185,6 +391,29 @@ Colori Sbloccabili
   1. Deep Red: 6
   1. Dark Tan: 2 (Sbloccabile)
   1. Pink: 1
+
+### Packwatch (Predappio, Forlì)
+![Packwatch (Predappio, Forlì)](/templates/wplace/packwatch_predappio.png)
+
+- Coordinate: [1092 743 58 774](https://wplace.live/?lat=44.11390454327602&lng=11.97237271552734&zoom=15.453534)
+- Link Template: [/templates/wplace/packwatch_predappio.png](/templates/wplace/packwatch_predappio.png)
+- Lista Pixel: (Totale: 1515, 12.6 ore)
+  1. Black: 1115
+  1. Light Gray: 106
+  1. Gray: 67
+  1. Dark Gray: 41
+  1. Deep Red: 25
+  1. Dark Brown: 22
+  1. Brown: 22
+  1. Light Yellow: 20
+  1. Beige: 20
+  1. White: 19
+  1. Yellow: 19
+  1. Red: 15
+  1. Gold: 12
+  1. Orange: 10
+  1. Light Indigo: 1
+  1. Light Pink: 1
 
 ### Antifa (Ravenna)
 ![Antifa (Ravenna)](/templates/wplace/antifa_ravenna.png)
@@ -307,6 +536,65 @@ Colori Sbloccabili
   1. Gray: 34
   1. Dark Gray: 1
 
+### Falce e Martello (Panicarola, Perugia)
+![Falce e Martello (Panicarola, Perugia)](/templates/wplace/hamsick_panicarola.png)
+
+- Coordinate: [1092 752 715 10](https://wplace.live/?lat=43.06818173492111&lng=12.076083653027336&zoom=15)
+- Link Template: [/templates/wplace/hamsick_panicarola.png](/templates/wplace/hamsick_panicarola.png)
+- Lista Pixel: (Totale: 272, 2.3 ore)
+  1. Gold: 94
+  1. Yellow: 85
+  1. Orange: 59
+  1. Red: 34
+
+### Aeroflot (Panicarola, Perugia)
+![Aeroflot (Panicarola, Perugia)](/templates/wplace/aeroflot_panicarola.png)
+
+- Coordinate: [1092 751 636 986](https://wplace.live/?lat=43.06818173492111&lng=12.076083653027336&zoom=15)
+- Link Template: [/templates/wplace/aeroflot_panicarola.png](/templates/wplace/aeroflot_panicarola.png)
+- Lista Pixel: (Totale: 2368, 19.7 ore)
+  1. Blue: 1686
+  1. White: 358
+  1. Cyan: 324
+
+### Antifa (Panicarola, Perugia)
+![Antifa (Panicarola, Perugia)](/templates/wplace/antifa_panicarola.png)
+
+- Coordinate: [1092 751 729 980](https://wplace.live/?lat=43.06818173492111&lng=12.076083653027336&zoom=15)
+- Link Template: [/templates/wplace/antifa_panicarola.png](/templates/wplace/antifa_panicarola.png)
+- Lista Pixel: (Totale: 962, 8.0 ore)
+  1. Black: 370
+  1. Red: 315
+  1. White: 205
+  1. Deep Red: 28
+  1. Gold: 23
+  1. Yellow: 21
+
+### Pingu (Panicarola, Perugia)
+![Pingu (Panicarola, Perugia)](/templates/wplace/pingu_panicarola.png)
+
+- Coordinate: [1092 752 779 30](https://wplace.live/?lat=43.06214590846919&lng=12.090849278027335&zoom=15.907321)
+- Link Template: [/templates/wplace/pingu_panicarola.png](/templates/wplace/pingu_panicarola.png)
+- Lista Pixel: (Totale: 432, 3.6 ore)
+  1. Black: 186
+  1. White: 107
+  1. Orange: 44
+  1. Gray: 41
+  1. Yellow: 31
+  1. Brown: 16
+  1. Red: 7
+
+### Che (Panicarola, Perugia)
+![Che (Panicarola, Perugia)](/templates/wplace/che_panicarola.png)
+
+- Coordinate: [1092 752 744 37](https://wplace.live/?lat=43.06214590846919&lng=12.090849278027335&zoom=15.907321)
+- Link Template: [/templates/wplace/che_panicarola.png](/templates/wplace/che_panicarola.png)
+- Lista Pixel: (Totale: 860, 7.2 ore)
+  1. Black: 593
+  1. White: 116
+  1. Light Gray: 80
+  1. Gray: 71
+
 ### Pugno Palestinese (Panicarola, Perugia)
 ![Pugno Palestinese (Panicarola, Perugia)](/templates/wplace/pal_fist_panicarola.png)
 
@@ -425,10 +713,10 @@ Colori Sbloccabili
 - Coordinate: [1077 732 184 946](https://wplace.live/?lat=45.464754202704455&lng=9.37116177802733&zoom=13.974521)
 - Link Template: [/templates/wplace/fasci_appesi_milano.png](/templates/wplace/fasci_appesi_milano.png)
 - Lista Pixel: (Totale: 11638, 97.0 ore)
-  1. Black: 7053
+  1. Black: 7058
   1. Dark Green: 1744
-  1. White: 1523
-  1. Red: 1137
+  1. White: 1564
+  1. Red: 1091
   1. Yellow: 97
   1. Green: 33
   1. Dark Red: 27 (Sbloccabile)
@@ -506,13 +794,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo A
 - DeathToCommies #11598762
   * Alt Gruppo A
-- Clown Show #8371675
+- EuroNutella #6122444
+  * Scritte di ispirazione neonazista, cancella e attacca loghi di organizzazioni di sinistra, in tutta Italia, eurofascio fiorentino, anche conosciuto con l'alias `EuroNutellaMan` su alcuni social
 - [SPQR] Rokyff9 #970884 [Versilia squad]
   * Grief costanti al Che a Livorno
 - Bibi Netanyahu #11304440
   * Grief costanti al Che a Livorno
 - Soycuck #87336385
-  * Grief costanti al Che a Livorno
+  * Grief costanti al Che a Livorno, al simbolo di OSA ed Antifa a Ravenna, e al poster Antifascista a Bologna
 - RPH #114013
   * Grief costanti al Che a Livorno
 - SaltyLupo #11208701
@@ -561,18 +850,34 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Grief di una bandiera palestinese a Cecina, Livorno
 - Florence rusher #11483379
   * Grief di varie bandiere Palestinesi e Esperanto vicino a Rosignano, Livorno
-- EuroNutella #6122444
-  * Scritte di ispirazione neonazista
 - HeavyStrap #2027604 [Rule enforcer] 
   * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
 - No_politics #3047458 Rule enforcer
   * Cancella simboli Comunisti per la Toscana, ha attaccato il poster Antifascista a Bologna
 - CalmTable #6142945
-  * Scrive a Predappio la data di fondazione del Fascismo
+  * Scrive a Predappio la data di fondazione del Fascismo, chiama Mussolini "Figlio del Secolo" come elogio
 - Sir Rouk #9073273
   * Grief al poster Antifascista a Bologna
 - TallTablet #11757130 
   * Grief al poster Antifascista a Bologna
+- gatto2210 #10354131 [Faenza Merda]
+  * Grief al logo Antifa a Ravenna
+- Unrealdemon4k #11751294 [UABOGANG]
+  * Grief di bandiere queer a Predappio
+- DeepDrill #11391300  
+  * Grief del poster Antifascista a Bologna
+- Iron Cloud #2879613 [Skunk]
+  * Disegna una croce celtica a Milano
+- SandyDryer #11387250
+  * Disegna una croce celtica a Milano
+- SternShaver #10715791
+  * Disegna una croce celtica a Milano
+- BroadRug #10768100 [MIlano]
+  * Disegna lo stemma della Decima MAS sopra a Gramsci a Milano
+- DarkPaper #4840356
+  * Rovina Che Guevara a Milano
+- patè di olive #10270594 
+  * Grieffa la bandiera Palestinese, la scritta Fuck Netanyahu e Free Palestine a Torino
   
 ### Cimitero dei Bozo
 Tutti i griefer bannati

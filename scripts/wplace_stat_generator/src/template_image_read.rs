@@ -9,11 +9,11 @@ pub struct TemplateImageRead {
 }
 
 impl TemplateImageRead {
-    pub fn image_calc(path: &str) -> Self {
-        let path = std::path::Path::new(&path);
+    pub fn image_calc(path_str: &str) -> Self {
+        let path = std::path::Path::new(&path_str);
         let path = std::path::absolute(path).expect("Couldn't make path absolute");
         if !path.exists() {
-            panic!("Expected an existing image's path.")
+            panic!("Expected an existing image's path. {path_str}")
         }
 
         let mut image = ImageReader::open(path).expect("Couldn't open image");

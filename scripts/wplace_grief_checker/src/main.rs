@@ -1,4 +1,4 @@
-use crate::grief_checker::GriefChecker;
+use crate::grief_checker::{GriefCheck, GriefChecker};
 use std::{
     fs::OpenOptions,
     io::{Write, stdin, stdout},
@@ -16,16 +16,17 @@ async fn main() {
         .expect("Couldn't open file");
     let data = wplace_common::art_data::ArtData::read(wplace_common::ART_FILE);
 
-    out.write_all(b"# Status Art\n")
+    out.write_all(b"# Grief Check!\n")
         .expect("Error writing to out file");
 
     for v in data.iter() {
-        let data = GriefChecker::check(v).await;
+        let data = GriefChecker::new().check(v).await;
 
         let overwrite = if data.get_incorrect_px_count() > 0 {
             print!(
-                "{} has {}px wrong, mark as OK? [Y/N]\n > ",
+                "{} ({}) has {}px wrong, mark as OK? [Y/N]\n > ",
                 v.get_title(),
+                v.get_map_coords_link(),
                 data.get_incorrect_px_count()
             );
             stdout().flush().expect("Flush stdout");

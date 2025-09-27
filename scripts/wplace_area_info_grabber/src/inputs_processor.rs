@@ -72,10 +72,12 @@ impl Inputs {
 
                     let height = 1000 * (second_point.get_tile_y() - top_left_corner.get_tile_y())
                         + second_point.get_y()
-                        - top_left_corner.get_y() + 1;
+                        - top_left_corner.get_y()
+                        + 1;
                     let width = 1000 * (second_point.get_tile_x() - top_left_corner.get_tile_x())
                         + second_point.get_x()
-                        - top_left_corner.get_x() + 1;
+                        - top_left_corner.get_x()
+                        + 1;
 
                     (width, height)
                 }
@@ -322,7 +324,7 @@ impl MainLoop {
                     .painted_by;
 
                 std::thread::sleep(std::time::Duration::from_millis(250));
-                
+
                 if data.id == 0 {
                     continue;
                 }
@@ -371,7 +373,6 @@ impl MainLoop {
                         )
                         .expect("Couldn't save download image");
                 }
-
             }
         }
     }

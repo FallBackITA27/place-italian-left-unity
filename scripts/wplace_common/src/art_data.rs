@@ -16,6 +16,9 @@ impl MapCoords {
     fn get_zoom(&self) -> f32 {
         self.zoom
     }
+    fn get_link(&self) -> String {
+        format!("https://wplace.live/?lat={}&lng={}&zoom={}", self.lat, self.lng, self.get_zoom())
+    }
 }
 
 pub struct ArtData {
@@ -96,4 +99,7 @@ impl ArtData {
     pub fn get_map_coords_zoom(&self) -> f32 {
         self.map_coords.get_zoom()
     }
+    pub fn get_map_coords_link(&self) -> String {
+        self.map_coords.get_link()
+    }    
 }

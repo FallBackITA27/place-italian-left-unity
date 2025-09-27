@@ -22,6 +22,7 @@ Indice
     1. [Thomas Sankara (Pomarance, Livorno)](#thomas-sankara-pomarance-livorno)
     1. [Commish (Pomarance, Livorno)](#commish-pomarance-livorno)
     1. [Falce e Martello (Pomarance, Livorno)](#falce-e-martello-pomarance-livorno)
+    1. [Corea del Nord (Livorno)](#corea-del-nord-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
     1. [Antifa (Ravenna)](#antifa-ravenna)
@@ -327,6 +328,17 @@ Colori Sbloccabili
 - Lista Pixel: (Totale: 339, 2.8 ore)
   1. Yellow: 222
   1. Red: 117
+
+### Corea del Nord (Livorno)
+![Corea del Nord (Livorno)](/templates/wplace/dprk_livorno.png)
+
+- Coordinate: [1082 747 518 921](https://wplace.live/?lat=43.5887311119986&lng=10.288739903027317&zoom=16.94777)
+- Link Template: [/templates/wplace/dprk_livorno.png](/templates/wplace/dprk_livorno.png)
+- Lista Pixel: (Totale: 529, 4.4 ore)
+  1. Red: 265
+  1. Cyan: 104
+  1. Black: 87
+  1. White: 73
 
 ### 99Posse (Predappio, Forlì)
 ![99Posse (Predappio, Forlì)](/templates/wplace/99posse_predappio.png)

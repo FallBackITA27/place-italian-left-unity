@@ -25,6 +25,7 @@ Indice
     1. [Corea del Nord (Livorno)](#corea-del-nord-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
+    1. [Packwatch (Predappio, Forlì)](#packwatch-predappio-forlì)
     1. [Antifa (Ravenna)](#antifa-ravenna)
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
@@ -390,6 +391,29 @@ Colori Sbloccabili
   1. Deep Red: 6
   1. Dark Tan: 2 (Sbloccabile)
   1. Pink: 1
+
+### Packwatch (Predappio, Forlì)
+![Packwatch (Predappio, Forlì)](/templates/wplace/packwatch_predappio.png)
+
+- Coordinate: [1092 743 58 774](https://wplace.live/?lat=44.11390454327602&lng=11.97237271552734&zoom=15.453534)
+- Link Template: [/templates/wplace/packwatch_predappio.png](/templates/wplace/packwatch_predappio.png)
+- Lista Pixel: (Totale: 1515, 12.6 ore)
+  1. Black: 1115
+  1. Light Gray: 106
+  1. Gray: 67
+  1. Dark Gray: 41
+  1. Deep Red: 25
+  1. Dark Brown: 22
+  1. Brown: 22
+  1. Light Yellow: 20
+  1. Beige: 20
+  1. White: 19
+  1. Yellow: 19
+  1. Red: 15
+  1. Gold: 12
+  1. Orange: 10
+  1. Light Indigo: 1
+  1. Light Pink: 1
 
 ### Antifa (Ravenna)
 ![Antifa (Ravenna)](/templates/wplace/antifa_ravenna.png)

@@ -1,0 +1,16 @@
+[package]
+name = "wplace_area_info_grabber"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+curl = "0.4.49"
+image = "0.25.8"
+rand = "0.9.2"
+serde = { version = "1.0.226", features = ["derive"] }
+serde_json = "1.0.145"
+tokio = { version = "1.47.1", features = ["macros", "rt-multi-thread"] }
+wplace_common = { path = "../wplace_common" }
+
+[lints]
+workspace = true

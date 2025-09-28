@@ -436,13 +436,14 @@ Colori Sbloccabili
 ### Corea del Nord (Livorno)
 ![Corea del Nord (Livorno)](/templates/wplace/dprk_livorno.png)
 
-- Coordinate: [1082 747 518 921](https://wplace.live/?lat=43.5887311119986&lng=10.288739903027317&zoom=16.94777)
+- Coordinate: [1082 747 491 920](https://wplace.live/?lat=43.5887311119986&lng=10.288739903027317&zoom=16.94777)
 - Link Template: [/templates/wplace/dprk_livorno.png](/templates/wplace/dprk_livorno.png)
-- Lista Pixel: (Totale: 529, 4.4 ore)
-  1. Red: 265
-  1. Cyan: 104
-  1. Black: 87
-  1. White: 73
+- Lista Pixel: (Totale: 987, 8.2 ore)
+  1. Cyan: 269
+  1. Red: 241
+  1. Light Pink: 171
+  1. Black: 155
+  1. White: 151
 
 ### 99Posse (Predappio, Forlì)
 ![99Posse (Predappio, Forlì)](/templates/wplace/99posse_predappio.png)
@@ -696,8 +697,8 @@ Colori Sbloccabili
 
 - Coordinate: [1092 752 572 38](https://wplace.live/?lat=43.06394387636678&lng=12.05375943427732&zoom=13.850356)
 - Link Template: [/templates/wplace/global_sumud_flotilla_panicarola.png](/templates/wplace/global_sumud_flotilla_panicarola.png)
-- Lista Pixel: (Totale: 2799, 23.3 ore)
-  1. Black: 1133
+- Lista Pixel: (Totale: 2798, 23.3 ore)
+  1. Black: 1132
   1. Dark Green: 998
   1. Red: 668
 

@@ -1,14 +1,8 @@
-use std::{
-    collections::HashMap,
-    hash::Hash,
-    io::{Read, Write},
-};
+use std::{collections::HashMap, io::Write};
 
 use curl::easy::Handler;
 use image::{DynamicImage, GenericImageView, ImageReader};
 use wplace_common::{color::Color, tile_coords::TileCoords};
-
-const IMAGE_PATH_PREFIX: &'static str = "../../templates/wplace/";
 
 pub struct AreaData {
     x: u16,
@@ -82,29 +76,22 @@ impl Inputs {
                     (width, height)
                 }
                 AreaType::Template => {
-                    let file = wplace_common::art_data::ArtData::read(wplace_common::ART_FILE)
+                    let template = wplace_common::art_data::ArtData::new()
                         .into_iter()
                         .find(|r| {
-                            r.get_tile_coords_tile_x() == top_left_corner.get_tile_x()
-                                && r.get_tile_coords_tile_y() == top_left_corner.get_tile_y()
-                                && r.get_tile_coords_x() == top_left_corner.get_x()
-                                && r.get_tile_coords_y() == top_left_corner.get_y()
+                            let tile_coords = r.get_tile_coords();
+                            tile_coords.get_tile_x() == top_left_corner.get_tile_x()
+                                && tile_coords.get_tile_y() == top_left_corner.get_tile_y()
+                                && tile_coords.get_x() == top_left_corner.get_x()
+                                && tile_coords.get_y() == top_left_corner.get_y()
                         })
                         .expect("Template at coordinates doesn't exist!");
-                    let file_name = file.get_image_file_name();
+                    let image_info = template.get_image_info();
 
-                    let path = IMAGE_PATH_PREFIX.to_string() + file_name;
-                    let path = std::path::Path::new(path.as_str());
-                    let path = std::path::absolute(path).expect("Couldn't make path absolute");
-                    if !path.exists() {
-                        panic!("Expected an existing image's path.");
-                    }
-
-                    let mut image = ImageReader::open(path).expect("Couldn't open image");
-                    image.set_format(image::ImageFormat::Png);
-                    let decoded_image = image.decode().expect("Couldn't decode image");
-
-                    (decoded_image.width() as u16, decoded_image.height() as u16)
+                    (
+                        image_info.get_width() as u16,
+                        image_info.get_height() as u16,
+                    )
                 }
             };
 
@@ -177,7 +164,7 @@ impl UserData {
     }
 }
 
-const ASSIGNED_COLORS: [Color; 20] = [
+const ASSIGNED_COLORS: [Color; 32] = [
     Color::Red,
     Color::Green,
     Color::Blue,
@@ -198,6 +185,18 @@ const ASSIGNED_COLORS: [Color; 20] = [
     Color::Gold,
     Color::Gray,
     Color::DarkOlive,
+    Color::Beige,
+    Color::DarkGreen,
+    Color::DarkGoldenrod,
+    Color::DarkPeach,
+    Color::DarkSlate,
+    Color::MediumGray,
+    Color::LightGoldenrod,
+    Color::LightPeach,
+    Color::DarkGray,
+    Color::DarkRed,
+    Color::DarkBlue,
+    Color::DeepRed,
 ];
 
 pub struct MainLoop {

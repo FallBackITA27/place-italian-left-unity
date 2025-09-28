@@ -9,7 +9,7 @@ Indice
   - [Progetti](#progetti)
 {wplace_project_list_points}
   - [Lista Griefer](#lista-griefer)
-    - [Cimitero dei Bozo](#cimitero-dei-bozo) 
+- [canvas.place](#canvas-place)
 
 # Struttura della Repo
 Eccetto il README.md, in questa repo potrete trovare:
@@ -123,8 +123,10 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo A
 - DeathToCommies #11598762
   * Alt Gruppo A
-- EuroNutella #6122444
-  * Scritte di ispirazione neonazista, cancella e attacca loghi di organizzazioni di sinistra, in tutta Italia, eurofascio fiorentino, anche conosciuto con l'alias `EuroNutellaMan` su alcuni social
+- EuroNutella #6122444 [Volt Europa]
+  * Scritte di ispirazione neonazista, cancella e attacca loghi di organizzazioni di sinistra in tutta Italia, eurofascio fiorentino, anche conosciuto con l'alias `EuroNutellaMan` su alcuni social
+- Nyapenheimer7 #10768625 
+  * Aiutante in più casi di EuroNutella
 - [SPQR] Rokyff9 #970884 [Versilia squad]
   * Grief costanti al Che a Livorno
 - Bibi Netanyahu #11304440
@@ -207,17 +209,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Rovina Che Guevara a Milano
 - patè di olive #10270594 
   * Grieffa la bandiera Palestinese, la scritta Fuck Netanyahu e Free Palestine a Torino
-  
-### Cimitero dei Bozo
-Tutti i griefer bannati
 
-- Watys #1540530
-- GreedySpade #11141860
-- Vividknife #10904807 [Partito Fascista]
-- Unknown #7618347 [Partito Fascista]
-- Unknown #10905204 [Partito Fascista]
-- snairaM #10147604
-- Msriana #10715660
-- Narsaim #10144939
-- PlainDustpan #1442115 [THE ZONE]
-- inst:dvvinnb #2103379
+# canvas.place
+Il sito ha oramai chiuso nel 2020. L'unico progetto è stato fatto da FalB e Renesto101.
+
+## Progetti
+
+### Bandiera Partigiana
+![Bandiera Partigiana](/templates/canvas_place/partigiani.png)
+
+- Coordinate: [1939, 1853](https://canvas.place/#x=1939&y=1853)
+- Link Template: [/templates/canvas_place/partigiani.png](/templates/canvas_place/partigiani.png)

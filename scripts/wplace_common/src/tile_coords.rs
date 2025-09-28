@@ -25,7 +25,7 @@ impl TileCoords {
             .split(',')
             .map(|x| {
                 x.split(':')
-                    .last()
+                    .next_back()
                     .expect("Deformed tile coords data")
                     .trim()
                     .parse::<u16>()

@@ -29,7 +29,6 @@ Indice
     1. [Commish (Pomarance, Pisa)](#commish-pomarance-pisa)
     1. [Falce e Martello (Pomarance, Pisa)](#falce-e-martello-pomarance-pisa)
     1. [El Che (Cecina, Livorno)](#el-che-cecina-livorno)
-    1. [Bandiere (Livorno)](#bandiere-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
     1. [Packwatch (Predappio, Forlì)](#packwatch-predappio-forlì)
@@ -51,7 +50,7 @@ Indice
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
     1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
   - [Lista Griefer](#lista-griefer)
-    - [Cimitero dei Bozo](#cimitero-dei-bozo) 
+- [canvas.place](#canvas-place)
 
 # Struttura della Repo
 Eccetto il README.md, in questa repo potrete trovare:
@@ -145,7 +144,7 @@ Colori Sbloccabili
 ### Antifa (Ravenna)
 ![Antifa (Ravenna)](/templates/wplace/antifa_ravenna.png)
 
-- Coordinate: [1092 741 599 91](https://wplace.live/?lat=44.45367135765851&lng=12.058505528027341&zoom=17.164318)
+- Coordinate: [1092 741 599 91](https://wplace.live/?lat=44.42662486107773&lng=12.096386718750011&zoom=12.5)
 - Link Template: [/templates/wplace/antifa_ravenna.png](/templates/wplace/antifa_ravenna.png)
 - Lista Pixel: (Totale: 146626, 1221.9 ore)
   1. White: 52519
@@ -158,7 +157,7 @@ Colori Sbloccabili
 ### Bandiera della Palestina (Ravenna)
 ![Bandiera della Palestina (Ravenna)](/templates/wplace/palball_ravenna.png)
 
-- Coordinate: [1093 741 100 300](https://wplace.live/?lat=44.42744106125955&lng=12.14657193427734&zoom=17.553402)
+- Coordinate: [1093 741 100 300](https://wplace.live/?lat=44.41243782773137&lng=12.167578125000006&zoom=13)
 - Link Template: [/templates/wplace/palball_ravenna.png](/templates/wplace/palball_ravenna.png)
 - Lista Pixel: (Totale: 45192, 376.6 ore)
   1. Dark Teal: 11417
@@ -169,7 +168,7 @@ Colori Sbloccabili
 ### Frase Antifa (Ravenna)
 ![Frase Antifa (Ravenna)](/templates/wplace/frase_ravenna.png)
 
-- Coordinate: [1093 741 48 573](https://wplace.live/?lat=44.39052300717444&lng=12.150614903027328&zoom=15.2177515)
+- Coordinate: [1093 741 48 573](https://wplace.live/?lat=44.38995751711124&lng=12.152636718749989&zoom=13)
 - Link Template: [/templates/wplace/frase_ravenna.png](/templates/wplace/frase_ravenna.png)
 - Lista Pixel: (Totale: 9048, 75.4 ore)
   1. Red: 6886
@@ -178,7 +177,7 @@ Colori Sbloccabili
 ### OSA (Santo Stefano, Ravenna)
 ![OSA (Santo Stefano, Ravenna)](/templates/wplace/osa_ravenna.png)
 
-- Coordinate: [1093 742 184 161](https://wplace.live/?lat=44.31925809973999&lng=12.161337559277339&zoom=13.50416)
+- Coordinate: [1093 742 184 161](https://wplace.live/?lat=44.311900202049344&lng=12.177949218750001&zoom=13)
 - Link Template: [/templates/wplace/osa_ravenna.png](/templates/wplace/osa_ravenna.png)
 - Lista Pixel: (Totale: 12723, 106.0 ore)
   1. Red: 12592
@@ -187,7 +186,7 @@ Colori Sbloccabili
 ### Logo Comintern (Siracusa)
 ![Logo Comintern (Siracusa)](/templates/wplace/comintern_siracusa.png)
 
-- Coordinate: [1109 795 0 500](https://wplace.live/?lat=37.088627539057875&lng=15.069814121777341&zoom=10.800757)
+- Coordinate: [1109 795 0 500](https://wplace.live/?lat=37.19505053491039&lng=14.985703124999986&zoom=12)
 - Link Template: [/templates/wplace/comintern_siracusa.png](/templates/wplace/comintern_siracusa.png)
 - Lista Pixel: (Totale: 198884, 1657.4 ore)
   1. Light Blue: 64078 (Sbloccabile)
@@ -218,7 +217,7 @@ Colori Sbloccabili
 ### Lenin (Pomarance, Pisa)
 ![Lenin (Pomarance, Pisa)](/templates/wplace/lenin_pomarance.png)
 
-- Coordinate: [1085 750 885 287](https://wplace.live/?lat=43.29121740444366&lng=10.889560215527334&zoom=15.023628)
+- Coordinate: [1085 750 885 287](https://wplace.live/?lat=43.285779160671126&lng=10.881386718750008&zoom=17)
 - Link Template: [/templates/wplace/lenin_pomarance.png](/templates/wplace/lenin_pomarance.png)
 - Lista Pixel: (Totale: 1166, 9.7 ore)
   1. Yellow: 596
@@ -227,7 +226,7 @@ Colori Sbloccabili
 ### Gramsci (Pomarance, Pisa)
 ![Gramsci (Pomarance, Pisa)](/templates/wplace/gramsci_pomarance.png)
 
-- Coordinate: [1085 750 740 203](https://wplace.live/?lat=43.29620714376787&lng=10.856161778027342&zoom=15.118365)
+- Coordinate: [1085 750 740 203](https://wplace.live/?lat=43.297038486061496&lng=10.855546875000016&zoom=17)
 - Link Template: [/templates/wplace/gramsci_pomarance.png](/templates/wplace/gramsci_pomarance.png)
 - Lista Pixel: (Totale: 850, 7.1 ore)
   1. Black: 347
@@ -239,7 +238,7 @@ Colori Sbloccabili
 ### El Che (Pomarance, Pisa)
 ![El Che (Pomarance, Pisa)](/templates/wplace/che_pomarance.png)
 
-- Coordinate: [1085 750 640 73](https://wplace.live/?lat=43.308743656159024&lng=10.841396153027327&zoom=14.592156)
+- Coordinate: [1085 750 640 73](https://wplace.live/?lat=43.310981805984085&lng=10.840957031250014&zoom=14)
 - Link Template: [/templates/wplace/che_pomarance.png](/templates/wplace/che_pomarance.png)
 - Lista Pixel: (Totale: 3824, 31.9 ore)
   1. Black: 2786
@@ -249,7 +248,7 @@ Colori Sbloccabili
 ### Unità di Protezione Popolare (Pomarance, Pisa)
 ![Unità di Protezione Popolare (Pomarance, Pisa)](/templates/wplace/ypg_pomarance.png)
 
-- Coordinate: [1085 750 918 225](https://wplace.live/?lat=43.29505570179985&lng=10.886396153027341&zoom=16.168745)
+- Coordinate: [1085 750 918 225](https://wplace.live/?lat=43.29524736917759&lng=10.886132812500023&zoom=17)
 - Link Template: [/templates/wplace/ypg_pomarance.png](/templates/wplace/ypg_pomarance.png)
 - Lista Pixel: (Totale: 287, 2.4 ore)
   1. Yellow: 129
@@ -263,7 +262,7 @@ Colori Sbloccabili
 ### Falce e Martello PCdI 1921 (Pomarance, Pisa)
 ![Falce e Martello PCdI 1921 (Pomarance, Pisa)](/templates/wplace/hamsick_pcdi_pomarance.png)
 
-- Coordinate: [1085 750 917 257](https://wplace.live/?lat=43.28814659213935&lng=10.888329746777337&zoom=15.442365)
+- Coordinate: [1085 750 917 257](https://wplace.live/?lat=43.290641397796946&lng=10.886132812500023&zoom=17)
 - Link Template: [/templates/wplace/hamsick_pcdi_pomarance.png](/templates/wplace/hamsick_pcdi_pomarance.png)
 - Lista Pixel: (Totale: 553, 4.6 ore)
   1. Red: 305
@@ -277,7 +276,7 @@ Colori Sbloccabili
 ### Antifa (Pomarance, Pisa)
 ![Antifa (Pomarance, Pisa)](/templates/wplace/antifa_pomarance.png)
 
-- Coordinate: [1085 750 885 540](https://wplace.live/?lat=43.25397334887157&lng=10.881298496777319&zoom=16.115095)
+- Coordinate: [1085 750 885 540](https://wplace.live/?lat=43.254037120346965&lng=10.881035156250022&zoom=17)
 - Link Template: [/templates/wplace/antifa_pomarance.png](/templates/wplace/antifa_pomarance.png)
 - Lista Pixel: (Totale: 784, 6.5 ore)
   1. Red: 239
@@ -289,7 +288,7 @@ Colori Sbloccabili
 ### Pingu (Pomarance, Pisa)
 ![Pingu (Pomarance, Pisa)](/templates/wplace/pingu_pomarance.png)
 
-- Coordinate: [1085 750 414 226](https://wplace.live/?lat=43.29326452651361&lng=10.797802403027312&zoom=16.126343)
+- Coordinate: [1085 750 414 226](https://wplace.live/?lat=43.29396796767463&lng=10.797714843749986&zoom=17)
 - Link Template: [/templates/wplace/pingu_pomarance.png](/templates/wplace/pingu_pomarance.png)
 - Lista Pixel: (Totale: 425, 3.5 ore)
   1. Black: 157
@@ -304,7 +303,7 @@ Colori Sbloccabili
 ### Palestinese (Pomarance, Pisa)
 ![Palestinese (Pomarance, Pisa)](/templates/wplace/palestinese_pomarance.png)
 
-- Coordinate: [1085 750 322 263](https://wplace.live/?lat=43.286099297804&lng=10.783564121777344&zoom=15.200851)
+- Coordinate: [1085 750 322 263](https://wplace.live/?lat=43.28680282183939&lng=10.784179687499972&zoom=17)
 - Link Template: [/templates/wplace/palestinese_pomarance.png](/templates/wplace/palestinese_pomarance.png)
 - Lista Pixel: (Totale: 1948, 16.2 ore)
   1. Black: 1238
@@ -316,7 +315,7 @@ Colori Sbloccabili
 ### Fronte Democratico per la Liberazione della Palestina (Pomarance, Pisa)
 ![Fronte Democratico per la Liberazione della Palestina (Pomarance, Pisa)](/templates/wplace/dflp_pomarance.png)
 
-- Coordinate: [1085 750 407 292](https://wplace.live/?lat=43.285587463453645&lng=10.796923496777314&zoom=16.127295)
+- Coordinate: [1085 750 407 292](https://wplace.live/?lat=43.286163035627965&lng=10.796484375000006&zoom=17)
 - Link Template: [/templates/wplace/dflp_pomarance.png](/templates/wplace/dflp_pomarance.png)
 - Lista Pixel: (Totale: 436, 3.6 ore)
   1. Red: 208
@@ -327,7 +326,7 @@ Colori Sbloccabili
 ### Comitato di Liberazione Nazionale (Pomarance, Pisa)
 ![Comitato di Liberazione Nazionale (Pomarance, Pisa)](/templates/wplace/cln_pomarance.png)
 
-- Coordinate: [1085 750 885 224](https://wplace.live/?lat=43.2936483542305&lng=10.881825840527318&zoom=15.748345)
+- Coordinate: [1085 750 885 224](https://wplace.live/?lat=43.295119430238515&lng=10.879980468750006&zoom=17)
 - Link Template: [/templates/wplace/cln_pomarance.png](/templates/wplace/cln_pomarance.png)
 - Lista Pixel: (Totale: 227, 1.9 ore)
   1. White: 140
@@ -336,7 +335,7 @@ Colori Sbloccabili
 ### Fidel Castro (Pomarance, Pisa)
 ![Fidel Castro (Pomarance, Pisa)](/templates/wplace/castro_pomarance.png)
 
-- Coordinate: [1085 750 831 223](https://wplace.live/?lat=43.293776296264454&lng=10.872860996777339&zoom=15.748345)
+- Coordinate: [1085 750 831 223](https://wplace.live/?lat=43.29524736917759&lng=10.87083984375002&zoom=17)
 - Link Template: [/templates/wplace/castro_pomarance.png](/templates/wplace/castro_pomarance.png)
 - Lista Pixel: (Totale: 368, 3.1 ore)
   1. Dark Gray: 109
@@ -349,7 +348,7 @@ Colori Sbloccabili
 ### Stella Partigiana (Pomarance, Pisa)
 ![Stella Partigiana (Pomarance, Pisa)](/templates/wplace/stella_partigiana_pomarance.png)
 
-- Coordinate: [1085 750 794 273](https://wplace.live/?lat=43.28904226174339&lng=10.864071934277327&zoom=16.60586)
+- Coordinate: [1085 750 794 273](https://wplace.live/?lat=43.28910599648361&lng=10.863808593750008&zoom=17)
 - Link Template: [/templates/wplace/stella_partigiana_pomarance.png](/templates/wplace/stella_partigiana_pomarance.png)
 - Lista Pixel: (Totale: 159, 1.3 ore)
   1. Yellow: 58
@@ -360,7 +359,7 @@ Colori Sbloccabili
 ### Monkey D. Luffy Palestinese (Pomarance, Pisa)
 ![Monkey D. Luffy Palestinese (Pomarance, Pisa)](/templates/wplace/luffy_palestina_pomarance.png)
 
-- Coordinate: [1085 750 765 301](https://wplace.live/?lat=43.27394206853782&lng=10.863193028027329&zoom=14.788195)
+- Coordinate: [1085 750 765 301](https://wplace.live/?lat=43.279124943185934&lng=10.865214843749982&zoom=14)
 - Link Template: [/templates/wplace/luffy_palestina_pomarance.png](/templates/wplace/luffy_palestina_pomarance.png)
 - Lista Pixel: (Totale: 5215, 43.5 ore)
   1. Black: 1462
@@ -383,7 +382,7 @@ Colori Sbloccabili
 ### Thomas Sankara (Pomarance, Pisa)
 ![Thomas Sankara (Pomarance, Pisa)](/templates/wplace/sankara_pomarance.png)
 
-- Coordinate: [1085 750 469 298](https://wplace.live/?lat=43.282516366913114&lng=10.80852505927732&zoom=15.122456)
+- Coordinate: [1085 750 469 298](https://wplace.live/?lat=43.282964003635044&lng=10.808964843750005&zoom=17)
 - Link Template: [/templates/wplace/sankara_pomarance.png](/templates/wplace/sankara_pomarance.png)
 - Lista Pixel: (Totale: 1930, 16.1 ore)
   1. Black: 1200
@@ -396,7 +395,7 @@ Colori Sbloccabili
 ### Commish (Pomarance, Pisa)
 ![Commish (Pomarance, Pisa)](/templates/wplace/commish_pomarance.png)
 
-- Coordinate: [1085 750 906 458](https://wplace.live/?lat=43.26408653193807&lng=10.884462559277312&zoom=16.031658)
+- Coordinate: [1085 750 906 458](https://wplace.live/?lat=43.26440630070411&lng=10.884726562499992&zoom=17)
 - Link Template: [/templates/wplace/commish_pomarance.png](/templates/wplace/commish_pomarance.png)
 - Lista Pixel: (Totale: 651, 5.4 ore)
   1. Black: 218
@@ -411,7 +410,7 @@ Colori Sbloccabili
 ### Falce e Martello (Pomarance, Pisa)
 ![Falce e Martello (Pomarance, Pisa)](/templates/wplace/hamsick_pomarance.png)
 
-- Coordinate: [1085 750 909 194](https://wplace.live/?lat=43.29863789410152&lng=10.884989903027343&zoom=16.60496)
+- Coordinate: [1085 750 909 194](https://wplace.live/?lat=43.298829550188344&lng=10.884726562499992&zoom=17)
 - Link Template: [/templates/wplace/hamsick_pomarance.png](/templates/wplace/hamsick_pomarance.png)
 - Lista Pixel: (Totale: 339, 2.8 ore)
   1. Yellow: 222
@@ -420,7 +419,7 @@ Colori Sbloccabili
 ### El Che (Cecina, Livorno)
 ![El Che (Cecina, Livorno)](/templates/wplace/che_livorno.png)
 
-- Coordinate: [1083 750 402 380](https://wplace.live/?lat=43.27650168709436&lng=10.44184537177733&zoom=15.578051)
+- Coordinate: [1083 750 402 380](https://wplace.live/?lat=43.27067815750593&lng=10.452480468749997&zoom=13)
 - Link Template: [/templates/wplace/che_livorno.png](/templates/wplace/che_livorno.png)
 - Lista Pixel: (Totale: 11224, 93.5 ore)
   1. Red: 7298
@@ -433,23 +432,10 @@ Colori Sbloccabili
   1. Dark Brown: 4
   1. Dark Pink: 1
 
-### Bandiere (Livorno)
-![Bandiere (Livorno)](/templates/wplace/dprk_livorno.png)
-
-- Coordinate: [1082 747 491 920](https://wplace.live/?lat=43.5887311119986&lng=10.288739903027317&zoom=16.94777)
-- Link Template: [/templates/wplace/dprk_livorno.png](/templates/wplace/dprk_livorno.png)
-- Lista Pixel: (Totale: 1390, 11.6 ore)
-  1. Red: 327
-  1. Black: 300
-  1. White: 250
-  1. Cyan: 240
-  1. Light Pink: 168
-  1. Dark Teal: 105
-
 ### 99Posse (Predappio, Forlì)
 ![99Posse (Predappio, Forlì)](/templates/wplace/99posse_predappio.png)
 
-- Coordinate: [1092 743 153 676](https://wplace.live/?lat=44.12841615759932&lng=11.980107090527323&zoom=17.5)
+- Coordinate: [1092 743 153 676](https://wplace.live/?lat=44.12469371513566&lng=11.986171875000025&zoom=14)
 - Link Template: [/templates/wplace/99posse_predappio.png](/templates/wplace/99posse_predappio.png)
 - Lista Pixel: (Totale: 2482, 20.7 ore)
   1. Red: 1030
@@ -472,7 +458,7 @@ Colori Sbloccabili
 ### Porco Rosso (Predappio, Forlì)
 ![Porco Rosso (Predappio, Forlì)](/templates/wplace/porcorosso_predappio.png)
 
-- Coordinate: [1092 743 104 935](https://wplace.live/?lat=44.09572845245505&lng=11.97149380927734&zoom=15.023494)
+- Coordinate: [1092 743 104 935](https://wplace.live/?lat=44.089478892550915&lng=11.98458984375003&zoom=13)
 - Link Template: [/templates/wplace/porcorosso_predappio.png](/templates/wplace/porcorosso_predappio.png)
 - Lista Pixel: (Totale: 14997, 125.0 ore)
   1. Red: 3790
@@ -500,7 +486,7 @@ Colori Sbloccabili
 ### Packwatch (Predappio, Forlì)
 ![Packwatch (Predappio, Forlì)](/templates/wplace/packwatch_predappio.png)
 
-- Coordinate: [1092 743 58 774](https://wplace.live/?lat=44.11390454327602&lng=11.97237271552734&zoom=15.453534)
+- Coordinate: [1092 743 58 774](https://wplace.live/?lat=44.11472462213729&lng=11.971933593750009&zoom=14)
 - Link Template: [/templates/wplace/packwatch_predappio.png](/templates/wplace/packwatch_predappio.png)
 - Lista Pixel: (Totale: 1515, 12.6 ore)
   1. Black: 1115
@@ -523,7 +509,7 @@ Colori Sbloccabili
 ### Poster Antifascista (Bologna)
 ![Poster Antifascista (Bologna)](/templates/wplace/antifa_poster_bologna.png)
 
-- Coordinate: [1088 741 377 0](https://wplace.live/?lat=44.465088524442436&lng=11.316357090527315&zoom=14.597788)
+- Coordinate: [1088 741 377 0](https://wplace.live/?lat=44.45900359232388&lng=11.322949218749983&zoom=14)
 - Link Template: [/templates/wplace/antifa_poster_bologna.png](/templates/wplace/antifa_poster_bologna.png)
 - Lista Pixel: (Totale: 7623, 63.5 ore)
   1. Red: 5269
@@ -536,7 +522,7 @@ Colori Sbloccabili
 ### PCI (Andria)
 ![PCI (Andria)](/templates/wplace/pci_andria.png)
 
-- Coordinate: [1116 765 975 917](https://wplace.live/?lat=41.25567570038606&lng=16.34334927802734&zoom=14.586365)
+- Coordinate: [1116 765 975 917](https://wplace.live/?lat=41.248076507424514&lng=16.353457031249974&zoom=13)
 - Link Template: [/templates/wplace/pci_andria.png](/templates/wplace/pci_andria.png)
 - Lista Pixel: (Totale: 6370, 53.1 ore)
   1. Red: 3766
@@ -572,7 +558,7 @@ Colori Sbloccabili
 ### Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)
 ![Smrt fašizmu! Sloboda narodu! (Panicarola, Perugia)](/templates/wplace/sfsn_panicarola.png)
 
-- Coordinate: [1092 751 810 923](https://wplace.live/?lat=43.073318140381474&lng=12.098935215527316&zoom=13.536951)
+- Coordinate: [1092 751 810 923](https://wplace.live/?lat=43.06952984099675&lng=12.099902343750017&zoom=17)
 - Link Template: [/templates/wplace/sfsn_panicarola.png](/templates/wplace/sfsn_panicarola.png)
 - Lista Pixel: (Totale: 7343, 61.2 ore)
   1. Black: 2073
@@ -589,7 +575,7 @@ Colori Sbloccabili
 ### Raising a Flag over the Reichstag (Panicarola, Perugia)
 ![Raising a Flag over the Reichstag (Panicarola, Perugia)](/templates/wplace/soviet_berlin_panicarola.png)
 
-- Coordinate: [1092 751 697 935](https://wplace.live/?lat=43.07396016079764&lng=12.07872037177733&zoom=15.297143)
+- Coordinate: [1092 751 697 935](https://wplace.live/?lat=43.07415252360488&lng=12.080566406249972&zoom=17)
 - Link Template: [/templates/wplace/soviet_berlin_panicarola.png](/templates/wplace/soviet_berlin_panicarola.png)
 - Lista Pixel: (Totale: 1209, 10.1 ore)
   1. Red: 847
@@ -602,7 +588,7 @@ Colori Sbloccabili
 ### Falce e Martello (Panicarola, Perugia)
 ![Falce e Martello (Panicarola, Perugia)](/templates/wplace/hamsick_panicarola.png)
 
-- Coordinate: [1092 752 715 10](https://wplace.live/?lat=43.06818173492111&lng=12.076083653027336&zoom=15)
+- Coordinate: [1092 752 715 10](https://wplace.live/?lat=43.06657627790233&lng=12.080214843749985&zoom=17)
 - Link Template: [/templates/wplace/hamsick_panicarola.png](/templates/wplace/hamsick_panicarola.png)
 - Lista Pixel: (Totale: 272, 2.3 ore)
   1. Gold: 94
@@ -613,7 +599,7 @@ Colori Sbloccabili
 ### Aeroflot (Panicarola, Perugia)
 ![Aeroflot (Panicarola, Perugia)](/templates/wplace/aeroflot_panicarola.png)
 
-- Coordinate: [1092 751 636 986](https://wplace.live/?lat=43.06818173492111&lng=12.076083653027336&zoom=15)
+- Coordinate: [1092 751 636 986](https://wplace.live/?lat=43.068630945555526&lng=12.071425781250014&zoom=14)
 - Link Template: [/templates/wplace/aeroflot_panicarola.png](/templates/wplace/aeroflot_panicarola.png)
 - Lista Pixel: (Totale: 2368, 19.7 ore)
   1. Blue: 1686
@@ -623,7 +609,7 @@ Colori Sbloccabili
 ### Antifa (Panicarola, Perugia)
 ![Antifa (Panicarola, Perugia)](/templates/wplace/antifa_panicarola.png)
 
-- Coordinate: [1092 751 729 980](https://wplace.live/?lat=43.06818173492111&lng=12.076083653027336&zoom=15)
+- Coordinate: [1092 751 729 980](https://wplace.live/?lat=43.06901618807308&lng=12.084082031249977&zoom=17)
 - Link Template: [/templates/wplace/antifa_panicarola.png](/templates/wplace/antifa_panicarola.png)
 - Lista Pixel: (Totale: 962, 8.0 ore)
   1. Black: 370
@@ -636,7 +622,7 @@ Colori Sbloccabili
 ### Pingu (Panicarola, Perugia)
 ![Pingu (Panicarola, Perugia)](/templates/wplace/pingu_panicarola.png)
 
-- Coordinate: [1092 752 779 30](https://wplace.live/?lat=43.06214590846919&lng=12.090849278027335&zoom=15.907321)
+- Coordinate: [1092 752 779 30](https://wplace.live/?lat=43.062723590421314&lng=12.092343749999998&zoom=17)
 - Link Template: [/templates/wplace/pingu_panicarola.png](/templates/wplace/pingu_panicarola.png)
 - Lista Pixel: (Totale: 432, 3.6 ore)
   1. Black: 186
@@ -650,7 +636,7 @@ Colori Sbloccabili
 ### Che (Panicarola, Perugia)
 ![Che (Panicarola, Perugia)](/templates/wplace/che_panicarola.png)
 
-- Coordinate: [1092 752 744 37](https://wplace.live/?lat=43.06214590846919&lng=12.090849278027335&zoom=15.907321)
+- Coordinate: [1092 752 744 37](https://wplace.live/?lat=43.061953023869904&lng=12.086718749999989&zoom=17)
 - Link Template: [/templates/wplace/che_panicarola.png](/templates/wplace/che_panicarola.png)
 - Lista Pixel: (Totale: 860, 7.2 ore)
   1. Black: 593
@@ -661,7 +647,7 @@ Colori Sbloccabili
 ### Pugno Palestinese (Panicarola, Perugia)
 ![Pugno Palestinese (Panicarola, Perugia)](/templates/wplace/pal_fist_panicarola.png)
 
-- Coordinate: [1092 752 668 40](https://wplace.live/?lat=43.06368702703832&lng=12.070634434277313&zoom=14.859526)
+- Coordinate: [1092 752 668 40](https://wplace.live/?lat=43.059255964670655&lng=12.076699218750008&zoom=14)
 - Link Template: [/templates/wplace/pal_fist_panicarola.png](/templates/wplace/pal_fist_panicarola.png)
 - Lista Pixel: (Totale: 3780, 31.5 ore)
   1. Black: 1741
@@ -673,7 +659,7 @@ Colori Sbloccabili
 ### 99Posse (Panicarola, Perugia)
 ![99Posse (Panicarola, Perugia)](/templates/wplace/99posse_predappio.png)
 
-- Coordinate: [1092 752 784 116](https://wplace.live/?lat=43.05392595516024&lng=12.091025059277333&zoom=14.859526)
+- Coordinate: [1092 752 784 116](https://wplace.live/?lat=43.05013645731319&lng=12.097089843749984&zoom=14)
 - Link Template: [/templates/wplace/99posse_predappio.png](/templates/wplace/99posse_predappio.png)
 - Lista Pixel: (Totale: 2482, 20.7 ore)
   1. Red: 1030
@@ -696,7 +682,7 @@ Colori Sbloccabili
 ### Global Sumud Flotilla (Panicarola, Perugia)
 ![Global Sumud Flotilla (Panicarola, Perugia)](/templates/wplace/global_sumud_flotilla_panicarola.png)
 
-- Coordinate: [1092 752 572 38](https://wplace.live/?lat=43.06394387636678&lng=12.05375943427732&zoom=13.850356)
+- Coordinate: [1092 752 572 38](https://wplace.live/?lat=43.05874222565757&lng=12.061054687500018&zoom=14)
 - Link Template: [/templates/wplace/global_sumud_flotilla_panicarola.png](/templates/wplace/global_sumud_flotilla_panicarola.png)
 - Lista Pixel: (Totale: 2798, 23.3 ore)
   1. Black: 1132
@@ -706,7 +692,7 @@ Colori Sbloccabili
 ### Porco Rosso (Siena)
 ![Porco Rosso (Siena)](/templates/wplace/porcorosso_siena.png)
 
-- Coordinate: [1089 749 141 492](https://wplace.live/?lat=43.377009432889984&lng=11.464013340527345&zoom=13.744039)
+- Coordinate: [1089 749 141 492](https://wplace.live/?lat=43.37950059071591&lng=11.465507812500022&zoom=13)
 - Link Template: [/templates/wplace/porcorosso_siena.png](/templates/wplace/porcorosso_siena.png)
 - Lista Pixel: (Totale: 20379, 169.8 ore)
   1. White: 9243
@@ -753,7 +739,7 @@ Colori Sbloccabili
 ### Stemma della Repubblica (Mar Tirreno)
 ![Stemma della Repubblica (Mar Tirreno)](/templates/wplace/respublica_mar_tirreno.png)
 
-- Coordinate: [1088 764 169 180](https://wplace.live/?lat=41.48481308011223&lng=11.279794590527334&zoom=14.767614)
+- Coordinate: [1088 764 169 180](https://wplace.live/?lat=41.47829418357895&lng=11.287441406249997&zoom=14)
 - Link Template: [/templates/wplace/respublica_mar_tirreno.png](/templates/wplace/respublica_mar_tirreno.png)
 - Lista Pixel: (Totale: 6875, 57.3 ore)
   1. White: 1835
@@ -773,7 +759,7 @@ Colori Sbloccabili
 ### Fasci Appesi (Milano)
 ![Fasci Appesi (Milano)](/templates/wplace/fasci_appesi_milano.png)
 
-- Coordinate: [1077 732 184 946](https://wplace.live/?lat=45.464754202704455&lng=9.37116177802733&zoom=13.974521)
+- Coordinate: [1077 732 184 946](https://wplace.live/?lat=45.46395261989065&lng=9.370898437499989&zoom=13)
 - Link Template: [/templates/wplace/fasci_appesi_milano.png](/templates/wplace/fasci_appesi_milano.png)
 - Lista Pixel: (Totale: 11638, 97.0 ore)
   1. Black: 7058
@@ -788,7 +774,7 @@ Colori Sbloccabili
 ### Simbolo Transmaoista (Cagliari)
 ![Simbolo Transmaoista (Cagliari)](/templates/wplace/transmaoist_cagliari.png)
 
-- Coordinate: [1074 780 902 993](https://wplace.live/?lat=39.219930003993554&lng=8.963525059277337&zoom=13.9561205)
+- Coordinate: [1074 780 902 993](https://wplace.live/?lat=39.21700177201811&lng=8.96431640625002&zoom=13)
 - Link Template: [/templates/wplace/transmaoist_cagliari.png](/templates/wplace/transmaoist_cagliari.png)
 - Lista Pixel: (Totale: 14237, 118.6 ore)
   1. Dark Red: 7186 (Sbloccabile)
@@ -798,7 +784,7 @@ Colori Sbloccabili
 ### Freie Deutsche Jugend (Nuoro)
 ![Freie Deutsche Jugend (Nuoro)](/templates/wplace/fdj_nuoro.png)
 
-- Coordinate: [1077 775 722 64](https://wplace.live/?lat=40.01839384637391&lng=9.45852505927733&zoom=13.89852)
+- Coordinate: [1077 775 722 64](https://wplace.live/?lat=40.02209554139492&lng=9.457382812499986&zoom=13)
 - Link Template: [/templates/wplace/fdj_nuoro.png](/templates/wplace/fdj_nuoro.png)
 - Lista Pixel: (Totale: 29289, 244.1 ore)
   1. Yellow: 18315
@@ -826,8 +812,10 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Alt Gruppo A
 - DeathToCommies #11598762
   * Alt Gruppo A
-- EuroNutella #6122444
-  * Scritte di ispirazione neonazista, cancella e attacca loghi di organizzazioni di sinistra, in tutta Italia, eurofascio fiorentino, anche conosciuto con l'alias `EuroNutellaMan` su alcuni social
+- EuroNutella #6122444 [Volt Europa]
+  * Scritte di ispirazione neonazista, cancella e attacca loghi di organizzazioni di sinistra in tutta Italia, eurofascio fiorentino, anche conosciuto con l'alias `EuroNutellaMan` su alcuni social
+- Nyapenheimer7 #10768625 
+  * Aiutante in più casi di EuroNutella
 - [SPQR] Rokyff9 #970884 [Versilia squad]
   * Grief costanti al Che a Livorno
 - Bibi Netanyahu #11304440
@@ -910,17 +898,14 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Rovina Che Guevara a Milano
 - patè di olive #10270594 
   * Grieffa la bandiera Palestinese, la scritta Fuck Netanyahu e Free Palestine a Torino
-  
-### Cimitero dei Bozo
-Tutti i griefer bannati
 
-- Watys #1540530
-- GreedySpade #11141860
-- Vividknife #10904807 [Partito Fascista]
-- Unknown #7618347 [Partito Fascista]
-- Unknown #10905204 [Partito Fascista]
-- snairaM #10147604
-- Msriana #10715660
-- Narsaim #10144939
-- PlainDustpan #1442115 [THE ZONE]
-- inst:dvvinnb #2103379
+# canvas.place
+Il sito ha oramai chiuso nel 2020. L'unico progetto è stato fatto da FalB e Renesto101.
+
+## Progetti
+
+### Bandiera Partigiana
+![Bandiera Partigiana](/templates/canvas_place/partigiani.png)
+
+- Coordinate: [1939, 1853](https://canvas.place/#x=1939&y=1853)
+- Link Template: [/templates/canvas_place/partigiani.png](/templates/canvas_place/partigiani.png)

@@ -15,16 +15,15 @@ pub fn to_markdown_titles_str(v: &ArtData) -> String {
 }
 
 pub fn to_markdown_str(v: &ArtData) -> String {
+    let tile_coords = v.get_tile_coords();
     format!(
-        "### {title}\n![{title}]({path})\n\n- Coordinate: [{tl_x} {tl_y} {x} {y}](https://wplace.live/?lat={lat}&lng={lng}&zoom={zoom})\n- Link Template: [{path}]({path})",
+        "### {title}\n![{title}]({path})\n\n- Coordinate: [{tl_x} {tl_y} {x} {y}]({map_link})\n- Link Template: [{path}]({path})",
         title = v.get_title(),
-        path = String::from("/templates/wplace/") + v.get_image_file_name(),
-        tl_x = v.get_tile_coords_tile_x(),
-        tl_y = v.get_tile_coords_tile_y(),
-        x = v.get_tile_coords_x(),
-        y = v.get_tile_coords_y(),
-        lat = v.get_map_coords_lat(),
-        lng = v.get_map_coords_lng(),
-        zoom = v.get_map_coords_zoom(),
+        path = String::from("/templates/wplace/") + v.get_image_info().get_file_name(),
+        tl_x = tile_coords.get_tile_x(),
+        tl_y = tile_coords.get_tile_y(),
+        x = tile_coords.get_x(),
+        y = tile_coords.get_y(),
+        map_link = v.get_map_coords().get_link()
     )
 }

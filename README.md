@@ -29,7 +29,7 @@ Indice
     1. [Commish (Pomarance, Pisa)](#commish-pomarance-pisa)
     1. [Falce e Martello (Pomarance, Pisa)](#falce-e-martello-pomarance-pisa)
     1. [El Che (Cecina, Livorno)](#el-che-cecina-livorno)
-    1. [Corea del Nord (Livorno)](#corea-del-nord-livorno)
+    1. [Bandiere (Livorno)](#bandiere-livorno)
     1. [99Posse (Predappio, Forlì)](#99posse-predappio-forlì)
     1. [Porco Rosso (Predappio, Forlì)](#porco-rosso-predappio-forlì)
     1. [Packwatch (Predappio, Forlì)](#packwatch-predappio-forlì)
@@ -433,17 +433,18 @@ Colori Sbloccabili
   1. Dark Brown: 4
   1. Dark Pink: 1
 
-### Corea del Nord (Livorno)
-![Corea del Nord (Livorno)](/templates/wplace/dprk_livorno.png)
+### Bandiere (Livorno)
+![Bandiere (Livorno)](/templates/wplace/dprk_livorno.png)
 
 - Coordinate: [1082 747 491 920](https://wplace.live/?lat=43.5887311119986&lng=10.288739903027317&zoom=16.94777)
 - Link Template: [/templates/wplace/dprk_livorno.png](/templates/wplace/dprk_livorno.png)
-- Lista Pixel: (Totale: 987, 8.2 ore)
-  1. Cyan: 269
-  1. Red: 241
-  1. Light Pink: 171
-  1. Black: 155
-  1. White: 151
+- Lista Pixel: (Totale: 1390, 11.6 ore)
+  1. Red: 327
+  1. Black: 300
+  1. White: 250
+  1. Cyan: 240
+  1. Light Pink: 168
+  1. Dark Teal: 105
 
 ### 99Posse (Predappio, Forlì)
 ![99Posse (Predappio, Forlì)](/templates/wplace/99posse_predappio.png)

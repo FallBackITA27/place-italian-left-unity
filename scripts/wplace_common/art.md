@@ -4,4 +4,4 @@
 - Linea 2: Titolo
 - Linea 4: File name Immagine
 - Linea 4: Tile Coords (In alto a sinistra)
-- Linea 5: Query string per l'url
+- Linea 5: Alleanza a cui appartiene (Per alleati) 

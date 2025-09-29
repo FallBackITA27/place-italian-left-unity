@@ -1,3 +1,5 @@
+use std::fmt::Display;
+
 use image::{DynamicImage, ImageReader};
 
 use crate::tile_coords::TileCoords;
@@ -78,11 +80,65 @@ impl ImageInfo {
     }
 }
 
+#[derive(Copy, Clone)]
+pub enum Alliances {
+    None,
+    BrindisiPlace,
+}
+
+impl Alliances {
+    fn to_markdown_alliance_list(self) -> String {
+        format!(
+            "  - [Progetti {}](#progetti-{})\n",
+            self,
+            self.to_string()
+                .to_lowercase()
+                .replace(" ", "-")
+                .replace("(", "")
+                .replace(")", "")
+                .replace(",", "")
+                .replace("!", "")
+        )
+    }
+
+    pub fn markdown_list() -> String {
+        [Self::BrindisiPlace]
+            .into_iter()
+            .map(|v| v.to_markdown_alliance_list())
+            .collect()
+    }
+}
+
+impl Display for Alliances {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(
+            f,
+            "{}",
+            match self {
+                Self::None => "Italian Left Unity",
+                Self::BrindisiPlace => "BRINDISIPLACE",
+            }
+        )
+    }
+}
+
+impl TryFrom<&str> for Alliances {
+    type Error = ();
+    fn try_from(value: &str) -> Result<Self, Self::Error> {
+        match value {
+            "-" => Ok(Self::None),
+            "brindisiplace" => Ok(Self::BrindisiPlace),
+            _ => Err(()),
+        }
+    }
+}
+
 pub struct ArtData {
     title: String,
     image_info: ImageInfo,
     tile_coords: TileCoords,
     map_coords: MapCoords,
+    alliance: Alliances,
 }
 
 impl ArtData {
@@ -96,6 +152,7 @@ impl ArtData {
             let title = line_split.next().expect("Wrong line number art data");
             let file_name = line_split.next().expect("Wrong line number art data");
             let tile_coords = line_split.next().expect("Wrong line number art data");
+            let alliance = line_split.next().expect("Wrong line number art data");
 
             // Get Tile Coords
             let tile_coords = TileCoords::parse_tile_coords_string(tile_coords);
@@ -134,6 +191,7 @@ impl ArtData {
                 map_coords: MapCoords::from_tile_coords(&center_coords, image_info.get_width()),
                 image_info,
                 tile_coords,
+                alliance: Alliances::try_from(alliance).expect("Couldn't parse alliance"),
             });
         }
         out
@@ -152,5 +210,9 @@ impl ArtData {
 
     pub fn get_map_coords(&self) -> &MapCoords {
         &self.map_coords
+    }
+
+    pub fn get_alliance(&self) -> Alliances {
+        self.alliance
     }
 }

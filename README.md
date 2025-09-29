@@ -49,6 +49,7 @@ Indice
     1. [Fasci Appesi (Milano)](#fasci-appesi-milano)
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
     1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
+  - [Progetti BRINDISIPLACE](#progetti-brindisiplace)
   - [Lista Griefer](#lista-griefer)
 - [canvas.place](#canvas-place)
 
@@ -791,113 +792,124 @@ Colori Sbloccabili
   1. Black: 6405
   1. Blue: 4569
 
+## Progetti BrindisiPlace
+
+
+
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
 
 Gli account dichiarati Alt è per presentimento e coincidenze negli orari di attività e nelle attività stesse.
 
-- NoCommie #2005025
-  * Alt Gruppo A
-  * Conosciuta anche come GaiaBacon o LaDeaNera, è una fascistoide toscana
-  * Grief continuo e costante sia del Che, sia della bandiera palestinese a Ravenna, che del logo Antifa a Ravenna, sommati ad altri grief e pubblicità ad Italian Empire in quanto "Server per riunire i camerati"
-- No Communism #7039774
-  * Alt Gruppo A
-- VivaLaDEA #11513856
-  * Alt Gruppo A
-- PraiseTheDuxess #10232762
-  * Alt Gruppo A
-- LodeAllaDux #11513628
-  * Alt Gruppo A
+- NoCommie #2005025 
+  * Conosciuta anche come GaiaBacon o LaDeaNera, è una fascistoide toscana, grieffa continuamente il Che di Cecina, che la bandiera palestinese a Ravenna, che del logo Antifa a Ravenna, sommati ad altri grief e pubblicità ad Italian Empire in quanto "Server per riunire i camerati"
+  * Gruppo Alt: A
+- No Communism #7039774 
+  * Gruppo Alt: A
+- VivaLaDEA #11513856 
+  * Gruppo Alt: A
+- PraiseTheDuxess #10232762 
+  * Gruppo Alt: A
+- LodeAllaDux #11513628 
+  * Gruppo Alt: A
 - VivaLaDuxs #10232618 
-  * Alt Gruppo A
-- DeathToCommies #11598762
-  * Alt Gruppo A
-- EuroNutella #6122444 [Volt Europa]
+  * Gruppo Alt: A
+- DeathToCommies #11598762 
+  * Gruppo Alt: A
+- EuroNutella #6122444 [Volt Europa] (58928)
   * Scritte di ispirazione neonazista, cancella e attacca loghi di organizzazioni di sinistra in tutta Italia, eurofascio fiorentino, anche conosciuto con l'alias `EuroNutellaMan` su alcuni social
+  * Gruppo Alt: B
 - Nyapenheimer7 #10768625 
-  * Aiutante in più casi di EuroNutella
-- [SPQR] Rokyff9 #970884 [Versilia squad]
+  * Gruppo Alt: B
+- [SPQR] Rokyff9 #970884 [Versilia squad] 
   * Grief costanti al Che a Livorno
-- Bibi Netanyahu #11304440
-  * Grief costanti al Che a Livorno
-- Soycuck #87336385
+- Soycuck #87336385 
   * Grief costanti al Che a Livorno, al simbolo di OSA ed Antifa a Ravenna, e al poster Antifascista a Bologna
-- RPH #114013
+- Bibi Netanyahu #11304440 
   * Grief costanti al Che a Livorno
-- SaltyLupo #11208701
-  * Grief costanti al Che a Livorno
-- MoodyClip #8704664
-  * Alt Gruppo B
-  * Grief costanti al Che a Livorno
-- SwiftFrame #8151974
-  * Alt Gruppo B 
-- KindCouch #8718149
-  * Alt Gruppo B
-- As Roma Merda #11440398
+  * Gruppo Alt: C
+- RPH #114013 
+  * Gruppo Alt: C
+- SaltyLupo #11208701 
+  * Gruppo Alt: C
+- MoodyClip #8704664 
+  * Gruppo Alt: C
+- SwiftFrame #8151974 
+  * Gruppo Alt: C
+- KindCouch #8718149 
+  * Gruppo Alt: C
+- As Roma Merda #11440398 
   * Grief e Art varie contenenti svastiche, croci celtiche e simili.
-- TallSoap #7618347 [Partito Fascista]
+- TallSoap #7618347 [Partito Fascista] 
+  * Disegna Svastiche
 - gay1 #10666376 
   * Svastiche a Molfetta (Bari)
-- absurgency #2529932 [Hetmanate]
+- absurgency #2529932 [Hetmanate] 
   * Rimozione di simboli comunisti
-- FancyMarsh #2345336 [infantdestroyers]
+- FancyMarsh #2345336 [infantdestroyers] 
   * Grief alla bandiera palestinese a Ravenna
-- AntMagic1 #7500842 [Olio Moto]
+- AntMagic1 #7500842 [Olio Moto] 
   * Grief alla bandiera palestinese a Ravenna e di arte a Predappio
 - Anarchy player #11197657 
   * Grief del simbolo maoista a Cagliari
-- Cesare Augusto #4730502
+- Cesare Augusto #4730502 
   * Disegna svastiche a Predappio
-- Sono un fascio88 #9726492 [COMUNISMO_IT]
+- Sono un fascio88 #9726492 [COMUNISMO_IT] 
   * Nome autoesplicativo
-- VoglioUnaGothGF #2128949
+- VoglioUnaGothGF #2128949 
   * Grief di parecchi simboli comunisti a Cagliari
 - stef #11296223 [BRESCIAKILLER] 
   * Grief del Porco Rosso a Predappio e a Novara
 - Solid Snake #5537093 
   * Grief del simbolo del PCI ad Andria
-- HarshShaver #3629477
+- HarshShaver #3629477 
   * Grief del simbolo Antifa a Ravenna
-- Diburcio #9026169
+- Diburcio #9026169 
   * Grief della Bandiera Palestinese a Ravenna
-- Pacciani2000 #8762270
+- Pacciani2000 #8762270 
   * Grief del simbolo Antifa a Ravenna
-- RapidCap #11246980 [COMBATTENTI]
+- RapidCap #11246980 [COMBATTENTI] 
   * Griefer di art di sinistra in Sardegna
-- CrazyDustpan #8076360
+- CrazyDustpan #8076360 
   * Griefer di art di sinistra in Sardegna
-- SleepyStrap #8132519
+- SleepyStrap #8132519 
   * Grief di una bandiera palestinese a Cecina, Livorno
-- Florence rusher #11483379
+- Florence rusher #11483379 
   * Grief di varie bandiere Palestinesi e Esperanto vicino a Rosignano, Livorno
-- HeavyStrap #2027604 [Rule enforcer] 
+- HeavyStrap #2027604 [Rule enforcer] (163003)
   * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
-- No_politics #3047458 Rule enforcer
+- No_politics #3047458 [Rule enforcer] (163003)
   * Cancella simboli Comunisti per la Toscana, ha attaccato il poster Antifascista a Bologna
-- CalmTable #6142945
+- CalmTable #6142945 
   * Scrive a Predappio la data di fondazione del Fascismo, chiama Mussolini "Figlio del Secolo" come elogio
-- Sir Rouk #9073273
+- Sir Rouk #9073273 
   * Grief al poster Antifascista a Bologna
 - TallTablet #11757130 
   * Grief al poster Antifascista a Bologna
-- gatto2210 #10354131 [Faenza Merda]
+- gatto2210 #10354131 [Faenza Merda] 
   * Grief al logo Antifa a Ravenna
-- Unrealdemon4k #11751294 [UABOGANG]
+- Unrealdemon4k #11751294 [UABOGANG] 
   * Grief di bandiere queer a Predappio
-- DeepDrill #11391300  
+- DeepDrill #11391300 
   * Grief del poster Antifascista a Bologna
-- Iron Cloud #2879613 [Skunk]
+- Iron Cloud #2879613 [Skunk] 
   * Disegna una croce celtica a Milano
-- SandyDryer #11387250
+- SandyDryer #11387250 
   * Disegna una croce celtica a Milano
-- SternShaver #10715791
+- SternShaver #10715791 
   * Disegna una croce celtica a Milano
-- BroadRug #10768100 [MIlano]
+- BroadRug #10768100 [MIlano] 
   * Disegna lo stemma della Decima MAS sopra a Gramsci a Milano
-- DarkPaper #4840356
-  * Rovina Che Guevara a Milano
+- DarkPaper #4840356 
+  * Grieffa Che Guevara a Milano
 - patè di olive #10270594 
   * Grieffa la bandiera Palestinese, la scritta Fuck Netanyahu e Free Palestine a Torino
+- WolfDeath #7991457 
+  * Scrive "COMBATTENTI" poco sotto Siracusa
+- Player #11817224 
+  * Croci celtiche sul porcorosso a Predappio
+- DustyPaint #4283598 
+  * Attacchi al poster a Bologna e la bandiera dei partigiani di a Bologna
 
 # canvas.place
 Il sito ha oramai chiuso nel 2020. L'unico progetto è stato fatto da FalB e Renesto101.

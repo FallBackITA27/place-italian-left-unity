@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["wplace_area_info_grabber","wplace_common", "wplace_grief_checker", "wplace_stat_generator"]
+members = ["readme_generator", "wplace_area_info_grabber","wplace_common", "wplace_grief_checker"]
 
 [workspace.lints.clippy]
 duplicate_mod = "deny"

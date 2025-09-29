@@ -809,24 +809,20 @@ Colori Sbloccabili
 
 - Coordinate: [1120 766 123 946](https://wplace.live/?lat=41.116839070147535&lng=16.90013671874999&zoom=17)
 - Link Template: [/templates/wplace/brindisiplace_yukari_gup.png](/templates/wplace/brindisiplace_yukari_gup.png)
-- Lista Pixel: (Totale: 1215, 10.1 ore)
-  1. Black: 320
-  1. White: 220
+- Lista Pixel: (Totale: 1099, 9.2 ore)
+  1. Black: 265
+  1. White: 217
   1. Tan: 171 (Sbloccabile)
-  1. Dark Brown: 122
-  1. Light Gray: 117
+  1. Dark Brown: 125
+  1. Light Gray: 109
   1. Light Beige: 74 (Sbloccabile)
   1. Dark Gray: 45
-  1. Gray: 45
+  1. Gray: 42
   1. Dark Green: 34
-  1. Red: 20
-  1. Cyan: 15
-  1. Blue: 14
   1. Dark Teal: 7
   1. Pink: 4
   1. Light Pink: 4
   1. Dark Pink: 2
-  1. Slate: 1 (Sbloccabile)
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

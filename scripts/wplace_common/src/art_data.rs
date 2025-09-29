@@ -80,7 +80,7 @@ impl ImageInfo {
     }
 }
 
-#[derive(Copy, Clone)]
+#[derive(Copy, Clone, PartialEq, PartialOrd)]
 pub enum Alliances {
     None,
     BrindisiPlace,

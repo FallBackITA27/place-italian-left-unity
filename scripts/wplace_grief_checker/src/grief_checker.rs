@@ -1,13 +1,18 @@
 use std::collections::HashMap;
 
 use image::{DynamicImage, GenericImageView, ImageReader};
-use wplace_common::{art_data::ArtData, color::Color, tile_coords::TileCoords};
+use wplace_common::{
+    art_data::{Alliances, ArtData},
+    color::Color,
+    tile_coords::TileCoords,
+};
 
 pub struct GriefCheck {
     total_px_count: u32,
     incorrect_px_count: u32,
     missing_time_hrs: f64,
     wrong_px_coords: Vec<(TileCoords, Color)>,
+    alliance: Alliances,
 }
 
 impl GriefCheck {
@@ -25,12 +30,16 @@ impl GriefCheck {
 
     pub fn to_markdown_str(&self, art_data: &ArtData) -> String {
         format!(
-            "- {title}; {px}px ≅ {hrs:.1}h\n-# [Mappa]({map_link}); [Template](https://github.com/FallBackITA27/place-italian-left-unity/blob/main/templates/wplace/{image_png})",
+            "- {title}; {px}px ≅ {hrs:.1}h\n-# [Mappa]({map_link}); [Template](https://github.com/FallBackITA27/place-italian-left-unity/blob/main/templates/wplace/{image_png}){alliance_data}",
             title = art_data.get_title(),
             map_link = art_data.get_map_coords().get_link(),
             px = self.incorrect_px_count,
             hrs = self.missing_time_hrs,
             image_png = art_data.get_image_info().get_file_name(),
+            alliance_data = match self.alliance {
+                Alliances::None => String::new(),
+                v => format!("; [{v}]"),
+            }
         )
     }
 
@@ -163,6 +172,7 @@ impl GriefChecker {
             /* ((incorrect_px_count * 30) as f64) / 3600.0 */
             missing_time_hrs: (incorrect_px_count as f64) / 120.0,
             wrong_px_coords,
+            alliance: template.get_alliance(),
         }
     }
 }

@@ -14,7 +14,12 @@ async fn main() {
         .truncate(true)
         .open("./out.md")
         .expect("Couldn't open file");
-    let data = wplace_common::art_data::ArtData::new();
+    let mut data = wplace_common::art_data::ArtData::new();
+    data.sort_by(|a, b| {
+        a.get_alliance()
+            .partial_cmp(&b.get_alliance())
+            .unwrap_or(std::cmp::Ordering::Equal)
+    });
 
     out.write_all(b"# Grief Check!\n")
         .expect("Error writing to out file");

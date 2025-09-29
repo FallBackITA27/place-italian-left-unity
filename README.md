@@ -9,6 +9,7 @@ Indice
   - [Progetti](#progetti)
     1. [Antifa (Ravenna)](#antifa-ravenna)
     1. [Bandiera della Palestina (Ravenna)](#bandiera-della-palestina-ravenna)
+    1. [Brigate Rosse (Ravenna)](#brigate-rosse-ravenna)
     1. [Frase Antifa (Ravenna)](#frase-antifa-ravenna)
     1. [OSA (Santo Stefano, Ravenna)](#osa-santo-stefano-ravenna)
     1. [Logo Comintern (Siracusa)](#logo-comintern-siracusa)
@@ -165,6 +166,15 @@ Colori Sbloccabili
   1. Red: 11379
   1. Black: 11264
   1. White: 11132
+
+### Brigate Rosse (Ravenna)
+![Brigate Rosse (Ravenna)](/templates/wplace/br_ravenna.png)
+
+- Coordinate: [1093 741 9 87](https://wplace.live/?lat=44.4467068080279&lng=12.14525390625002&zoom=13)
+- Link Template: [/templates/wplace/br_ravenna.png](/templates/wplace/br_ravenna.png)
+- Lista Pixel: (Totale: 20152, 167.9 ore)
+  1. Red: 16466
+  1. White: 3686
 
 ### Frase Antifa (Ravenna)
 ![Frase Antifa (Ravenna)](/templates/wplace/frase_ravenna.png)
@@ -794,7 +804,29 @@ Colori Sbloccabili
 
 ## Progetti BrindisiPlace
 
+### Yukari di Girls Und Panzer (Brindisi)
+![Yukari di Girls Und Panzer (Brindisi)](/templates/wplace/brindisiplace_yukari_gup.png)
 
+- Coordinate: [1120 766 123 946](https://wplace.live/?lat=41.116839070147535&lng=16.90013671874999&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_yukari_gup.png](/templates/wplace/brindisiplace_yukari_gup.png)
+- Lista Pixel: (Totale: 1215, 10.1 ore)
+  1. Black: 320
+  1. White: 220
+  1. Tan: 171 (Sbloccabile)
+  1. Dark Brown: 122
+  1. Light Gray: 117
+  1. Light Beige: 74 (Sbloccabile)
+  1. Dark Gray: 45
+  1. Gray: 45
+  1. Dark Green: 34
+  1. Red: 20
+  1. Cyan: 15
+  1. Blue: 14
+  1. Dark Teal: 7
+  1. Pink: 4
+  1. Light Pink: 4
+  1. Dark Pink: 2
+  1. Slate: 1 (Sbloccabile)
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

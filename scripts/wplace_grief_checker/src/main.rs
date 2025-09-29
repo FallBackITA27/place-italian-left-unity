@@ -1,4 +1,4 @@
-use crate::grief_checker::{GriefCheck, GriefChecker};
+use crate::grief_checker::GriefChecker;
 use std::{
     fs::OpenOptions,
     io::{Write, stdin, stdout},
@@ -14,44 +14,66 @@ async fn main() {
         .truncate(true)
         .open("./out.md")
         .expect("Couldn't open file");
-    let data = wplace_common::art_data::ArtData::read(wplace_common::ART_FILE);
+    let mut data = wplace_common::art_data::ArtData::new();
+    data.sort_by(|a, b| {
+        a.get_alliance()
+            .partial_cmp(&b.get_alliance())
+            .unwrap_or(std::cmp::Ordering::Equal)
+    });
 
     out.write_all(b"# Grief Check!\n")
         .expect("Error writing to out file");
 
+    let mut summary_time = 0.0;
+    let mut total_px = 0;
+    let mut total_missing_px = 0;
+
     for v in data.iter() {
         let data = GriefChecker::new().check(v).await;
 
-        let overwrite = if data.get_incorrect_px_count() > 0 {
-            print!(
-                "{} ({}) has {}px wrong, mark as OK? [Y/N]\n > ",
-                v.get_title(),
-                v.get_map_coords_link(),
-                data.get_incorrect_px_count()
-            );
-            stdout().flush().expect("Flush stdout");
+        total_px += data.get_total_px();
 
-            let mut buf = String::new();
-            stdin().read_line(&mut buf).expect("Read line");
-            buf.contains('Y') || buf.contains('y')
-        } else {
-            false
-        };
+        if data.get_incorrect_px_count() == 0 {
+            continue;
+        }
 
-        out.write_all((data.to_markdown_str(v, overwrite) + "\n").as_bytes())
+        print!(
+            "{} ({}) has {}px wrong, mark as OK? [Y/N]\n > ",
+            v.get_title(),
+            v.get_map_coords().get_link(),
+            data.get_incorrect_px_count()
+        );
+        stdout().flush().expect("Flush stdout");
+
+        let mut buf = String::new();
+
+        stdin().read_line(&mut buf).expect("Read line");
+        if buf.contains('Y') || buf.contains('y') {
+            continue;
+        }
+
+        out.write_all((data.to_markdown_str(v) + "\n").as_bytes())
             .expect("Error writing to out file");
 
-        if !overwrite && data.get_incorrect_px_count() > 0 {
-            print!("Write down wrong PX coordinates? [Y/N]\n > ",);
-            stdout().flush().expect("Flush stdout");
+        summary_time += data.get_missing_time_hrs();
+        total_missing_px += data.get_incorrect_px_count();
 
-            let mut buf = String::new();
-            stdin().read_line(&mut buf).expect("Read line");
+        print!("Write down wrong PX coordinates? [Y/N]\n > ",);
+        stdout().flush().expect("Flush stdout");
 
-            if buf.contains('Y') || buf.contains('y') {
-                out.write_all(data.print_wrong_px_coords().as_bytes())
-                    .expect("Error writing to out file");
-            }
+        stdin().read_line(&mut buf).expect("Read line");
+        if buf.contains('Y') || buf.contains('y') {
+            out.write_all(data.print_wrong_px_coords().as_bytes())
+                .expect("Error writing to out file");
         }
     }
+
+    out.write_all(
+        format!(
+            "## Sommario: {summary_time:.1}, manca il {:.2}%\n",
+            (total_missing_px as f64) / (total_px as f64) * 100.0
+        )
+        .as_bytes(),
+    )
+    .expect("Error writing to file");
 }

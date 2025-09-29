@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+const_format = "0.2.34"
+image = "0.25.8"
 
 [lints]
 workspace = true

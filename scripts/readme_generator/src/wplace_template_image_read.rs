@@ -1,6 +1,6 @@
-use image::{GenericImageView, ImageReader};
+use image::GenericImageView;
 
-use wplace_common::color::Color;
+use wplace_common::{art_data::ArtData, color::Color};
 
 pub struct TemplateImageRead {
     total_px: i32,
@@ -9,19 +9,13 @@ pub struct TemplateImageRead {
 }
 
 impl TemplateImageRead {
-    pub fn image_calc(path_str: &str) -> Self {
-        let path = std::path::Path::new(&path_str);
-        let path = std::path::absolute(path).expect("Couldn't make path absolute");
-        if !path.exists() {
-            panic!("Expected an existing image's path. {path_str}")
-        }
+    pub fn image_calc(template: &ArtData) -> Self {
+        let image_info = template.get_image_info();
 
-        let mut image = ImageReader::open(path).expect("Couldn't open image");
-        image.set_format(image::ImageFormat::Png);
-        let decoded_image = image.decode().expect("Couldn't decode image");
+        let img_height = image_info.get_height();
+        let img_width = image_info.get_width();
 
-        let img_height = decoded_image.height();
-        let img_width = decoded_image.width();
+        let decoded_image = image_info.get_image();
 
         let mut hashmap: std::collections::HashMap<Color, u64> = std::collections::HashMap::new();
         let mut total = 0i32;
@@ -68,20 +62,19 @@ impl TemplateImageRead {
         }
     }
 
-    pub fn to_markdown_str(self) -> String {
+    pub fn to_markdown_str(&self) -> String {
         format!(
             "- Lista Pixel: (Totale: {}, {:.1} ore)\n{}",
             self.total_px,
             self.total_px_hrs,
             self.px_counts
-                .into_iter()
+                .iter()
                 .map(|(color, count)| {
                     format!(
-                        "  1. {}: {count}{}\n",
-                        color.to_string(),
+                        "  1. {color}: {count}{}\n",
                         match color.is_premium() {
-                            false => String::new(),
-                            true => String::from(" (Sbloccabile)"),
+                            false => "",
+                            true => " (Sbloccabile)",
                         }
                     )
                 })

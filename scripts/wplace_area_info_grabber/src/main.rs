@@ -1,6 +1,6 @@
-use std::{fs::OpenOptions, io::Write};
+use std::fs::OpenOptions;
 
-use crate::inputs_processor::{MainLoop, UserData};
+use crate::inputs_processor::MainLoop;
 
 mod inputs_processor;
 

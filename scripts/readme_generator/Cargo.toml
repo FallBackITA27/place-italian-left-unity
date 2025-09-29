@@ -1,5 +1,5 @@
 [package]
-name = "wplace_stat_generator"
+name = "readme_generator"
 version = "0.1.0"
 edition = "2024"
 

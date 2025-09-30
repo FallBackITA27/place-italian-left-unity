@@ -116,6 +116,7 @@ pub struct UserData {
     username: String,
     id: u64,
     alliance: Option<String>,
+    alliance_id: u64,
     discord: Option<String>,
 }
 
@@ -131,6 +132,8 @@ struct PxRequestGetUser {
     name: String,
     #[serde(rename = "allianceName")]
     alliance_name: String,
+    #[serde(rename = "allianceId")]
+    alliance_id: u64,
     discord: Option<String>,
 }
 
@@ -149,7 +152,7 @@ impl UserData {
             self.username,
             self.id,
             match &self.alliance {
-                Some(v) => format!(" [{v}]"),
+                Some(v) => format!(" [{v}] ({})", self.alliance_id),
                 None => String::new(),
             },
             match &self.discord {
@@ -342,6 +345,7 @@ impl MainLoop {
                                 true => None,
                                 false => Some(data.alliance_name),
                             },
+                            alliance_id: data.alliance_id,
                             discord: data.discord,
                         };
                         let index = self.user_data.len();

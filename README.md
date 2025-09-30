@@ -48,6 +48,8 @@ Indice
     1. [Porco Rosso (Siena)](#porco-rosso-siena)
     1. [Stemma della Repubblica (Mar Tirreno)](#stemma-della-repubblica-mar-tirreno)
     1. [Fasci Appesi (Milano)](#fasci-appesi-milano)
+    1. [Bandiera dell'URSS (Milano)](#bandiera-dell'urss-milano)
+    1. [Gramsci (Milano)](#gramsci-milano)
     1. [Simbolo Transmaoista (Cagliari)](#simbolo-transmaoista-cagliari)
     1. [Freie Deutsche Jugend (Nuoro)](#freie-deutsche-jugend-nuoro)
   - [Progetti BRINDISIPLACE](#progetti-brindisiplace)
@@ -782,6 +784,27 @@ Colori Sbloccabili
   1. Dark Red: 27 (Sbloccabile)
   1. Light Gray: 24
 
+### Bandiera dell'URSS (Milano)
+![Bandiera dell'URSS (Milano)](/templates/wplace/bandiera_urss_milano.png)
+
+- Coordinate: [1077 733 449 73](https://wplace.live/?lat=45.44742993401886&lng=9.405878906249995&zoom=13)
+- Link Template: [/templates/wplace/bandiera_urss_milano.png](/templates/wplace/bandiera_urss_milano.png)
+- Lista Pixel: (Totale: 7200, 60.0 ore)
+  1. Red: 6783
+  1. Yellow: 242
+  1. Gold: 175
+
+### Gramsci (Milano)
+![Gramsci (Milano)](/templates/wplace/gramsci_milano.png)
+
+- Coordinate: [1077 732 550 894](https://wplace.live/?lat=45.4674045099398&lng=9.421874999999972&zoom=13)
+- Link Template: [/templates/wplace/gramsci_milano.png](/templates/wplace/gramsci_milano.png)
+- Lista Pixel: (Totale: 5775, 48.1 ore)
+  1. Dark Gray: 2404
+  1. Light Gray: 1394
+  1. Gray: 1133
+  1. Medium Gray: 844 (Sbloccabile)
+
 ### Simbolo Transmaoista (Cagliari)
 ![Simbolo Transmaoista (Cagliari)](/templates/wplace/transmaoist_cagliari.png)
 
@@ -804,25 +827,74 @@ Colori Sbloccabili
 
 ## Progetti BrindisiPlace
 
-### Yukari di Girls Und Panzer (Brindisi)
-![Yukari di Girls Und Panzer (Brindisi)](/templates/wplace/brindisiplace_yukari_gup.png)
+### Yukari di Girls Und Panzer (Bari)
+![Yukari di Girls Und Panzer (Bari)](/templates/wplace/brindisiplace_yukari_gup.png)
 
-- Coordinate: [1120 766 123 946](https://wplace.live/?lat=41.116839070147535&lng=16.90013671874999&zoom=17)
+- Coordinate: [1120 766 115 945](https://wplace.live/?lat=41.116839070147535&lng=16.89943359374999&zoom=17)
 - Link Template: [/templates/wplace/brindisiplace_yukari_gup.png](/templates/wplace/brindisiplace_yukari_gup.png)
-- Lista Pixel: (Totale: 1099, 9.2 ore)
-  1. Black: 265
-  1. White: 217
+- Lista Pixel: (Totale: 1248, 10.4 ore)
+  1. Black: 321
+  1. White: 233
   1. Tan: 171 (Sbloccabile)
-  1. Dark Brown: 125
+  1. Dark Brown: 122
   1. Light Gray: 109
   1. Light Beige: 74 (Sbloccabile)
   1. Dark Gray: 45
-  1. Gray: 42
+  1. Gray: 45
+  1. Blue: 43
   1. Dark Green: 34
+  1. Cyan: 34
   1. Dark Teal: 7
   1. Pink: 4
   1. Light Pink: 4
   1. Dark Pink: 2
+
+### Roulxs Kaard di Deltarune (Bari)
+![Roulxs Kaard di Deltarune (Bari)](/templates/wplace/brindisiplace_roulxs_kaard.png)
+
+- Coordinate: [1119 766 975 976](https://wplace.live/?lat=41.11193903838421&lng=16.874648437500014&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_roulxs_kaard.png](/templates/wplace/brindisiplace_roulxs_kaard.png)
+- Lista Pixel: (Totale: 1110, 9.2 ore)
+  1. Blue: 731
+  1. White: 373
+  1. Cyan: 6
+
+### Dorothy di Va-11 Hall-A (Brindisi)
+![Dorothy di Va-11 Hall-A (Brindisi)](/templates/wplace/brindisiplace_dorothy_va11_halla.png)
+
+- Coordinate: [1125 770 694 677](https://wplace.live/?lat=40.60848126743292&lng=17.899101562499993&zoom=13)
+- Link Template: [/templates/wplace/brindisiplace_dorothy_va11_halla.png](/templates/wplace/brindisiplace_dorothy_va11_halla.png)
+- Lista Pixel: (Totale: 23755, 198.0 ore)
+  1. Black: 7508
+  1. Deep Red: 3327
+  1. White: 2681
+  1. Dark Pink: 1517
+  1. Cyan: 1318
+  1. Peach: 1131 (Sbloccabile)
+  1. Light Peach: 984 (Sbloccabile)
+  1. Blue: 920
+  1. Dark Slate: 791 (Sbloccabile)
+  1. Dark Purple: 619
+  1. Dark Cyan: 615 (Sbloccabile)
+  1. Pink: 550
+  1. Light Beige: 495 (Sbloccabile)
+  1. Red: 424
+  1. Dark Slate Blue: 419 (Sbloccabile)
+  1. Light Teal: 249
+  1. Slate: 36 (Sbloccabile)
+  1. Slate Blue: 34 (Sbloccabile)
+  1. Dark Indigo: 27 (Sbloccabile)
+  1. Dark Teal: 22
+  1. Teal: 19
+  1. Indigo: 18
+  1. Dark Red: 14 (Sbloccabile)
+  1. Purple: 9
+  1. Light Blue: 9 (Sbloccabile)
+  1. Dark Blue: 8
+  1. Light Cyan: 5 (Sbloccabile)
+  1. Light Indigo: 4
+  1. Light Slate Blue: 1 (Sbloccabile)
+  1. Dark Peach: 1 (Sbloccabile)
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
@@ -872,7 +944,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Disegna Svastiche
 - gay1 #10666376 
   * Svastiche a Molfetta (Bari)
-- absurgency #2529932 [Hetmanate] 
+- psychocaust #2529932 [Hetmanate] (159502)
   * Rimozione di simboli comunisti
 - FancyMarsh #2345336 [infantdestroyers] 
   * Grief alla bandiera palestinese a Ravenna
@@ -905,7 +977,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
 - Florence rusher #11483379 
   * Grief di varie bandiere Palestinesi e Esperanto vicino a Rosignano, Livorno
 - HeavyStrap #2027604 [Rule enforcer] (163003)
-  * Cancella simboli Comunisti per la Toscana, per poi scrivere ai membri del discord privatamente
+  * Cancella simboli Comunisti per la Toscana ed a Milano, per poi scrivere ai membri del discord privatamente
 - No_politics #3047458 [Rule enforcer] (163003)
   * Cancella simboli Comunisti per la Toscana, ha attaccato il poster Antifascista a Bologna
 - CalmTable #6142945 
@@ -938,6 +1010,12 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Croci celtiche sul porcorosso a Predappio
 - DustyPaint #4283598 
   * Attacchi al poster a Bologna e la bandiera dei partigiani di a Bologna
+- 1* Guts #1277378 [KILL THE NAZIS] (619516)
+  * Grief al simbolo del PCI ad Andria
+- QuietLight #2118691 [Team Délégué] (536522)
+  * Grief alla bandiera dell'URSS a Milano
+- Diegodj34 #5625228 
+  * Grief alla bandiera dell'URSS a Milano
 
 # canvas.place
 Il sito ha oramai chiuso nel 2020. L'unico progetto è stato fatto da FalB e Renesto101.

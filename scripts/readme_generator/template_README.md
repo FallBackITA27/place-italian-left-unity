@@ -6,9 +6,7 @@ Indice
 - [Struttura della Repo](#struttura-della-repo)
 - [Wplace](#wplace)
   - [Lista colori](#lista-colori)
-  - [Progetti](#progetti)
 {wplace_project_list_points}
-{wplace_allies_list_points}
   - [Lista Griefer](#lista-griefer)
 - [canvas.place](#canvas-place)
 

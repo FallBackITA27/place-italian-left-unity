@@ -896,6 +896,189 @@ Colori Sbloccabili
   1. Light Slate Blue: 1 (Sbloccabile)
   1. Dark Peach: 1 (Sbloccabile)
 
+### Anna Graem di Va-11 Hall-A (Brindisi)
+![Anna Graem di Va-11 Hall-A (Brindisi)](/templates/wplace/brindisiplace_anna_graem_va11_halla.png)
+
+- Coordinate: [1125 770 952 708](https://wplace.live/?lat=40.618355743421006&lng=17.92283203125001&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_anna_graem_va11_halla.png](/templates/wplace/brindisiplace_anna_graem_va11_halla.png)
+- Lista Pixel: (Totale: 324, 2.7 ore)
+  1. Black: 113
+  1. Beige: 93
+  1. White: 76
+  1. Light Pink: 16
+  1. Dark Pink: 14
+  1. Pink: 9
+  1. Dark Gray: 2
+  1. Gray: 1
+
+### Sfondo di Va-11 Hall-A (Brindisi)
+![Sfondo di Va-11 Hall-A (Brindisi)](/templates/wplace/brindisiplace_sfondo_va11_halla.png)
+
+- Coordinate: [1127 769 14 597](https://wplace.live/?lat=40.748189154762116&lng=18.158554687499986&zoom=12)
+- Link Template: [/templates/wplace/brindisiplace_sfondo_va11_halla.png](/templates/wplace/brindisiplace_sfondo_va11_halla.png)
+- Lista Pixel: (Totale: 168768, 1406.4 ore)
+  1. Black: 144601
+  1. Dark Slate: 10630 (Sbloccabile)
+  1. Deep Red: 5778
+  1. Teal: 2063
+  1. White: 1621
+  1. Blue: 910
+  1. Dark Cyan: 683 (Sbloccabile)
+  1. Light Yellow: 631
+  1. Tan: 611 (Sbloccabile)
+  1. Dark Teal: 528
+  1. Light Slate: 385 (Sbloccabile)
+  1. Dark Peach: 205 (Sbloccabile)
+  1. Light Red: 122 (Sbloccabile)
+
+### LSTR Signalis (Brindisi)
+![LSTR Signalis (Brindisi)](/templates/wplace/brindisiplace_lstr_signalis.png)
+
+- Coordinate: [1125 770 901 706](https://wplace.live/?lat=40.61702144005142&lng=17.916679687499993&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_lstr_signalis.png](/templates/wplace/brindisiplace_lstr_signalis.png)
+- Lista Pixel: (Totale: 2100, 17.5 ore)
+  1. Black: 1742
+  1. Red: 150
+  1. Cyan: 103
+  1. Gray: 75
+  1. White: 30
+
+### Elster di Signalis (Brindisi)
+![Elster di Signalis (Brindisi)](/templates/wplace/brindisiplace_elster_signalis.png)
+
+- Coordinate: [1125 770 936 644](https://wplace.live/?lat=40.623826108611524&lng=17.92406250000002&zoom=14)
+- Link Template: [/templates/wplace/brindisiplace_elster_signalis.png](/templates/wplace/brindisiplace_elster_signalis.png)
+- Lista Pixel: (Totale: 4096, 34.1 ore)
+  1. Black: 808
+  1. Slate: 796 (Sbloccabile)
+  1. Light Teal: 691
+  1. Blue: 658
+  1. Dark Slate: 479 (Sbloccabile)
+  1. Light Beige: 152 (Sbloccabile)
+  1. Dark Gray: 142
+  1. Light Tan: 124 (Sbloccabile)
+  1. Tan: 102 (Sbloccabile)
+  1. Dark Brown: 48
+  1. Light Slate: 47 (Sbloccabile)
+  1. Red: 15
+  1. Light Indigo: 10
+  1. White: 8
+  1. Dark Blue: 8
+  1. Gray: 4
+  1. Cyan: 4
+
+### Panzer 4 di Girls Und Panzer (Brindisi)
+![Panzer 4 di Girls Und Panzer (Brindisi)](/templates/wplace/brindisiplace_panzer4_gup.png)
+
+- Coordinate: [1125 770 367 745](https://wplace.live/?lat=40.60474459867919&lng=17.83810546875&zoom=13)
+- Link Template: [/templates/wplace/brindisiplace_panzer4_gup.png](/templates/wplace/brindisiplace_panzer4_gup.png)
+- Lista Pixel: (Totale: 17810, 148.4 ore)
+  1. Dark Slate: 4160 (Sbloccabile)
+  1. Black: 2578
+  1. Dark Tan: 1940 (Sbloccabile)
+  1. Gray: 1921
+  1. Medium Gray: 1829 (Sbloccabile)
+  1. Dark Gray: 1443
+  1. Dark Brown: 650
+  1. Brown: 485
+  1. Light Slate: 412 (Sbloccabile)
+  1. White: 384
+  1. Dark Slate Blue: 365 (Sbloccabile)
+  1. Dark Peach: 321 (Sbloccabile)
+  1. Light Yellow: 285
+  1. Olive: 168 (Sbloccabile)
+  1. Light Pink: 149
+  1. Deep Red: 127
+  1. Dark Olive: 126 (Sbloccabile)
+  1. Slate: 117 (Sbloccabile)
+  1. Light Peach: 102 (Sbloccabile)
+  1. Peach: 72 (Sbloccabile)
+  1. Dark Beige: 42 (Sbloccabile)
+  1. Cyan: 33
+  1. Slate Blue: 26 (Sbloccabile)
+  1. Light Red: 22 (Sbloccabile)
+  1. Tan: 21 (Sbloccabile)
+  1. Dark Goldenrod: 19 (Sbloccabile)
+  1. Dark Red: 7 (Sbloccabile)
+  1. Yellow: 6
+
+### Sakuya di Touhou (Brindisi)
+![Sakuya di Touhou (Brindisi)](/templates/wplace/brindisiplace_sakuya_touhou.png)
+
+- Coordinate: [1125 770 552 697](https://wplace.live/?lat=40.6144861902298&lng=17.855332031249986&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_sakuya_touhou.png](/templates/wplace/brindisiplace_sakuya_touhou.png)
+- Lista Pixel: (Totale: 2764, 23.0 ore)
+  1. Dark Slate: 494 (Sbloccabile)
+  1. Slate: 320 (Sbloccabile)
+  1. Medium Gray: 295 (Sbloccabile)
+  1. Black: 232
+  1. Light Gray: 228
+  1. White: 170
+  1. Light Yellow: 125
+  1. Dark Slate Blue: 120 (Sbloccabile)
+  1. Beige: 89
+  1. Dark Beige: 76 (Sbloccabile)
+  1. Dark Brown: 75
+  1. Gray: 71
+  1. Dark Peach: 59 (Sbloccabile)
+  1. Blue: 56
+  1. Light Slate: 51 (Sbloccabile)
+  1. Tan: 35 (Sbloccabile)
+  1. Peach: 32 (Sbloccabile)
+  1. Dark Gray: 31
+  1. Light Beige: 29 (Sbloccabile)
+  1. Deep Red: 26
+  1. Dark Tan: 26 (Sbloccabile)
+  1. Dark Red: 23 (Sbloccabile)
+  1. Light Peach: 19 (Sbloccabile)
+  1. Light Tan: 18 (Sbloccabile)
+  1. Slate Blue: 13 (Sbloccabile)
+  1. Light Pink: 11
+  1. Brown: 10
+  1. Dark Teal: 7
+  1. Stone: 7 (Sbloccabile)
+  1. Teal: 5
+  1. Light Red: 5 (Sbloccabile)
+  1. Dark Cyan: 2 (Sbloccabile)
+  1. Dark Green: 1
+  1. Dark Purple: 1
+  1. Dark Olive: 1 (Sbloccabile)
+  1. Dark Stone: 1 (Sbloccabile)
+
+### Marisa di Touhou (Brindisi)
+![Marisa di Touhou (Brindisi)](/templates/wplace/brindisiplace_marisa_touhou.png)
+
+- Coordinate: [1125 770 970 709](https://wplace.live/?lat=40.617288302857304&lng=17.92705078124999&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_marisa_touhou.png](/templates/wplace/brindisiplace_marisa_touhou.png)
+- Lista Pixel: (Totale: 687, 5.7 ore)
+  1. Black: 271
+  1. Light Gray: 77
+  1. Gold: 65
+  1. White: 64
+  1. Dark Brown: 59
+  1. Gray: 52
+  1. Yellow: 39
+  1. Light Peach: 22 (Sbloccabile)
+  1. Light Pink: 19
+  1. Medium Gray: 19 (Sbloccabile)
+
+### Teto di Mesmerizer (Brindisi)
+![Teto di Mesmerizer (Brindisi)](/templates/wplace/brindisiplace_marisa_touhou.png)
+
+- Coordinate: [1125 770 276 596](https://wplace.live/?lat=40.632364319788195&lng=17.805058593749976&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_marisa_touhou.png](/templates/wplace/brindisiplace_marisa_touhou.png)
+- Lista Pixel: (Totale: 687, 5.7 ore)
+  1. Black: 271
+  1. Light Gray: 77
+  1. Gold: 65
+  1. White: 64
+  1. Dark Brown: 59
+  1. Gray: 52
+  1. Yellow: 39
+  1. Light Peach: 22 (Sbloccabile)
+  1. Light Pink: 19
+  1. Medium Gray: 19 (Sbloccabile)
+
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
 

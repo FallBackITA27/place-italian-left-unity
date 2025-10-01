@@ -859,6 +859,24 @@ Colori Sbloccabili
   1. White: 373
   1. Cyan: 6
 
+### Lain (Bari)
+![Lain (Bari)](/templates/wplace/brindisiplace_lain_bari.png)
+
+- Coordinate: [1119 766 950 968](https://wplace.live/?lat=41.114720182377454&lng=16.868847656249983&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_lain_bari.png](/templates/wplace/brindisiplace_lain_bari.png)
+- Lista Pixel: (Totale: 745, 6.2 ore)
+  1. Dark Brown: 396
+  1. Light Beige: 140 (Sbloccabile)
+  1. Beige: 58
+  1. Light Tan: 40 (Sbloccabile)
+  1. Dark Gray: 37
+  1. Brown: 36
+  1. Black: 18
+  1. Light Gray: 7
+  1. Light Yellow: 7
+  1. White: 4
+  1. Light Brown: 2 (Sbloccabile)
+
 ### Brindisiplace (Brindisi)
 ![Brindisiplace (Brindisi)](/templates/wplace/brindisiplace_brindisiplace.png)
 
@@ -1089,21 +1107,60 @@ Colori Sbloccabili
   1. Medium Gray: 19 (Sbloccabile)
 
 ### Teto di Mesmerizer (Brindisi)
-![Teto di Mesmerizer (Brindisi)](/templates/wplace/brindisiplace_marisa_touhou.png)
+![Teto di Mesmerizer (Brindisi)](/templates/wplace/brindisiplace_teto_mesmerizer.png)
 
-- Coordinate: [1125 770 276 596](https://wplace.live/?lat=40.632364319788195&lng=17.805058593749976&zoom=17)
-- Link Template: [/templates/wplace/brindisiplace_marisa_touhou.png](/templates/wplace/brindisiplace_marisa_touhou.png)
-- Lista Pixel: (Totale: 687, 5.7 ore)
-  1. Black: 271
-  1. Light Gray: 77
-  1. Gold: 65
-  1. White: 64
-  1. Dark Brown: 59
-  1. Gray: 52
-  1. Yellow: 39
-  1. Light Peach: 22 (Sbloccabile)
-  1. Light Pink: 19
-  1. Medium Gray: 19 (Sbloccabile)
+- Coordinate: [1125 770 276 596](https://wplace.live/?lat=40.623692690400276&lng=17.81718749999999&zoom=13)
+- Link Template: [/templates/wplace/brindisiplace_teto_mesmerizer.png](/templates/wplace/brindisiplace_teto_mesmerizer.png)
+- Lista Pixel: (Totale: 18318, 152.7 ore)
+  1. Black: 3063
+  1. White: 2179
+  1. Dark Red: 2135 (Sbloccabile)
+  1. Dark Peach: 2113 (Sbloccabile)
+  1. Light Gray: 850
+  1. Dark Pink: 770
+  1. Light Slate Blue: 725 (Sbloccabile)
+  1. Slate Blue: 593 (Sbloccabile)
+  1. Red: 535
+  1. Deep Red: 505
+  1. Pink: 492
+  1. Dark Brown: 410
+  1. Light Slate: 384 (Sbloccabile)
+  1. Dark Slate: 358 (Sbloccabile)
+  1. Beige: 294
+  1. Medium Gray: 260 (Sbloccabile)
+  1. Dark Gray: 252
+  1. Light Pink: 245
+  1. Yellow: 199
+  1. Light Goldenrod: 189 (Sbloccabile)
+  1. Light Purple: 184
+  1. Light Indigo: 174
+  1. Dark Purple: 168
+  1. Light Cyan: 141 (Sbloccabile)
+  1. Light Beige: 114 (Sbloccabile)
+  1. Purple: 108
+  1. Dark Slate Blue: 103 (Sbloccabile)
+  1. Gray: 94
+  1. Light Peach: 92 (Sbloccabile)
+  1. Slate: 91 (Sbloccabile)
+  1. Peach: 88 (Sbloccabile)
+  1. Dark Tan: 74 (Sbloccabile)
+  1. Dark Beige: 70 (Sbloccabile)
+  1. Light Brown: 44 (Sbloccabile)
+  1. Tan: 37 (Sbloccabile)
+  1. Brown: 36
+  1. Dark Goldenrod: 27 (Sbloccabile)
+  1. Goldenrod: 20 (Sbloccabile)
+  1. Dark Orange: 19 (Sbloccabile)
+  1. Light Yellow: 16
+  1. Dark Indigo: 15 (Sbloccabile)
+  1. Light Tan: 13 (Sbloccabile)
+  1. Light Stone: 10 (Sbloccabile)
+  1. Gold: 8
+  1. Dark Stone: 8 (Sbloccabile)
+  1. Stone: 6 (Sbloccabile)
+  1. Light Blue: 3 (Sbloccabile)
+  1. Blue: 2
+  1. Dark Olive: 2 (Sbloccabile)
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`
@@ -1225,6 +1282,8 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Grief alla bandiera dell'URSS a Milano
 - Diegodj34 #5625228 
   * Grief alla bandiera dell'URSS a Milano
+- Danagotta777 #7296342 
+  * Grief al Che di Livorno
 
 # canvas.place
 Il sito ha oramai chiuso nel 2020. L'unico progetto è stato fatto da FalB e Renesto101.

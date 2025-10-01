@@ -859,6 +859,32 @@ Colori Sbloccabili
   1. White: 373
   1. Cyan: 6
 
+### Brindisiplace (Brindisi)
+![Brindisiplace (Brindisi)](/templates/wplace/brindisiplace_brindisiplace.png)
+
+- Coordinate: [1125 770 554 909](https://wplace.live/?lat=40.587126060619795&lng=17.899277343749986&zoom=12)
+- Link Template: [/templates/wplace/brindisiplace_brindisiplace.png](/templates/wplace/brindisiplace_brindisiplace.png)
+- Lista Pixel: (Totale: 24164, 201.4 ore)
+  1. Red: 9420
+  1. Deep Red: 4592
+  1. Orange: 4326
+  1. Brown: 3006
+  1. Gold: 1065
+  1. Black: 466
+  1. White: 455
+  1. Yellow: 304
+  1. Dark Brown: 242
+  1. Light Olive: 141 (Sbloccabile)
+  1. Olive: 104 (Sbloccabile)
+  1. Beige: 13
+  1. Dark Orange: 6 (Sbloccabile)
+  1. Dark Olive: 5 (Sbloccabile)
+  1. Dark Tan: 5 (Sbloccabile)
+  1. Tan: 5 (Sbloccabile)
+  1. Light Yellow: 4
+  1. Light Tan: 3 (Sbloccabile)
+  1. Dark Red: 2 (Sbloccabile)
+
 ### Dorothy di Va-11 Hall-A (Brindisi)
 ![Dorothy di Va-11 Hall-A (Brindisi)](/templates/wplace/brindisiplace_dorothy_va11_halla.png)
 

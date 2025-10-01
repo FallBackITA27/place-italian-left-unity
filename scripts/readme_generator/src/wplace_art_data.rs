@@ -1,8 +1,28 @@
 use wplace_common::art_data::ArtData;
 
+pub fn to_markdown_whole_list(v: &mut Vec<ArtData>) -> String {
+    v.sort_by(|a, b| {
+        a.get_alliance()
+            .partial_cmp(&b.get_alliance())
+            .unwrap_or(std::cmp::Ordering::Equal)
+    });
+    let mut out = String::new();
+    let mut last_alliance = None;
+    for item in v {
+        if last_alliance != Some(item.get_alliance()) {
+            out += item.get_alliance().to_markdown_alliance_list().as_str();
+        }
+
+        last_alliance = Some(item.get_alliance());
+
+        out += to_markdown_titles_str(item).as_str();
+    }
+    out
+}
+
 pub fn to_markdown_titles_str(v: &ArtData) -> String {
     format!(
-        "    1. [{}](#{})",
+        "    1. [{}](#{})\n",
         v.get_title(),
         v.get_title()
             .to_lowercase()

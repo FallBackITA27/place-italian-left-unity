@@ -87,7 +87,11 @@ pub enum Alliances {
 }
 
 impl Alliances {
-    fn to_markdown_alliance_list(self) -> String {
+    pub fn to_markdown_alliance_list(self) -> String {
+        if Alliances::None == self {
+            return String::from("  - [Progetti](#progetti)\n");
+        }
+
         format!(
             "  - [Progetti {}](#progetti-{})\n",
             self,
@@ -99,13 +103,6 @@ impl Alliances {
                 .replace(",", "")
                 .replace("!", "")
         )
-    }
-
-    pub fn markdown_list() -> String {
-        [Self::BrindisiPlace]
-            .into_iter()
-            .map(|v| v.to_markdown_alliance_list())
-            .collect()
     }
 }
 

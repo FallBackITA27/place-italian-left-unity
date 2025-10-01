@@ -14,12 +14,12 @@ fn main() {
         .open("./out.md")
         .expect("Couldn't open file");
 
-    let data = wplace_common::art_data::ArtData::new();
+    let mut data = wplace_common::art_data::ArtData::new();
 
     let mut ilu_wplace_art_data = Vec::new();
     let mut brindisiplace_wplace_art_data = Vec::new();
 
-    for art_data in data {
+    for art_data in data.iter() {
         match art_data.get_alliance() {
             Alliances::None => ilu_wplace_art_data.push(art_data),
             Alliances::BrindisiPlace => brindisiplace_wplace_art_data.push(art_data),
@@ -29,12 +29,6 @@ fn main() {
     out.write_all(
         format!(
             include_str!("../template_README.md"),
-            wplace_project_list_points = ilu_wplace_art_data
-                .iter()
-                .map(|v| wplace_art_data::to_markdown_titles_str(v) + "\n")
-                .collect::<String>()
-                .trim_end(),
-            wplace_allies_list_points = Alliances::markdown_list().trim_end(),
             wplace_project_list = ilu_wplace_art_data
                 .iter()
                 .map(|v| {
@@ -60,6 +54,8 @@ fn main() {
                 .map(|v| v.to_markdown_list())
                 .collect::<String>()
                 .trim_end(),
+            wplace_project_list_points =
+                wplace_art_data::to_markdown_whole_list(&mut data).trim_end(),
         )
         .as_bytes(),
     )

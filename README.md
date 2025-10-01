@@ -63,6 +63,7 @@ Indice
     1. [Sakuya di Touhou (Brindisi)](#sakuya-di-touhou-brindisi)
     1. [Marisa di Touhou (Brindisi)](#marisa-di-touhou-brindisi)
     1. [Teto di Mesmerizer (Brindisi)](#teto-di-mesmerizer-brindisi)
+    1. [Brindisi Basket (Brindisi)](#brindisi-basket-brindisi)
     1. [Yukari di Girls Und Panzer (Bari)](#yukari-di-girls-und-panzer-bari)
     1. [Roulxs Kaard di Deltarune (Bari)](#roulxs-kaard-di-deltarune-bari)
     1. [Lain (Bari)](#lain-bari)
@@ -1126,6 +1127,15 @@ Colori Sbloccabili
   1. Blue: 2
   1. Dark Olive: 2 (Sbloccabile)
 
+### Brindisi Basket (Brindisi)
+![Brindisi Basket (Brindisi)](/templates/wplace/brindisiplace_brindisi_basket.png)
+
+- Coordinate: [1126 770 533 466](https://wplace.live/?lat=40.646369957801795&lng=18.02900390625001&zoom=14)
+- Link Template: [/templates/wplace/brindisiplace_brindisi_basket.png](/templates/wplace/brindisiplace_brindisi_basket.png)
+- Lista Pixel: (Totale: 4459, 37.2 ore)
+  1. Blue: 2378
+  1. White: 2081
+
 ### Yukari di Girls Und Panzer (Bari)
 ![Yukari di Girls Und Panzer (Bari)](/templates/wplace/brindisiplace_yukari_gup.png)
 
@@ -1288,7 +1298,7 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Grief al poster Antifascista a Bologna
 - TallTablet #11757130 
   * Grief al poster Antifascista a Bologna
-- gatto2210 #10354131 [Faenza Merda] 
+- gatto2210 #10354131 [Faenza Merda] (397702)
   * Grief al logo Antifa a Ravenna
 - Unrealdemon4k #11751294 [UABOGANG] 
   * Grief di bandiere queer a Predappio
@@ -1320,6 +1330,8 @@ Gli account dichiarati Alt è per presentimento e coincidenze negli orari di att
   * Grief alla bandiera dell'URSS a Milano
 - Danagotta777 #7296342 
   * Grief al Che di Livorno
+- Patton Online #6760265 [Lega Acquatica] (467550)
+  * Grief del logo Antifa a Ravenna
 
 # canvas.place
 Il sito ha oramai chiuso nel 2020. L'unico progetto è stato fatto da FalB e Renesto101.

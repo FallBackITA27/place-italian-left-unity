@@ -47,9 +47,12 @@ impl GriefCheck {
         self.wrong_px_coords
             .iter()
             .map(|v| {
-                String::from("  * ")
+                let latlong = wplace_common::art_data::MapCoords::from_tile_coords(&v.0, 1);
+                String::from("  * [")
                     + print_tile_coords(&v.0).as_str()
-                    + " "
+                    + "]("
+                    + latlong.get_link().as_str()
+                    + ") "
                     + v.1.to_string().as_str()
                     + "\n"
             })

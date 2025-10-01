@@ -70,7 +70,7 @@ async fn main() {
 
     out.write_all(
         format!(
-            "## Sommario: {summary_time:.1}, manca il {:.2}%\n",
+            "## Sommario: {summary_time:.1}h, manca il {:.2}%\n",
             (total_missing_px as f64) / (total_px as f64) * 100.0
         )
         .as_bytes(),

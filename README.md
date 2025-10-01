@@ -827,56 +827,6 @@ Colori Sbloccabili
 
 ## Progetti BrindisiPlace
 
-### Yukari di Girls Und Panzer (Bari)
-![Yukari di Girls Und Panzer (Bari)](/templates/wplace/brindisiplace_yukari_gup.png)
-
-- Coordinate: [1120 766 115 945](https://wplace.live/?lat=41.116839070147535&lng=16.89943359374999&zoom=17)
-- Link Template: [/templates/wplace/brindisiplace_yukari_gup.png](/templates/wplace/brindisiplace_yukari_gup.png)
-- Lista Pixel: (Totale: 1248, 10.4 ore)
-  1. Black: 321
-  1. White: 233
-  1. Tan: 171 (Sbloccabile)
-  1. Dark Brown: 122
-  1. Light Gray: 109
-  1. Light Beige: 74 (Sbloccabile)
-  1. Dark Gray: 45
-  1. Gray: 45
-  1. Blue: 43
-  1. Dark Green: 34
-  1. Cyan: 34
-  1. Dark Teal: 7
-  1. Pink: 4
-  1. Light Pink: 4
-  1. Dark Pink: 2
-
-### Roulxs Kaard di Deltarune (Bari)
-![Roulxs Kaard di Deltarune (Bari)](/templates/wplace/brindisiplace_roulxs_kaard.png)
-
-- Coordinate: [1119 766 975 976](https://wplace.live/?lat=41.11193903838421&lng=16.874648437500014&zoom=17)
-- Link Template: [/templates/wplace/brindisiplace_roulxs_kaard.png](/templates/wplace/brindisiplace_roulxs_kaard.png)
-- Lista Pixel: (Totale: 1110, 9.2 ore)
-  1. Blue: 731
-  1. White: 373
-  1. Cyan: 6
-
-### Lain (Bari)
-![Lain (Bari)](/templates/wplace/brindisiplace_lain_bari.png)
-
-- Coordinate: [1119 766 950 968](https://wplace.live/?lat=41.114720182377454&lng=16.868847656249983&zoom=17)
-- Link Template: [/templates/wplace/brindisiplace_lain_bari.png](/templates/wplace/brindisiplace_lain_bari.png)
-- Lista Pixel: (Totale: 745, 6.2 ore)
-  1. Dark Brown: 396
-  1. Light Beige: 140 (Sbloccabile)
-  1. Beige: 58
-  1. Light Tan: 40 (Sbloccabile)
-  1. Dark Gray: 37
-  1. Brown: 36
-  1. Black: 18
-  1. Light Gray: 7
-  1. Light Yellow: 7
-  1. White: 4
-  1. Light Brown: 2 (Sbloccabile)
-
 ### Brindisiplace (Brindisi)
 ![Brindisiplace (Brindisi)](/templates/wplace/brindisiplace_brindisiplace.png)
 
@@ -1161,6 +1111,78 @@ Colori Sbloccabili
   1. Light Blue: 3 (Sbloccabile)
   1. Blue: 2
   1. Dark Olive: 2 (Sbloccabile)
+
+### Yukari di Girls Und Panzer (Bari)
+![Yukari di Girls Und Panzer (Bari)](/templates/wplace/brindisiplace_yukari_gup.png)
+
+- Coordinate: [1120 766 115 945](https://wplace.live/?lat=41.116839070147535&lng=16.89943359374999&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_yukari_gup.png](/templates/wplace/brindisiplace_yukari_gup.png)
+- Lista Pixel: (Totale: 1248, 10.4 ore)
+  1. Black: 321
+  1. White: 233
+  1. Tan: 171 (Sbloccabile)
+  1. Dark Brown: 122
+  1. Light Gray: 109
+  1. Light Beige: 74 (Sbloccabile)
+  1. Dark Gray: 45
+  1. Gray: 45
+  1. Blue: 43
+  1. Dark Green: 34
+  1. Cyan: 34
+  1. Dark Teal: 7
+  1. Pink: 4
+  1. Light Pink: 4
+  1. Dark Pink: 2
+
+### Roulxs Kaard di Deltarune (Bari)
+![Roulxs Kaard di Deltarune (Bari)](/templates/wplace/brindisiplace_roulxs_kaard.png)
+
+- Coordinate: [1119 766 975 976](https://wplace.live/?lat=41.11193903838421&lng=16.874648437500014&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_roulxs_kaard.png](/templates/wplace/brindisiplace_roulxs_kaard.png)
+- Lista Pixel: (Totale: 1110, 9.2 ore)
+  1. Blue: 731
+  1. White: 373
+  1. Cyan: 6
+
+### Lain (Bari)
+![Lain (Bari)](/templates/wplace/brindisiplace_lain_bari.png)
+
+- Coordinate: [1119 766 950 968](https://wplace.live/?lat=41.114720182377454&lng=16.868847656249983&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_lain_bari.png](/templates/wplace/brindisiplace_lain_bari.png)
+- Lista Pixel: (Totale: 745, 6.2 ore)
+  1. Dark Brown: 396
+  1. Light Beige: 140 (Sbloccabile)
+  1. Beige: 58
+  1. Light Tan: 40 (Sbloccabile)
+  1. Dark Gray: 37
+  1. Brown: 36
+  1. Black: 18
+  1. Light Gray: 7
+  1. Light Yellow: 7
+  1. White: 4
+  1. Light Brown: 2 (Sbloccabile)
+
+### Madotsuki di Yume Nikki (Bari)
+![Madotsuki di Yume Nikki (Bari)](/templates/wplace/brindisiplace_madotsuki_yume_nikki_bari.png)
+
+- Coordinate: [1119 767 955 10](https://wplace.live/?lat=41.10942266372447&lng=16.868496093749997&zoom=17)
+- Link Template: [/templates/wplace/brindisiplace_madotsuki_yume_nikki_bari.png](/templates/wplace/brindisiplace_madotsuki_yume_nikki_bari.png)
+- Lista Pixel: (Totale: 288, 2.4 ore)
+  1. Dark Peach: 53 (Sbloccabile)
+  1. Dark Brown: 44
+  1. Beige: 44
+  1. Dark Slate Blue: 32 (Sbloccabile)
+  1. Red: 28
+  1. Peach: 27 (Sbloccabile)
+  1. Brown: 16
+  1. Light Red: 16 (Sbloccabile)
+  1. Deep Red: 6
+  1. Light Gray: 5
+  1. Black: 4
+  1. Light Yellow: 4
+  1. Light Pink: 4
+  1. Gray: 3
+  1. Dark Red: 2 (Sbloccabile)
 
 ## Lista Griefer
 Il formato è `Nome #Id [Alleanza]`

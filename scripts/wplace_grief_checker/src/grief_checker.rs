@@ -151,9 +151,9 @@ impl GriefChecker {
                 let tile_pixel =
                     unsafe { tile.unsafe_get_pixel(tile_x_coord as u32, tile_y_coord as u32) };
 
-                if let Ok(v) = Color::try_from(tile_pixel.0)
-                    && v == template_color
-                {
+                let tile_color = Color::try_from(tile_pixel.0).unwrap_or(Color::Transparent);
+
+                if tile_color == template_color {
                     continue;
                 }
                 incorrect_px_count += 1;

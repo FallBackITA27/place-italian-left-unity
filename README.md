@@ -1,3 +1,7 @@
+# ⚠️⚠️ NOTICE ⚠️⚠️
+This repo is no longer under active development. All development moved to https://github.com/Place-Italian-Left-Unityhttps://github.com/Place-Italian-Left-Unity
+
+
 This readme is meant to document everything by the group Italian Left Unity active on various place sites. Enjoy the pretty Italian words on this document.
 
 Questo readme dovrebbe documentare tutto del gruppo Italian Left Unity su vari siti simil-place.
